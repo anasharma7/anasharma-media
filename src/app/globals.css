@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ══════════════════════════════════════════════════════════════════════
+   DESIGN SYSTEM — anasharma.com
+   Atmospheric darkness, not flat dark mode.
+   Three background layers: base gradient → grain texture → focal glow.
+   Two typographic registers: mono shell / serif body.
+   Five content-type surfaces: essay, signal, fragment, link, dispatch.
+   ══════════════════════════════════════════════════════════════════════ */
+
 /* ─── Reset ──────────────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -13,54 +21,92 @@ html {
   text-rendering: optimizeLegibility;
 }
 
-/* ─── Void base — deep scan-line texture ─────────────────────────────── */
+/* ─── Atmospheric base — three layers ───────────────────────────────── */
 body {
-  background-color: #060606;
+  /* Layer 1: base charcoal-to-deep-navy gradient */
+  background-color: #0d0f14;
   background-image:
-    repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 2px,
-      rgba(255,255,255,0.012) 2px,
-      rgba(255,255,255,0.012) 4px
+    /* Layer 3: subtle warm focal glow, upper-left anchor */
+    radial-gradient(
+      ellipse 80% 60% at 15% 20%,
+      rgba(28, 24, 18, 0.7) 0%,
+      transparent 70%
+    ),
+    /* Layer 2: cooler atmospheric depth toward right */
+    radial-gradient(
+      ellipse 60% 80% at 90% 60%,
+      rgba(12, 15, 24, 0.8) 0%,
+      transparent 70%
+    ),
+    /* Layer 1: directional gradient — warm charcoal to cool navy */
+    linear-gradient(
+      158deg,
+      #111018 0%,
+      #0d0f14 35%,
+      #0b0e18 65%,
+      #0a0d16 100%
     );
-  color: #dedad3;
+  color: #d8d4cc;
   font-family: var(--font-inter), -apple-system, "Segoe UI", system-ui, sans-serif;
   line-height: 1.55;
   min-height: 100vh;
   overflow-x: hidden;
+  /* Layer 4: grain texture via pseudo-element on html */
 }
+
+/* ─── Grain texture overlay ──────────────────────────────────────────── */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.028;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-size: 180px 180px;
+}
+
+/* All content must sit above grain */
+body > * { position: relative; z-index: 1; }
 
 /* ─── Selection ──────────────────────────────────────────────────────── */
 ::selection {
-  background: rgba(200, 169, 110, 0.2);
-  color: #e8e6e1;
+  background: rgba(200, 169, 110, 0.18);
+  color: #e8e6e0;
 }
 
 /* ─── Scrollbar ──────────────────────────────────────────────────────── */
-::-webkit-scrollbar { width: 3px; }
+::-webkit-scrollbar { width: 2px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: #1e1e1e; border-radius: 0; }
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #c8a96e33, #1e1e2a);
+  border-radius: 0;
+}
 
-/* ─── Terminal Status Bar (header) ───────────────────────────────────── */
+/* ══════════════════════════════════════════════════════════════════════
+   HEADER / STATUS BAR
+   ══════════════════════════════════════════════════════════════════════ */
+
 .status-bar {
-  height: 44px;
-  background: rgba(6,6,6,0.97);
-  border-bottom: 1px solid #161616;
+  height: 42px;
+  background: rgba(11, 13, 20, 0.92);
+  border-bottom: 1px solid rgba(255,255,255,0.04);
   display: flex;
   align-items: center;
   position: sticky;
   top: 0;
   z-index: 100;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(16px) saturate(1.2);
+  -webkit-backdrop-filter: blur(16px) saturate(1.2);
+  /* Subtle bottom glow to separate from content */
+  box-shadow: 0 1px 0 rgba(200,169,110,0.04), 0 4px 24px rgba(0,0,0,0.4);
 }
 
 .status-bar-inner {
   width: 100%;
-  max-width: 1400px;
+  max-width: 1440px;
   margin: 0 auto;
-  padding: 0 1.25rem;
+  padding: 0 1.5rem;
   display: grid;
   grid-template-columns: auto 1fr auto;
   align-items: center;
@@ -69,48 +115,72 @@ body {
 
 .wordmark {
   font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
-  font-size: 0.72rem;
-  font-weight: 500;
-  letter-spacing: 0.06em;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
   color: #c8a96e;
   text-decoration: none;
   white-space: nowrap;
+  transition: color 0.2s, text-shadow 0.2s;
 }
 
-.wordmark:hover { color: #e8c88e; }
+.wordmark:hover {
+  color: #e0c080;
+  text-shadow: 0 0 12px rgba(200,169,110,0.4);
+}
 
+/* Live pulse dot */
+.live-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: #c8a96e;
+  display: inline-block;
+  animation: pulse-dot 2.4s ease-in-out infinite;
+  box-shadow: 0 0 0 0 rgba(200,169,110,0.6);
+}
+
+@keyframes pulse-dot {
+  0%   { box-shadow: 0 0 0 0 rgba(200,169,110,0.5); }
+  50%  { box-shadow: 0 0 0 4px rgba(200,169,110,0); }
+  100% { box-shadow: 0 0 0 0 rgba(200,169,110,0); }
+}
+
+/* Ticker */
 .ticker-rail {
   overflow: hidden;
-  height: 44px;
+  height: 42px;
   display: flex;
   align-items: center;
-  mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
-  -webkit-mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+  mask-image: linear-gradient(to right, transparent, black 6%, black 94%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 6%, black 94%, transparent);
 }
 
 .ticker-track {
   display: flex;
-  gap: 3rem;
-  animation: ticker-scroll 40s linear infinite;
+  gap: 0;
+  animation: ticker-scroll 55s linear infinite;
   white-space: nowrap;
 }
 
 .ticker-track:hover { animation-play-state: paused; }
 
 .ticker-item {
-  font-size: 0.68rem;
-  color: #3e3c38;
-  letter-spacing: 0.05em;
+  font-size: 0.66rem;
+  color: #302e2a;
+  letter-spacing: 0.04em;
+  padding: 0 2.5rem;
   cursor: default;
-  transition: color 0.15s;
+  transition: color 0.2s;
 }
 
-.ticker-item:hover { color: #7a7872; }
+.ticker-item:hover { color: #5a5850; }
 
 .ticker-sep {
-  color: #1e1c1a;
-  font-size: 0.6rem;
+  color: #1e1c18;
+  font-size: 0.55rem;
   user-select: none;
+  padding: 0 0.5rem;
 }
 
 @keyframes ticker-scroll {
@@ -121,282 +191,473 @@ body {
 .status-nav {
   display: flex;
   align-items: center;
-  gap: 1.5rem;
+  gap: 1.75rem;
 }
 
 .status-nav-link {
   font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
-  font-size: 0.65rem;
+  font-size: 0.63rem;
   font-weight: 400;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: #3e3c38;
+  color: #38352e;
   text-decoration: none;
-  transition: color 0.12s;
+  transition: color 0.15s;
 }
 
-.status-nav-link:hover { color: #9a9690; }
+.status-nav-link:hover { color: #8a8680; }
 .status-nav-link.active { color: #c8a96e; }
 
-/* ─── Stream Layout ───────────────────────────────────────────────────── */
+/* ══════════════════════════════════════════════════════════════════════
+   STREAM LAYOUT — three zones
+   Zone A: main stream + side column (fills viewport)
+   Zone B: dispatch band (dense link row, full width)
+   ══════════════════════════════════════════════════════════════════════ */
+
 .stream-layout {
-  max-width: 1400px;
+  max-width: 1440px;
   margin: 0 auto;
-  padding: 0 1.25rem;
+  padding: 0 1.5rem;
   display: grid;
-  grid-template-columns: 1fr 340px;
+  grid-template-columns: 1fr 320px;
   gap: 0;
-  min-height: calc(100vh - 44px);
+  align-items: start;
 }
 
 .stream-main {
-  border-right: 1px solid #111;
-  padding: 0 2rem 0 0;
+  border-right: 1px solid rgba(255,255,255,0.03);
+  padding-right: 2.25rem;
+  min-height: calc(100vh - 42px);
 }
 
 .stream-side {
-  padding: 0 0 0 1.75rem;
+  padding-left: 1.75rem;
 }
 
-/* ─── Feed Items — the core unit of the stream ───────────────────────── */
+/* ══════════════════════════════════════════════════════════════════════
+   CONTENT SURFACES — five distinct material types
+   ══════════════════════════════════════════════════════════════════════ */
 
-/* Type: essay (primary) */
+/* ── 1. ESSAY (primary anchor items) ────────────────────────────────── */
 .feed-essay {
-  padding: 2rem 0;
-  border-bottom: 1px solid #0f0f0f;
-  transition: background 0.15s;
+  padding: 1.75rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.03);
   cursor: pointer;
+  position: relative;
+  transition: padding-left 0.25s ease;
 }
 
-.feed-essay:hover { background: rgba(255,255,255,0.012); }
-.feed-essay:hover .feed-essay-title { color: #c8a96e; }
+/* Left glow bar that reveals on hover */
+.feed-essay::before {
+  content: "";
+  position: absolute;
+  left: -1.5rem;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: linear-gradient(to bottom, transparent, #c8a96e 40%, #c8a96e 60%, transparent);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.feed-essay:hover { padding-left: 0.5rem; }
+.feed-essay:hover::before { opacity: 1; }
+.feed-essay:hover .feed-essay-title { color: #c8b87a; }
+.feed-essay:hover .feed-essay-excerpt { color: #4a4840; }
+.feed-essay:hover .read-arrow { color: #c8a96e; transform: translateX(4px); }
 
 .feed-essay-eyebrow {
   display: flex;
   align-items: center;
   gap: 0.6rem;
-  margin-bottom: 0.7rem;
+  margin-bottom: 0.65rem;
 }
 
 .feed-essay-title {
-  font-size: clamp(1.1rem, 2.2vw, 1.6rem);
+  font-size: clamp(1rem, 2vw, 1.5rem);
   font-weight: 700;
-  letter-spacing: -0.035em;
-  line-height: 1.15;
-  color: #e0ddd6;
-  margin-bottom: 0.65rem;
-  transition: color 0.15s;
+  letter-spacing: -0.03em;
+  line-height: 1.18;
+  color: #cdc9c0;
+  margin-bottom: 0.6rem;
+  transition: color 0.2s;
 }
 
 .feed-essay-excerpt {
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.9rem;
-  line-height: 1.7;
-  color: #5e5b56;
-  max-width: 60ch;
-  margin-bottom: 0.85rem;
+  font-size: 0.875rem;
+  line-height: 1.72;
+  color: #3e3c38;
+  max-width: 62ch;
+  margin-bottom: 0.8rem;
+  transition: color 0.2s;
 }
 
-/* Type: essay (featured — larger) */
-.feed-essay-featured {
-  padding: 2.5rem 0;
-  border-bottom: 1px solid #111;
-}
+/* Featured variant */
+.feed-essay-featured { padding: 2.25rem 0; }
 
 .feed-essay-featured .feed-essay-title {
-  font-size: clamp(1.5rem, 3.5vw, 2.5rem);
-  letter-spacing: -0.05em;
-  color: #e8e6e1;
-  max-width: 22ch;
+  font-size: clamp(1.4rem, 3vw, 2.25rem);
+  letter-spacing: -0.045em;
+  line-height: 1.1;
+  color: #e0dcd4;
+  max-width: 24ch;
 }
 
 .feed-essay-featured .feed-essay-excerpt {
-  font-size: 1rem;
-  color: #666360;
-  max-width: 55ch;
+  font-size: 0.95rem;
+  color: #48453e;
+  max-width: 58ch;
 }
 
-/* Type: signal (inline observation) */
+/* ── 2. SIGNAL (ambient observations) ───────────────────────────────── */
 .feed-signal {
-  padding: 1rem 0;
-  border-bottom: 1px solid #0d0d0d;
+  padding: 0.9rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.025);
+  position: relative;
   cursor: default;
+}
+
+.feed-signal-bar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: #1e1c18;
+  transition: background 0.3s, box-shadow 0.3s;
+}
+
+.feed-signal:hover .feed-signal-bar {
+  background: #c8a96e;
+  box-shadow: 0 0 8px rgba(200,169,110,0.25);
 }
 
 .feed-signal-text {
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.88rem;
-  line-height: 1.7;
-  color: #6e6a64;
+  font-size: 0.875rem;
+  line-height: 1.72;
+  color: #4a4840;
   font-style: italic;
-  padding-left: 1rem;
-  border-left: 1px solid #1e1e1e;
-  transition: border-color 0.2s, color 0.2s;
+  padding-left: 1.25rem;
+  transition: color 0.25s;
 }
 
-.feed-signal:hover .feed-signal-text {
-  border-color: #c8a96e;
-  color: #9a9690;
+.feed-signal:hover .feed-signal-text { color: #7a7468; }
+
+.feed-signal-meta {
+  padding-left: 1.25rem;
+  margin-top: 0.4rem;
 }
 
-/* Type: fragment (very short, stark) */
+/* ── 3. FRAGMENT (stark monospace flashes) ───────────────────────────── */
 .feed-fragment {
-  padding: 0.85rem 0;
-  border-bottom: 1px solid #0d0d0d;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.02);
 }
 
 .feed-fragment-text {
   font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
-  font-size: 0.75rem;
-  line-height: 1.6;
-  color: #3a3835;
-  letter-spacing: 0.01em;
+  font-size: 0.7rem;
+  line-height: 1.5;
+  color: #242220;
+  letter-spacing: 0.02em;
+  transition: color 0.2s;
+}
+
+.feed-fragment:hover .feed-fragment-text { color: #4a4840; }
+
+/* ── 4. LINK (external signal/news item) ─────────────────────────────── */
+.feed-link {
+  padding: 0.85rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.025);
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1.5rem;
+  align-items: baseline;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.feed-link:hover { background: rgba(255,255,255,0.012); margin: 0 -0.5rem; padding-left: 0.5rem; padding-right: 0.5rem; }
+.feed-link:hover .feed-link-title { color: #a89060; }
+
+.feed-link-title {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #38352e;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
   transition: color 0.15s;
 }
 
-.feed-fragment:hover .feed-fragment-text { color: #6a6662; }
+.feed-link-source {
+  font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
+  font-size: 0.58rem;
+  color: #252320;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
 
-/* ─── Sidebar items ───────────────────────────────────────────────────── */
-.side-header {
-  height: 44px;
+/* ── 5. DISPATCH band (dense headline row, full-width) ───────────────── */
+.dispatch-band {
+  border-top: 1px solid rgba(255,255,255,0.04);
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  background: rgba(255,255,255,0.008);
+  padding: 0;
+  overflow: hidden;
+}
+
+.dispatch-inner {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.dispatch-header {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid #0f0f0f;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.03);
+}
+
+.dispatch-label {
+  font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
+  font-size: 0.58rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #c8a96e;
+  white-space: nowrap;
+}
+
+.dispatch-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+}
+
+.dispatch-item {
+  padding: 1rem 0;
+  border-right: 1px solid rgba(255,255,255,0.03);
+  cursor: pointer;
+  transition: background 0.15s;
+  position: relative;
+}
+
+.dispatch-item:last-child { border-right: none; }
+.dispatch-item:nth-child(n+4) { border-top: 1px solid rgba(255,255,255,0.03); }
+
+.dispatch-item:hover {
+  background: rgba(255,255,255,0.015);
+}
+
+.dispatch-item:hover .dispatch-item-title { color: #a89060; }
+
+.dispatch-item-inner {
+  padding: 0 1.25rem 0 0;
+}
+
+.dispatch-item:nth-child(n+2) .dispatch-item-inner {
+  padding: 0 1.25rem;
+}
+
+.dispatch-item-category {
+  font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
+  font-size: 0.55rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #242220;
+  margin-bottom: 0.3rem;
+}
+
+.dispatch-item-title {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #2e2c28;
+  line-height: 1.45;
+  letter-spacing: -0.01em;
+  transition: color 0.15s;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.dispatch-item-source {
+  font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
+  font-size: 0.55rem;
+  color: #1e1c18;
+  letter-spacing: 0.06em;
+  margin-top: 0.3rem;
+}
+
+/* ══════════════════════════════════════════════════════════════════════
+   SIDEBAR / RIGHT COLUMN
+   ══════════════════════════════════════════════════════════════════════ */
+
+.side-header {
+  height: 42px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  border-bottom: 1px solid rgba(255,255,255,0.03);
   position: sticky;
-  top: 44px;
-  background: rgba(6,6,6,0.97);
+  top: 42px;
+  background: rgba(11,13,20,0.9);
   z-index: 10;
   backdrop-filter: blur(8px);
 }
 
 .side-header-label {
   font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
-  font-size: 0.6rem;
+  font-size: 0.58rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: #2e2c2a;
+  color: #2a2824;
 }
 
 .side-signal {
-  padding: 1.1rem 0;
-  border-bottom: 1px solid #0d0d0d;
+  padding: 1rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.025);
+  transition: background 0.15s;
 }
+
+.side-signal:hover { background: rgba(255,255,255,0.01); }
 
 .side-signal-text {
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   line-height: 1.65;
-  color: #4a4845;
+  color: #3a3832;
   font-family: Georgia, serif;
   font-style: italic;
-  margin-bottom: 0.4rem;
-  transition: color 0.15s;
+  margin-bottom: 0.35rem;
+  transition: color 0.2s;
 }
 
-.side-signal:hover .side-signal-text { color: #7a7672; }
+.side-signal:hover .side-signal-text { color: #5a5650; }
 
 .side-signal-meta {
   font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
-  font-size: 0.6rem;
-  color: #252320;
-  letter-spacing: 0.05em;
-  display: flex;
-  gap: 0.6rem;
-  align-items: center;
+  font-size: 0.58rem;
+  color: #1e1c18;
+  letter-spacing: 0.06em;
 }
 
-/* ─── Type tags ───────────────────────────────────────────────────────── */
+/* ══════════════════════════════════════════════════════════════════════
+   TYPE PRIMITIVES (shell UI elements)
+   ══════════════════════════════════════════════════════════════════════ */
+
 .type-tag {
   font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
-  font-size: 0.58rem;
+  font-size: 0.56rem;
   font-weight: 500;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: #2e2c2a;
-  border: 1px solid #1a1a1a;
+  color: #2a2824;
+  border: 1px solid rgba(255,255,255,0.04);
   padding: 0.18em 0.6em;
   border-radius: 1px;
+  white-space: nowrap;
 }
 
-.type-tag-essay { border-color: #252218; color: #6a5e38; }
-.type-tag-signal { border-color: #1e1410; color: #664433; }
-.type-tag-featured { border-color: rgba(200,169,110,0.25); color: #c8a96e; }
+.type-tag-essay {
+  border-color: rgba(200,169,110,0.12);
+  color: #5a5030;
+}
+
+.type-tag-signal {
+  border-color: rgba(180,80,40,0.12);
+  color: #5a3020;
+}
+
+.type-tag-featured {
+  border-color: rgba(200,169,110,0.3);
+  color: #c8a96e;
+}
+
+.type-tag-link {
+  border-color: rgba(100,140,200,0.12);
+  color: #304060;
+}
 
 .date-stamp {
   font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
-  font-size: 0.6rem;
-  color: #252320;
+  font-size: 0.58rem;
+  color: #222018;
   letter-spacing: 0.04em;
 }
 
 .read-arrow {
   font-size: 0.7rem;
-  color: #2e2c2a;
+  color: #2a2824;
   letter-spacing: 0.06em;
-  transition: color 0.15s, transform 0.15s;
+  transition: color 0.15s, transform 0.2s ease;
   display: inline-block;
 }
 
-.feed-essay:hover .read-arrow,
-.feed-essay-featured:hover .read-arrow {
-  color: #c8a96e;
-  transform: translateX(3px);
+/* ══════════════════════════════════════════════════════════════════════
+   STREAM STRUCTURE
+   ══════════════════════════════════════════════════════════════════════ */
+
+.masthead {
+  padding: 1.75rem 0 1.5rem;
+  border-bottom: 1px solid rgba(255,255,255,0.03);
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
 }
 
-/* ─── Stream divider / section break ─────────────────────────────────── */
+.masthead-label {
+  font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
+  font-size: 0.56rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #1a1814;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.masthead-descriptor {
+  font-size: 0.78rem;
+  color: #252220;
+  line-height: 1.5;
+  letter-spacing: 0.01em;
+}
+
 .stream-divider {
   display: flex;
   align-items: center;
   gap: 1rem;
-  padding: 1.75rem 0 0.5rem;
-  margin-bottom: 0;
+  padding: 1.5rem 0 0.25rem;
 }
 
 .stream-divider-label {
   font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
-  font-size: 0.58rem;
+  font-size: 0.55rem;
   letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: #222;
+  color: #1e1c18;
   white-space: nowrap;
 }
 
 .stream-divider-line {
   flex: 1;
   height: 1px;
-  background: #111;
+  background: rgba(255,255,255,0.03);
 }
 
-/* ─── Masthead area ───────────────────────────────────────────────────── */
-.masthead {
-  padding: 2rem 0 1.5rem;
-  border-bottom: 1px solid #0f0f0f;
-  display: flex;
-  flex-direction: column;
-  gap: 0.4rem;
-}
+/* ══════════════════════════════════════════════════════════════════════
+   PROSE — essay reading experience
+   ══════════════════════════════════════════════════════════════════════ */
 
-.masthead-label {
-  font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
-  font-size: 0.58rem;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: #1e1c1a;
-}
-
-.masthead-descriptor {
-  font-size: 0.8rem;
-  color: #2e2c2a;
-  line-height: 1.5;
-  letter-spacing: 0.01em;
-  max-width: 70ch;
-}
-
-/* ─── Prose / Article Body ───────────────────────────────────────────── */
 .prose-editorial {
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(1rem, 1.1vw, 1.1rem);
   line-height: 1.9;
-  color: #c8c4bc;
+  color: #b8b4ac;
   max-width: 66ch;
 }
 
@@ -404,7 +665,7 @@ body {
 .prose-editorial h3,
 .prose-editorial h4 {
   font-family: var(--font-inter), system-ui, sans-serif;
-  color: #dedad3;
+  color: #d8d4cc;
   font-weight: 600;
   letter-spacing: -0.02em;
   line-height: 1.2;
@@ -412,7 +673,7 @@ body {
   margin-bottom: 0.65em;
 }
 
-.prose-editorial h2 { font-size: 1.25rem; }
+.prose-editorial h2 { font-size: 1.2rem; }
 .prose-editorial h3 { font-size: 1.05rem; }
 
 .prose-editorial p { margin-bottom: 1.5em; }
@@ -430,17 +691,17 @@ body {
 .prose-editorial a {
   color: #c8a96e;
   text-decoration: underline;
-  text-decoration-color: rgba(200,169,110,0.3);
+  text-decoration-color: rgba(200,169,110,0.25);
   text-underline-offset: 2px;
   transition: text-decoration-color 0.12s;
 }
 .prose-editorial a:hover { text-decoration-color: #c8a96e; }
 
 .prose-editorial blockquote {
-  border-left: 1px solid #c8a96e;
+  border-left: 1px solid rgba(200,169,110,0.4);
   margin: 2em 0;
   padding: 0.5em 0 0.5em 1.5em;
-  color: #6a6660;
+  color: #504e48;
   font-style: italic;
   font-size: 1.05em;
 }
@@ -448,17 +709,17 @@ body {
 .prose-editorial code {
   font-family: ui-monospace, "Cascadia Code", Menlo, monospace;
   font-size: 0.82em;
-  background: #0e0e0e;
-  border: 1px solid #1a1a1a;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.06);
   border-radius: 2px;
   padding: 0.1em 0.35em;
-  color: #a8926a;
+  color: #9a8860;
 }
 
 .prose-editorial pre {
-  background: #080808;
-  border: 1px solid #181818;
-  border-radius: 2px;
+  background: rgba(0,0,0,0.3);
+  border: 1px solid rgba(255,255,255,0.05);
+  border-radius: 3px;
   padding: 1.25em 1.5em;
   overflow-x: auto;
   margin: 2em 0;
@@ -468,17 +729,17 @@ body {
   background: none;
   border: none;
   padding: 0;
-  color: #a8926a;
+  color: #9a8860;
 }
 
 .prose-editorial hr {
   border: none;
-  border-top: 1px solid #141414;
+  border-top: 1px solid rgba(255,255,255,0.05);
   margin: 3em 0;
 }
 
-.prose-editorial strong { color: #e0ddd6; font-weight: 600; }
-.prose-editorial em { color: #9a9690; }
+.prose-editorial strong { color: #d8d4cc; font-weight: 600; }
+.prose-editorial em { color: #8a8680; }
 
 .prose-editorial ul, .prose-editorial ol {
   padding-left: 1.4em;
@@ -486,16 +747,19 @@ body {
 }
 .prose-editorial li { margin-bottom: 0.4em; }
 
-/* ─── Article page header ────────────────────────────────────────────── */
+/* ══════════════════════════════════════════════════════════════════════
+   ARTICLE / ESSAY PAGE
+   ══════════════════════════════════════════════════════════════════════ */
+
 .article-header {
-  border-bottom: 1px solid #111;
-  padding: 3rem 0 2rem;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  padding: 2.75rem 0 2rem;
 }
 
 .article-crumb {
   font-family: ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace;
-  font-size: 0.6rem;
-  color: #252320;
+  font-size: 0.58rem;
+  color: #1e1c18;
   letter-spacing: 0.08em;
   text-decoration: none;
   transition: color 0.12s;
@@ -507,14 +771,14 @@ body {
   font-weight: 700;
   letter-spacing: -0.045em;
   line-height: 1.08;
-  color: #e8e6e1;
+  color: #e0dcd4;
 }
 
 .article-lede {
   font-family: Georgia, serif;
-  font-size: 1.05rem;
-  color: #4a4845;
-  line-height: 1.7;
+  font-size: 1rem;
+  color: #38362e;
+  line-height: 1.72;
   font-style: italic;
   max-width: 58ch;
 }
@@ -525,68 +789,69 @@ body {
   align-items: center;
   flex-wrap: wrap;
   padding-top: 1.25rem;
-  border-top: 1px solid #0f0f0f;
+  border-top: 1px solid rgba(255,255,255,0.03);
 }
 
-/* ─── Essays index page ───────────────────────────────────────────────── */
+/* ══════════════════════════════════════════════════════════════════════
+   ESSAYS INDEX
+   ══════════════════════════════════════════════════════════════════════ */
+
 .essays-row {
   display: grid;
   grid-template-columns: 1fr auto;
   gap: 2rem;
   padding: 1.5rem 0;
-  border-bottom: 1px solid #0d0d0d;
+  border-bottom: 1px solid rgba(255,255,255,0.025);
   cursor: pointer;
-  transition: background 0.12s;
+  transition: background 0.15s, padding-left 0.2s;
   align-items: baseline;
 }
 
-.essays-row:hover { background: rgba(255,255,255,0.01); }
-.essays-row:hover .essays-row-title { color: #c8a96e; }
+.essays-row:hover { padding-left: 0.5rem; background: rgba(255,255,255,0.01); }
+.essays-row:hover .essays-row-title { color: #a89060; }
 
 .essays-row-title {
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 600;
   letter-spacing: -0.02em;
-  color: #c8c4bc;
+  color: #4a4840;
   line-height: 1.25;
   margin-bottom: 0.3rem;
   transition: color 0.15s;
 }
 
 .essays-row-excerpt {
-  font-size: 0.8rem;
-  color: #333130;
+  font-size: 0.78rem;
+  color: #26241e;
   line-height: 1.55;
   font-family: Georgia, serif;
   font-style: italic;
   max-width: 65ch;
 }
 
-/* ─── Focus states ───────────────────────────────────────────────────── */
+/* ══════════════════════════════════════════════════════════════════════
+   FOCUS STATES
+   ══════════════════════════════════════════════════════════════════════ */
+
 :focus-visible {
-  outline: 1px solid rgba(200,169,110,0.5);
-  outline-offset: 2px;
+  outline: 1px solid rgba(200,169,110,0.4);
+  outline-offset: 3px;
 }
 
-/* ─── Responsive ─────────────────────────────────────────────────────── */
-@media (max-width: 860px) {
-  .stream-layout {
-    grid-template-columns: 1fr;
-  }
-  .stream-main {
-    border-right: none;
-    padding-right: 0;
-  }
-  .stream-side {
-    display: none;
-  }
-  .status-bar-inner {
-    grid-template-columns: auto 1fr auto;
-    gap: 1rem;
-  }
+/* ══════════════════════════════════════════════════════════════════════
+   RESPONSIVE
+   ══════════════════════════════════════════════════════════════════════ */
+
+@media (max-width: 900px) {
+  .stream-layout { grid-template-columns: 1fr; }
+  .stream-main { border-right: none; padding-right: 0; }
+  .stream-side { display: none; }
+  .dispatch-grid { grid-template-columns: repeat(2, 1fr); }
+  .status-bar-inner { gap: 1rem; }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 560px) {
   .ticker-rail { display: none; }
   .status-bar-inner { grid-template-columns: auto auto; }
+  .dispatch-grid { grid-template-columns: 1fr; }
 }
