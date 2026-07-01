@@ -1,0 +1,257 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── Base Reset & Typography ────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #080808;
+  color: #e8e6e1;
+  font-family: var(--font-inter), -apple-system, "Segoe UI", system-ui, sans-serif;
+  line-height: 1.65;
+  min-height: 100vh;
+}
+
+/* ─── Selection ──────────────────────────────────────────────────────── */
+::selection {
+  background: rgba(200, 169, 110, 0.25);
+  color: #e8e6e1;
+}
+
+/* ─── Scrollbar ──────────────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: #080808;
+}
+::-webkit-scrollbar-thumb {
+  background: #2a2a2a;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3a3a3a;
+}
+
+/* ─── Prose / Article Body ───────────────────────────────────────────── */
+.prose-editorial {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1rem, 1.1vw, 1.125rem);
+  line-height: 1.85;
+  color: #d4d0c8;
+  max-width: 68ch;
+}
+
+.prose-editorial h1,
+.prose-editorial h2,
+.prose-editorial h3,
+.prose-editorial h4 {
+  font-family: var(--font-inter), system-ui, sans-serif;
+  color: #e8e6e1;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  margin-top: 2.5em;
+  margin-bottom: 0.75em;
+}
+
+.prose-editorial h1 {
+  font-size: 2rem;
+}
+.prose-editorial h2 {
+  font-size: 1.5rem;
+}
+.prose-editorial h3 {
+  font-size: 1.2rem;
+}
+
+.prose-editorial p {
+  margin-bottom: 1.5em;
+}
+
+.prose-editorial p:first-of-type::first-letter {
+  float: left;
+  font-size: 3.5em;
+  line-height: 0.85;
+  margin: 0.05em 0.1em 0 0;
+  font-family: Georgia, serif;
+  color: #c8a96e;
+  font-weight: 400;
+}
+
+.prose-editorial a {
+  color: #c8a96e;
+  text-decoration: underline;
+  text-decoration-color: rgba(200, 169, 110, 0.35);
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.15s;
+}
+
+.prose-editorial a:hover {
+  text-decoration-color: #c8a96e;
+}
+
+.prose-editorial blockquote {
+  border-left: 2px solid #c8a96e;
+  margin: 2em 0;
+  padding: 0.75em 0 0.75em 1.5em;
+  color: #9a9690;
+  font-style: italic;
+  font-size: 1.1em;
+}
+
+.prose-editorial code {
+  font-family: ui-monospace, "Cascadia Code", Menlo, monospace;
+  font-size: 0.875em;
+  background: #141414;
+  border: 1px solid #222;
+  border-radius: 3px;
+  padding: 0.15em 0.4em;
+  color: #c8a96e;
+}
+
+.prose-editorial pre {
+  background: #0e0e0e;
+  border: 1px solid #1e1e1e;
+  border-radius: 6px;
+  padding: 1.25em 1.5em;
+  overflow-x: auto;
+  margin: 2em 0;
+}
+
+.prose-editorial pre code {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 0.875em;
+  color: #c8a96e;
+}
+
+.prose-editorial hr {
+  border: none;
+  border-top: 1px solid #1e1e1e;
+  margin: 3em 0;
+}
+
+.prose-editorial strong {
+  color: #e8e6e1;
+  font-weight: 600;
+}
+
+.prose-editorial em {
+  color: #b8b4ac;
+}
+
+.prose-editorial ul,
+.prose-editorial ol {
+  padding-left: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.prose-editorial li {
+  margin-bottom: 0.5em;
+}
+
+/* ─── Utility Classes ────────────────────────────────────────────────── */
+.text-accent {
+  color: #c8a96e;
+}
+.text-signal {
+  color: #e85c2d;
+}
+.border-accent {
+  border-color: #c8a96e;
+}
+.bg-surface {
+  background-color: #0e0e0e;
+}
+.bg-surface-2 {
+  background-color: #141414;
+}
+.bg-surface-3 {
+  background-color: #1a1a1a;
+}
+
+.category-pill {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 0.25em 0.75em;
+  border: 1px solid #222;
+  color: #9a9690;
+  border-radius: 2px;
+}
+
+.category-pill-accent {
+  border-color: rgba(200, 169, 110, 0.4);
+  color: #c8a96e;
+}
+
+.signal-dot::before {
+  content: "●";
+  color: #e85c2d;
+  margin-right: 0.5em;
+  font-size: 0.5em;
+  vertical-align: middle;
+}
+
+/* ─── Hover States ───────────────────────────────────────────────────── */
+.article-card {
+  transition: border-color 0.2s ease;
+  cursor: pointer;
+}
+
+.article-card:hover {
+  border-color: #2e2e2e;
+}
+
+.article-card:hover .article-title {
+  color: #c8a96e;
+}
+
+/* ─── Navigation ─────────────────────────────────────────────────────── */
+.nav-link {
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #5c5a56;
+  transition: color 0.15s;
+}
+
+.nav-link:hover {
+  color: #e8e6e1;
+}
+
+.nav-link.active {
+  color: #c8a96e;
+}
+
+/* ─── Section Headers ────────────────────────────────────────────────── */
+.section-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #c8a96e;
+}
+
+/* ─── Focus States ───────────────────────────────────────────────────── */
+:focus-visible {
+  outline: 1px solid #c8a96e;
+  outline-offset: 3px;
+}
