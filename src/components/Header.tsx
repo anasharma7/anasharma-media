@@ -2,85 +2,72 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import LiveClock from "./LiveClock";
 
-const NAV_LINKS = [
+const NAV = [
   { href: "/essays", label: "Essays" },
   { href: "/signals", label: "Signals" },
   { href: "/about", label: "About" },
 ];
 
+// Ticker items — two copies for seamless loop
+const TICKER_ITEMS = [
+  "The quiet theft of authorship",
+  "Cognitive inequality is a structural problem",
+  "Attention is not a free resource",
+  "The algorithm optimizes for certainty, not truth",
+  "Online grief happens in broadcast mode now",
+  "Every platform was built for an advertiser",
+  "AI doesn't just change work — it changes thinking",
+  "The feed is not neutral infrastructure",
+  "We are inside a transition we cannot see clearly",
+  "The interiority of thought is changing",
+];
+
 export default function Header() {
   const pathname = usePathname();
 
+  const tickerContent = [...TICKER_ITEMS, ...TICKER_ITEMS].map((item, i) => (
+    <span key={i} style={{ display: "inline-flex", alignItems: "center", gap: "3rem" }}>
+      <span className="ticker-item">{item}</span>
+      <span className="ticker-sep">—</span>
+    </span>
+  ));
+
   return (
-    <header
-      style={{
-        borderBottom: "1px solid #1a1a1a",
-        backgroundColor: "rgba(8,8,8,0.95)",
-        backdropFilter: "blur(8px)",
-        WebkitBackdropFilter: "blur(8px)",
-        position: "sticky",
-        top: 0,
-        zIndex: 50,
-      }}
-    >
-      <div
-        style={{
-          maxWidth: "1200px",
-          margin: "0 auto",
-          padding: "0 1.5rem",
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "space-between",
-          height: "56px",
-        }}
-      >
+    <header className="status-bar">
+      <div className="status-bar-inner">
         {/* Wordmark */}
-        <Link
-          href="/"
-          style={{
-            textDecoration: "none",
-            display: "flex",
-            flexDirection: "column",
-            lineHeight: 1,
-          }}
-        >
-          <span
-            style={{
-              fontSize: "1rem",
-              fontWeight: 700,
-              letterSpacing: "-0.03em",
-              color: "#e8e6e1",
-            }}
-          >
-            Ana Sharma
-          </span>
-          <span
-            style={{
-              fontSize: "0.6rem",
-              letterSpacing: "0.18em",
-              textTransform: "uppercase",
-              color: "#5c5a56",
-              marginTop: "1px",
-            }}
-          >
-            On the AI Transition
-          </span>
+        <Link href="/" className="wordmark">
+          A·S
         </Link>
 
-        {/* Nav */}
-        <nav style={{ display: "flex", alignItems: "center", gap: "2rem" }}>
-          {NAV_LINKS.map(({ href, label }) => (
-            <Link
-              key={href}
-              href={href}
-              className={`nav-link ${pathname.startsWith(href) ? "active" : ""}`}
-              style={{ textDecoration: "none" }}
-            >
-              {label}
-            </Link>
-          ))}
-        </nav>
+        {/* Ticker */}
+        <div className="ticker-rail">
+          <div className="ticker-track">{tickerContent}</div>
+        </div>
+
+        {/* Right: clock + nav */}
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            gap: "1.75rem",
+          }}
+        >
+          <LiveClock />
+          <nav className="status-nav">
+            {NAV.map(({ href, label }) => (
+              <Link
+                key={href}
+                href={href}
+                className={`status-nav-link${pathname.startsWith(href) ? " active" : ""}`}
+              >
+                {label}
+              </Link>
+            ))}
+          </nav>
+        </div>
       </div>
     </header>
   );

@@ -43,20 +43,15 @@ export default async function EssayPage({ params }: Props) {
   return (
     <MainLayout>
       <article>
-        {/* Article header */}
+        {/* Header */}
         <div
           style={{
-            borderBottom: "1px solid #1a1a1a",
-            backgroundColor: "#080808",
+            maxWidth: "1400px",
+            margin: "0 auto",
+            padding: "0 1.25rem",
           }}
         >
-          <div
-            style={{
-              maxWidth: "800px",
-              margin: "0 auto",
-              padding: "3.5rem 1.5rem 2.5rem",
-            }}
-          >
+          <div className="article-header">
             {/* Breadcrumb */}
             <nav
               style={{
@@ -66,154 +61,110 @@ export default async function EssayPage({ params }: Props) {
                 alignItems: "center",
               }}
             >
-              <Link
-                href="/"
-                style={{
-                  fontSize: "0.7rem",
-                  color: "#3a3836",
-                  textDecoration: "none",
-                  letterSpacing: "0.06em",
-                }}
-              >
-                Home
-              </Link>
-              <span style={{ fontSize: "0.7rem", color: "#2a2826" }}>›</span>
-              <Link
-                href="/essays"
-                style={{
-                  fontSize: "0.7rem",
-                  color: "#3a3836",
-                  textDecoration: "none",
-                  letterSpacing: "0.06em",
-                }}
-              >
-                Essays
-              </Link>
-              <span style={{ fontSize: "0.7rem", color: "#2a2826" }}>›</span>
+              <Link href="/" className="article-crumb">Home</Link>
+              <span className="article-crumb" style={{ cursor: "default" }}>›</span>
+              <Link href="/essays" className="article-crumb">Essays</Link>
+              <span className="article-crumb" style={{ cursor: "default" }}>›</span>
               <span
                 style={{
-                  fontSize: "0.7rem",
-                  color: "#5c5a56",
+                  fontFamily:
+                    'ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace',
+                  fontSize: "0.6rem",
+                  color: "#3a3836",
                   letterSpacing: "0.06em",
                 }}
               >
-                {article.title.slice(0, 30)}…
+                {article.title.slice(0, 32)}…
               </span>
             </nav>
 
-            {/* Category */}
-            <div style={{ marginBottom: "1rem" }}>
-              <span className="category-pill category-pill-accent">
+            {/* Category tag */}
+            <div style={{ marginBottom: "1.25rem" }}>
+              <span className="type-tag type-tag-essay">
                 {CATEGORY_LABELS[article.category]}
               </span>
             </div>
 
             {/* Title */}
-            <h1
-              style={{
-                fontSize: "clamp(1.75rem, 4vw, 2.75rem)",
-                fontWeight: 700,
-                letterSpacing: "-0.04em",
-                lineHeight: 1.1,
-                color: "#e8e6e1",
-                marginBottom: "1.25rem",
-              }}
-            >
+            <h1 className="article-title-display" style={{ marginBottom: "1.25rem" }}>
               {article.title}
             </h1>
 
-            {/* Excerpt / lede */}
-            <p
-              style={{
-                fontSize: "1.15rem",
-                color: "#6e6c68",
-                lineHeight: 1.65,
-                fontFamily: "Georgia, serif",
-                fontStyle: "italic",
-                maxWidth: "55ch",
-                marginBottom: "1.75rem",
-              }}
-            >
+            {/* Lede */}
+            <p className="article-lede" style={{ marginBottom: "0" }}>
               {article.excerpt}
             </p>
 
             {/* Meta bar */}
-            <div
-              style={{
-                display: "flex",
-                gap: "1.5rem",
-                alignItems: "center",
-                flexWrap: "wrap",
-                paddingTop: "1rem",
-                borderTop: "1px solid #1a1a1a",
-              }}
-            >
+            <div className="article-meta-bar">
               {article.author && (
-                <span style={{ fontSize: "0.75rem", color: "#5c5a56" }}>
-                  By {article.author}
+                <span className="date-stamp" style={{ color: "#3a3836" }}>
+                  {article.author}
                 </span>
               )}
-              <span style={{ fontSize: "0.75rem", color: "#3a3836" }}>
-                {formatDate(article.date)}
-              </span>
-              <span style={{ fontSize: "0.75rem", color: "#3a3836" }}>
-                {article.readingTime}
-              </span>
+              <span className="date-stamp">{formatDate(article.date)}</span>
+              <span className="date-stamp">{article.readingTime}</span>
             </div>
           </div>
         </div>
 
-        {/* Article body */}
+        {/* Body */}
         <div
           style={{
-            maxWidth: "800px",
+            maxWidth: "1400px",
             margin: "0 auto",
-            padding: "3.5rem 1.5rem 5rem",
+            padding: "0 1.25rem",
           }}
         >
-          <div className="prose-editorial">
-            <MDXRemote source={article.content} />
-          </div>
-
-          {/* Article footer */}
           <div
             style={{
-              marginTop: "4rem",
-              paddingTop: "2rem",
-              borderTop: "1px solid #1a1a1a",
-              display: "flex",
-              justifyContent: "space-between",
-              alignItems: "center",
-              flexWrap: "wrap",
-              gap: "1rem",
+              maxWidth: "720px",
+              padding: "3.5rem 0 5rem",
             }}
           >
-            <Link
-              href="/essays"
+            <div className="prose-editorial">
+              <MDXRemote source={article.content} />
+            </div>
+
+            {/* Footer */}
+            <div
               style={{
-                fontSize: "0.75rem",
-                color: "#5c5a56",
-                textDecoration: "none",
-                letterSpacing: "0.06em",
+                marginTop: "4rem",
+                paddingTop: "1.5rem",
+                borderTop: "1px solid #0f0f0f",
+                display: "flex",
+                justifyContent: "space-between",
+                alignItems: "center",
+                flexWrap: "wrap",
+                gap: "1rem",
               }}
             >
-              ← Back to Essays
-            </Link>
-            {article.tags && article.tags.length > 0 && (
-              <div
-                style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap" }}
+              <Link
+                href="/essays"
+                style={{
+                  fontFamily:
+                    'ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace',
+                  fontSize: "0.62rem",
+                  color: "#3a3836",
+                  textDecoration: "none",
+                  letterSpacing: "0.08em",
+                  transition: "color 0.12s",
+                }}
               >
-                {article.tags.map((tag) => (
-                  <span
-                    key={tag}
-                    className="category-pill"
-                    style={{ fontSize: "0.6rem" }}
-                  >
-                    {tag}
-                  </span>
-                ))}
-              </div>
-            )}
+                ← Back to Essays
+              </Link>
+              {article.tags && article.tags.length > 0 && (
+                <div
+                  style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap" }}
+                >
+                  {article.tags.map((tag) => (
+                    <span key={tag} className="type-tag">
+                      {tag}
+                    </span>
+                  ))}
+                </div>
+              )}
+            </div>
           </div>
         </div>
       </article>

@@ -1,7 +1,8 @@
 import { getAllArticles } from "@/lib/content";
-import { CATEGORY_LABELS, Category } from "@/types/content";
+import { CATEGORY_LABELS } from "@/types/content";
 import MainLayout from "@/components/MainLayout";
-import ArticleCard from "@/components/ArticleCard";
+import Link from "next/link";
+import { formatDateShort } from "@/lib/utils";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -13,94 +14,135 @@ export const metadata: Metadata = {
 export default function EssaysPage() {
   const articles = getAllArticles();
 
-  const byCategory = articles.reduce(
-    (acc, article) => {
-      if (!acc[article.category]) acc[article.category] = [];
-      acc[article.category].push(article);
-      return acc;
-    },
-    {} as Record<string, typeof articles>
-  );
-
   return (
     <MainLayout>
       <div
         style={{
-          maxWidth: "1200px",
+          maxWidth: "1400px",
           margin: "0 auto",
-          padding: "3rem 1.5rem",
+          padding: "0 1.25rem",
         }}
       >
-        {/* Page header */}
+        {/* Header */}
         <div
           style={{
-            marginBottom: "3rem",
-            paddingBottom: "2rem",
-            borderBottom: "1px solid #1a1a1a",
+            padding: "2rem 0 1.5rem",
+            borderBottom: "1px solid #0f0f0f",
+            display: "grid",
+            gridTemplateColumns: "1fr auto",
+            alignItems: "end",
+            gap: "2rem",
           }}
         >
-          <span className="section-label" style={{ display: "block", marginBottom: "1rem" }}>
-            Essays
+          <div>
+            <span
+              style={{
+                fontFamily:
+                  'ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace',
+                fontSize: "0.58rem",
+                letterSpacing: "0.22em",
+                textTransform: "uppercase",
+                color: "#1e1c1a",
+                display: "block",
+                marginBottom: "0.5rem",
+              }}
+            >
+              All Essays
+            </span>
+            <h1
+              style={{
+                fontSize: "clamp(1.25rem, 2.5vw, 1.75rem)",
+                fontWeight: 700,
+                letterSpacing: "-0.04em",
+                color: "#dedad3",
+                lineHeight: 1.1,
+              }}
+            >
+              Long-form writing
+            </h1>
+          </div>
+          <span
+            style={{
+              fontFamily:
+                'ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace',
+              fontSize: "0.62rem",
+              color: "#2e2c2a",
+              letterSpacing: "0.06em",
+            }}
+          >
+            {articles.length} essays
           </span>
-          <h1
-            style={{
-              fontSize: "clamp(1.5rem, 3vw, 2.25rem)",
-              fontWeight: 700,
-              letterSpacing: "-0.04em",
-              color: "#e8e6e1",
-              lineHeight: 1.1,
-              marginBottom: "0.75rem",
-            }}
-          >
-            Long-form writing
-          </h1>
-          <p
-            style={{
-              fontSize: "0.9rem",
-              color: "#5c5a56",
-              maxWidth: "55ch",
-              lineHeight: 1.65,
-              fontFamily: "Georgia, serif",
-              fontStyle: "italic",
-            }}
-          >
-            Essays on AI cognition, internet culture, digital behavior, power
-            structures, and what it means to live an online life.
-          </p>
         </div>
 
-        {articles.length === 0 ? (
-          <div
-            style={{
-              padding: "4rem",
-              border: "1px solid #1a1a1a",
-              textAlign: "center",
-            }}
-          >
-            <p style={{ fontSize: "0.875rem", color: "#5c5a56" }}>
-              Essays are being written. Check back soon.
-            </p>
-          </div>
-        ) : (
-          <div
-            style={{
-              display: "grid",
-              gridTemplateColumns: "repeat(auto-fill, minmax(300px, 1fr))",
-              gap: "1px",
-              backgroundColor: "#141414",
-              border: "1px solid #141414",
-            }}
-          >
-            {articles.map((article) => (
-              <div
-                key={article.slug}
-                style={{ backgroundColor: "#080808" }}
+        {/* Essay list */}
+        <div>
+          {articles.length === 0 ? (
+            <div
+              style={{
+                padding: "4rem 0",
+                textAlign: "center",
+              }}
+            >
+              <p
+                style={{
+                  fontFamily:
+                    'ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace',
+                  fontSize: "0.65rem",
+                  color: "#2e2c2a",
+                  letterSpacing: "0.1em",
+                }}
               >
-                <ArticleCard article={article} variant="default" />
-              </div>
-            ))}
-          </div>
-        )}
+                Essays are being written.
+              </p>
+            </div>
+          ) : (
+            articles.map((article) => (
+              <Link
+                key={article.slug}
+                href={`/essays/${article.slug}`}
+                style={{ textDecoration: "none", display: "block" }}
+              >
+                <div className="essays-row">
+                  <div>
+                    <p className="essays-row-title">{article.title}</p>
+                    <p className="essays-row-excerpt">{article.excerpt}</p>
+                    <div
+                      style={{
+                        display: "flex",
+                        gap: "0.75rem",
+                        marginTop: "0.6rem",
+                        alignItems: "center",
+                      }}
+                    >
+                      <span className="type-tag type-tag-essay">
+                        {CATEGORY_LABELS[article.category]}
+                      </span>
+                      <span className="date-stamp">{article.readingTime}</span>
+                    </div>
+                  </div>
+                  <div
+                    style={{
+                      display: "flex",
+                      flexDirection: "column",
+                      alignItems: "flex-end",
+                      gap: "0.3rem",
+                      minWidth: "90px",
+                    }}
+                  >
+                    <span className="date-stamp">
+                      {formatDateShort(article.date)}
+                    </span>
+                    {article.featured && (
+                      <span className="type-tag type-tag-featured">
+                        Featured
+                      </span>
+                    )}
+                  </div>
+                </div>
+              </Link>
+            ))
+          )}
+        </div>
       </div>
     </MainLayout>
   );

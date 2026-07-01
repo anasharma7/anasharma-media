@@ -1,103 +1,46 @@
-import Link from "next/link";
-
 export default function Footer() {
-  const year = new Date().getFullYear();
-
   return (
     <footer
       style={{
-        borderTop: "1px solid #1a1a1a",
+        borderTop: "1px solid #0d0d0d",
+        padding: "1.25rem",
         marginTop: "auto",
-        padding: "3rem 1.5rem",
       }}
     >
       <div
         style={{
-          maxWidth: "1200px",
+          maxWidth: "1400px",
           margin: "0 auto",
           display: "flex",
-          flexDirection: "column",
-          gap: "1.5rem",
+          justifyContent: "space-between",
+          alignItems: "center",
+          flexWrap: "wrap",
+          gap: "0.5rem",
         }}
       >
-        {/* Top row */}
-        <div
+        <span
           style={{
-            display: "flex",
-            justifyContent: "space-between",
-            alignItems: "flex-start",
-            flexWrap: "wrap",
-            gap: "1.5rem",
+            fontFamily:
+              'ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace',
+            fontSize: "0.58rem",
+            color: "#1a1816",
+            letterSpacing: "0.12em",
+            textTransform: "uppercase",
           }}
         >
-          <div>
-            <p
-              style={{
-                fontSize: "0.9rem",
-                fontWeight: 600,
-                color: "#e8e6e1",
-                letterSpacing: "-0.01em",
-                marginBottom: "0.25rem",
-              }}
-            >
-              Ana Sharma
-            </p>
-            <p
-              style={{
-                fontSize: "0.75rem",
-                color: "#5c5a56",
-                maxWidth: "32ch",
-              }}
-            >
-              Documenting what it feels like to live through the AI transition
-              era.
-            </p>
-          </div>
-
-          <nav
-            style={{
-              display: "flex",
-              gap: "1.5rem",
-              flexWrap: "wrap",
-              alignItems: "center",
-            }}
-          >
-            {[
-              { href: "/essays", label: "Essays" },
-              { href: "/signals", label: "Signals" },
-              { href: "/about", label: "About" },
-            ].map(({ href, label }) => (
-              <Link
-                key={href}
-                href={href}
-                className="nav-link"
-                style={{ textDecoration: "none" }}
-              >
-                {label}
-              </Link>
-            ))}
-          </nav>
-        </div>
-
-        {/* Bottom row */}
-        <div
+          A·S · anasharma.com · est. 2025
+        </span>
+        <span
           style={{
-            borderTop: "1px solid #141414",
-            paddingTop: "1.5rem",
-            display: "flex",
-            justifyContent: "space-between",
-            alignItems: "center",
-            flexWrap: "wrap",
-            gap: "0.5rem",
+            fontFamily:
+              'ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace',
+            fontSize: "0.58rem",
+            color: "#141210",
+            letterSpacing: "0.1em",
           }}
         >
-          <p style={{ fontSize: "0.7rem", color: "#3a3836" }}>
-            © {year} Ana Sharma. All rights reserved.
-          </p>
-          <p style={{ fontSize: "0.7rem", color: "#3a3836" }}>
-            anasharma.com
-          </p>
-        </div>
+          AI · INTERNET CULTURE · DIGITAL BEHAVIOR · COGNITIVE INEQUALITY
+        </span>
       </div>
     </footer>
   );
