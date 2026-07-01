@@ -12,8 +12,7 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  const slugs = getAllArticleSlugs();
-  return slugs.map((slug) => ({ slug }));
+  return getAllArticleSlugs().map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -23,64 +22,32 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: article.title,
     description: article.excerpt,
-    openGraph: {
-      title: article.title,
-      description: article.excerpt,
-      type: "article",
-      publishedTime: article.date,
-    },
+    openGraph: { title: article.title, description: article.excerpt, type: "article", publishedTime: article.date },
   };
 }
 
 export default async function EssayPage({ params }: Props) {
   const { slug } = await params;
   const article = getArticleBySlug(slug);
-
-  if (!article || article.status !== "published") {
-    notFound();
-  }
+  if (!article || article.status !== "published") notFound();
 
   return (
     <MainLayout>
       <article>
-        {/* Header */}
-        <div
-          style={{
-            maxWidth: "1400px",
-            margin: "0 auto",
-            padding: "0 1.25rem",
-          }}
-        >
+        <div style={{ maxWidth: "1600px", margin: "0 auto", padding: "0 1.5rem" }}>
           <div className="article-header">
             {/* Breadcrumb */}
-            <nav
-              style={{
-                marginBottom: "1.5rem",
-                display: "flex",
-                gap: "0.5rem",
-                alignItems: "center",
-              }}
-            >
+            <nav style={{ marginBottom: "1.5rem", display: "flex", gap: "0.5rem", alignItems: "center" }}>
               <Link href="/" className="article-crumb">Home</Link>
               <span className="article-crumb" style={{ cursor: "default" }}>›</span>
               <Link href="/essays" className="article-crumb">Essays</Link>
               <span className="article-crumb" style={{ cursor: "default" }}>›</span>
-              <span
-                style={{
-                  fontFamily:
-                    'ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace',
-                  fontSize: "0.6rem",
-                  color: "#3a3836",
-                  letterSpacing: "0.06em",
-                }}
-              >
-                {article.title.slice(0, 32)}…
-              </span>
+              <span className="article-crumb">{article.title.slice(0, 32)}…</span>
             </nav>
 
-            {/* Category tag */}
+            {/* Category */}
             <div style={{ marginBottom: "1.25rem" }}>
-              <span className="type-tag type-tag-essay">
+              <span className={`tag ${article.featured ? "tag-featured" : "tag-essay"}`}>
                 {CATEGORY_LABELS[article.category]}
               </span>
             </div>
@@ -91,37 +58,20 @@ export default async function EssayPage({ params }: Props) {
             </h1>
 
             {/* Lede */}
-            <p className="article-lede" style={{ marginBottom: "0" }}>
-              {article.excerpt}
-            </p>
+            <p className="article-lede" style={{ marginBottom: 0 }}>{article.excerpt}</p>
 
-            {/* Meta bar */}
+            {/* Meta */}
             <div className="article-meta-bar">
-              {article.author && (
-                <span className="date-stamp" style={{ color: "#3a3836" }}>
-                  {article.author}
-                </span>
-              )}
-              <span className="date-stamp">{formatDate(article.date)}</span>
-              <span className="date-stamp">{article.readingTime}</span>
+              {article.author && <span className="stamp" style={{ color: "#3a3836" }}>{article.author}</span>}
+              <span className="stamp">{formatDate(article.date)}</span>
+              <span className="stamp">{article.readingTime}</span>
             </div>
           </div>
         </div>
 
         {/* Body */}
-        <div
-          style={{
-            maxWidth: "1400px",
-            margin: "0 auto",
-            padding: "0 1.25rem",
-          }}
-        >
-          <div
-            style={{
-              maxWidth: "720px",
-              padding: "3.5rem 0 5rem",
-            }}
-          >
+        <div style={{ maxWidth: "1600px", margin: "0 auto", padding: "0 1.5rem" }}>
+          <div style={{ maxWidth: "720px", padding: "3.5rem 0 5rem" }}>
             <div className="prose-editorial">
               <MDXRemote source={article.content} />
             </div>
@@ -131,7 +81,7 @@ export default async function EssayPage({ params }: Props) {
               style={{
                 marginTop: "4rem",
                 paddingTop: "1.5rem",
-                borderTop: "1px solid #0f0f0f",
+                borderTop: "1px solid rgba(255,255,255,0.03)",
                 display: "flex",
                 justifyContent: "space-between",
                 alignItems: "center",
@@ -142,10 +92,9 @@ export default async function EssayPage({ params }: Props) {
               <Link
                 href="/essays"
                 style={{
-                  fontFamily:
-                    'ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace',
-                  fontSize: "0.62rem",
-                  color: "#3a3836",
+                  fontFamily: 'ui-monospace, "Cascadia Code", "SF Mono", Menlo, monospace',
+                  fontSize: "0.6rem",
+                  color: "#2e2c28",
                   textDecoration: "none",
                   letterSpacing: "0.08em",
                   transition: "color 0.12s",
@@ -154,13 +103,9 @@ export default async function EssayPage({ params }: Props) {
                 ← Back to Essays
               </Link>
               {article.tags && article.tags.length > 0 && (
-                <div
-                  style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap" }}
-                >
+                <div style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap" }}>
                   {article.tags.map((tag) => (
-                    <span key={tag} className="type-tag">
-                      {tag}
-                    </span>
+                    <span key={tag} className="tag tag-essay">{tag}</span>
                   ))}
                 </div>
               )}
