@@ -1,0 +1,41 @@
+[
+  {
+    "text": "A generation is learning to date by first asking the model what to say back",
+    "source": "observed across 4 subcultures",
+    "flag": "trending"
+  },
+  {
+    "text": "The productivity influencers have quietly stopped posting their AI workflows",
+    "source": "pattern note"
+  },
+  {
+    "text": "Job listings now specify \"must think without assistance,\" a phrase that didn't exist in 2023",
+    "source": "labor signal"
+  },
+  {
+    "text": "Group chats are being quietly moderated by one member's AI, and nobody has said so out loud",
+    "source": "culture watch",
+    "flag": "escalating"
+  },
+  {
+    "text": "The uncanny valley moved from faces to opinions",
+    "source": "fragment"
+  },
+  {
+    "text": "A new slang term for \"obviously AI-written\" is spreading faster than the last one died",
+    "source": "language drift"
+  },
+  {
+    "text": "\"Authenticity\" is now a premium feature, not a default state",
+    "source": "market note"
+  },
+  {
+    "text": "The first wave of \"AI grief,\" people mourning a model version that got deprecated",
+    "source": "emerging pattern",
+    "flag": "developing"
+  },
+  {
+    "text": "A quiet shift: people asking models to disagree with them more",
+    "source": "behavior note"
+  }
+]
