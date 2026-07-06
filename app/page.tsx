@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Ticker from '@/components/Ticker';
 import Masthead from '@/components/Masthead';
 import Footer from '@/components/Footer';
+import SignalsGrid from '@/components/SignalsGrid';
 import { getAllEssays } from '@/lib/essays';
 import signalsData from '@/content/signals.json';
 
@@ -9,10 +10,6 @@ export default function Home() {
   const essays = getAllEssays();
   const featured = essays.find((e) => e.featured) || essays[0];
   const rest = essays.filter((e) => e.slug !== featured?.slug);
-
-  // split signals into three columns for the river
-  const columns: (typeof signalsData)[] = [[], [], []];
-  signalsData.forEach((signal, i) => columns[i % 3].push(signal));
 
   return (
     <>
@@ -44,24 +41,7 @@ export default function Home() {
         <div className="section-eyebrow" id="signals">
           Signals
         </div>
-        <div className="signal-grid">
-          {columns.map((col, ci) => (
-            <div className="signal-col" key={ci}>
-              {col.map((signal, i) => (
-                <div className="signal-item" key={i}>
-                  {signal.flag && (
-                    <span className="flag">
-                      <span className="live-dot"></span>
-                      {signal.flag}
-                    </span>
-                  )}
-                  <a href="#">{signal.text}</a>
-                  <span className="signal-source">{signal.source}</span>
-                </div>
-              ))}
-            </div>
-          ))}
-        </div>
+        <SignalsGrid signals={signalsData} />
 
         {rest.length > 0 && (
           <div className="essay-list-row">
