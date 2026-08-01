@@ -1,8 +1,8 @@
 [
   {
-    "text": "The Download: Montana’s new experimental drug rules",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "text": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
     "flag": "wire"
   },
   {
@@ -18,9 +18,21 @@
     "flag": "wire"
   },
   {
+    "text": "Here’s the problem with putting an AI image generator in Google Earth",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "flag": "wire"
+  },
+  {
     "text": "Google Earth&#8217;s AI deepfake tool only lasted one day",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Montana’s new experimental drug rules",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
     "flag": "wire"
   },
   {
@@ -30,27 +42,9 @@
     "flag": "wire"
   },
   {
-    "text": "The major labels propose rules to keep AI slop off the charts",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-    "flag": "wire"
-  },
-  {
-    "text": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "flag": "wire"
-  },
-  {
-    "text": "India is starting to pay for apps, not just download them",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "flag": "wire"
-  },
-  {
-    "text": "Chinese AI Researchers Are Finding Their Voice on X",
+    "text": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
     "source": "Wired",
-    "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+    "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
     "flag": "wire"
   },
   {
@@ -60,15 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+    "text": "Chinese AI Researchers Are Finding Their Voice on X",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+    "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
     "flag": "wire"
   },
   {
-    "text": "Here’s the problem with putting an AI image generator in Google Earth",
+    "text": "India is starting to pay for apps, not just download them",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "flag": "wire"
+  },
+  {
+    "text": "The major labels propose rules to keep AI slop off the charts",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
     "flag": "wire"
   }
 ]
