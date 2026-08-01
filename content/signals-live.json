@@ -1,50 +1,14 @@
 [
   {
-    "text": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
-    "flag": "wire"
-  },
-  {
-    "text": "Montana’s new “right to try” law can’t come soon enough for some",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-    "flag": "wire"
-  },
-  {
-    "text": "The major labels propose rules to keep AI slop off the charts",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-    "flag": "wire"
-  },
-  {
-    "text": "Here’s the problem with putting an AI image generator in Google Earth",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-    "flag": "wire"
-  },
-  {
-    "text": "India is starting to pay for apps, not just download them",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "flag": "wire"
-  },
-  {
-    "text": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: Montana’s new experimental drug rules",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "flag": "wire"
+  },
+  {
+    "text": "Montana’s plan to become an experimental medical hub just pushed forward",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
     "flag": "wire"
   },
   {
@@ -60,15 +24,51 @@
     "flag": "wire"
   },
   {
+    "text": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+    "flag": "wire"
+  },
+  {
+    "text": "The major labels propose rules to keep AI slop off the charts",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+    "flag": "wire"
+  },
+  {
+    "text": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "flag": "wire"
+  },
+  {
+    "text": "India is starting to pay for apps, not just download them",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "flag": "wire"
+  },
+  {
     "text": "Chinese AI Researchers Are Finding Their Voice on X",
     "source": "Wired",
     "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
     "flag": "wire"
   },
   {
-    "text": "Montana’s plan to become an experimental medical hub just pushed forward",
+    "text": "Montana’s new “right to try” law can’t come soon enough for some",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here’s the problem with putting an AI image generator in Google Earth",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
     "flag": "wire"
   }
 ]
