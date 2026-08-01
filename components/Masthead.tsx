@@ -6,7 +6,7 @@ export default function Masthead() {
       <div>
         <div className="wordmark">
           <Link href="/">
-            anasharma<span className="dot">.</span>com
+            doomscroll<span className="dot">.</span>txt
           </Link>
         </div>
         <div className="tagline">dispatches from the ai transition. work, cognition, culture, self.</div>

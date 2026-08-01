@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'anasharma.com: dispatches from the ai transition',
+  title: 'doomscroll.txt: dispatches from the ai transition',
   description:
     'A running record of what it feels like to think, work, and love through the AI transition.',
 };
