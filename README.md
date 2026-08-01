@@ -5,23 +5,9 @@ A Next.js site, statically exported and deployed to GitHub Pages on your custom 
 ## Publishing a new essay
 
 1. Add a new file to `content/essays/`, e.g. `content/essays/the-quiet-theft.mdx`
-2. Fill in the frontmatter at the top:
-
-```
----
-title: "Your headline"
-dek: "The one or two sentence summary under the headline."
-category: "cognition"
-date: "2026-07-15"
-readTime: "8 min"
-author: "Ana Sharma"
-featured: false
----
-```
-
-3. Write the essay body below the second `---` line in plain markdown. Paragraphs, `## headers`, and `> blockquotes` all render automatically.
-4. Set `featured: true` on whichever single essay should get the large headline treatment on the homepage. Only one essay should be featured at a time.
-5. Commit and push:
+2. Fill in the frontmatter at the top (title, dek, category, date, readTime, author, featured)
+3. Write the essay body below the second `---` line in plain markdown
+4. Commit and push:
 
 ```
 git add .
@@ -29,23 +15,23 @@ git commit -m "publish: the quiet theft"
 git push origin main
 ```
 
-That's it. GitHub Actions builds the site and deploys it automatically, live in one to two minutes. No manual build step, no copying files.
-
-Delete `content/essays/template-delete-me.mdx` whenever you're ready, it's only there as a working example.
+GitHub Actions builds and deploys automatically, live in one to two minutes.
 
 ## Editing signals
 
-Signals (the short dense links in the three-column river) live in `content/signals.json`, a plain array. Add, remove, or edit entries directly, same commit and push workflow applies.
+Hand-written signals live in `content/signals.json`, edit directly, same commit/push workflow.
 
-```json
-{
-  "text": "The headline text of the signal",
-  "source": "a short attribution or note",
-  "flag": "trending"
-}
-```
+## Live news signals (new)
 
-`flag` is optional, leave it out for a plain entry. When present, it renders as a small red live-marker (options used so far: `trending`, `escalating`, `developing`, but any short word works).
+`content/signals-live.json` is auto-generated, don't edit it by hand, it gets overwritten.
+
+A scheduled GitHub Action (`.github/workflows/fetch-news.yml`) runs every 4 hours, pulls fresh headlines from a curated set of AI/tech RSS feeds (see `scripts/fetch-signals.mjs` for the list), and commits the results automatically. The homepage merges `content/signals.json` (yours) and `content/signals-live.json` (auto-pulled) together, your hand-written ones are never touched or overwritten.
+
+To trigger a fetch manually instead of waiting: go to the repo's **Actions** tab → **Fetch live signals** → **Run workflow**.
+
+To test locally: `npm run fetch-signals`
+
+To add or remove news sources, edit the `FEEDS` array at the top of `scripts/fetch-signals.mjs`.
 
 ## Local development
 
@@ -54,21 +40,13 @@ npm install
 npm run dev
 ```
 
-Visit `http://localhost:3000` to preview changes before pushing.
+## One-time setup required for the live news feature
+
+Repo **Settings → Actions → General → Workflow permissions** must be set to **"Read and write permissions"**, otherwise the scheduled fetch can't commit its results back to the repo.
 
 ## How deployment works
 
-- `next.config.mjs` sets `output: 'export'`, so `npm run build` produces a fully static `out/` folder, no server required.
-- `.github/workflows/deploy.yml` runs on every push to `main`: installs dependencies, builds, and publishes the `out/` folder to GitHub Pages automatically via GitHub's official Pages Actions.
-- `public/CNAME` contains `anasharma.com`, this is what keeps GitHub Pages serving on your custom domain after each rebuild.
-- `public/.nojekyll` stops GitHub Pages from trying to run Jekyll over the build output, which would break the `_next` asset folder.
-
-## One-time setup still required
-
-In the GitHub repo: **Settings → Pages → Build and deployment → Source**, change this from "Deploy from a branch" to **GitHub Actions**. This only needs to be done once, after that every push deploys automatically.
-
-Your DNS records at your registrar do not need to change, they already point at GitHub Pages correctly.
-
-## A note on dependencies
-
-`npm audit` will flag some vulnerabilities in Next.js's server runtime (middleware, image optimizer, server components). Since this site is fully statically exported, none of that server code ever runs in production, GitHub Pages only serves flat HTML/CSS/JS files. Worth keeping an eye on for future upgrades, not urgent for this deployment model.
+- `next.config.mjs` sets `output: 'export'`, static export, no server required.
+- `.github/workflows/deploy.yml` builds and publishes on every push to `main`.
+- `.github/workflows/fetch-news.yml` refreshes live signals on a schedule and commits changes, which in turn triggers a deploy.
+- `public/CNAME` keeps the custom domain intact across rebuilds.

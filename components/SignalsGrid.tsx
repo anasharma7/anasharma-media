@@ -7,6 +7,7 @@ export type Signal = {
   text: string;
   source: string;
   flag?: string;
+  link?: string;
 };
 
 export default function SignalsGrid({ signals }: { signals: Signal[] }) {
@@ -32,7 +33,7 @@ export default function SignalsGrid({ signals }: { signals: Signal[] }) {
                 }}
               >
                 {signal.flag && (
-                  <span className="flag">
+                  <span className={`flag ${signal.flag === 'wire' ? 'wire' : ''}`}>
                     <span className="live-dot"></span>
                     {signal.flag}
                   </span>
@@ -54,11 +55,7 @@ export default function SignalsGrid({ signals }: { signals: Signal[] }) {
         >
           <GrainCanvas />
           <div className="signal-overlay-panel" onClick={(e) => e.stopPropagation()}>
-            <button
-              className="signal-overlay-close"
-              onClick={() => setActive(null)}
-              aria-label="Close"
-            >
+            <button className="signal-overlay-close" onClick={() => setActive(null)} aria-label="Close">
               close ✕
             </button>
             <div className="signal-overlay-meta">
@@ -67,6 +64,16 @@ export default function SignalsGrid({ signals }: { signals: Signal[] }) {
             </div>
             <div className="signal-overlay-text">{active.text}</div>
             <div className="signal-overlay-source">{active.source}</div>
+            {active.link && (
+              <a
+                className="signal-overlay-link"
+                href={active.link}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                read the source →
+              </a>
+            )}
           </div>
         </div>
       )}

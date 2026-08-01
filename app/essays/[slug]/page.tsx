@@ -12,10 +12,7 @@ export async function generateStaticParams() {
 
 export default function EssayPage({ params }: { params: { slug: string } }) {
   const essay = getEssayBySlug(params.slug);
-
-  if (!essay) {
-    notFound();
-  }
+  if (!essay) notFound();
 
   return (
     <>

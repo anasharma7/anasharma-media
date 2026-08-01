@@ -1,7 +1,4 @@
-type TickerItem = {
-  tag: string;
-  text: string;
-};
+type TickerItem = { tag: string; text: string };
 
 const items: TickerItem[] = [
   { tag: 'SIGNAL', text: 'tracking a shift in how group chats moderate themselves' },

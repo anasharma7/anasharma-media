@@ -16,9 +16,7 @@ export type EssayMeta = {
   featured?: boolean;
 };
 
-export type Essay = EssayMeta & {
-  html: string;
-};
+export type Essay = EssayMeta & { html: string };
 
 function readEssayFiles(): string[] {
   if (!fs.existsSync(ESSAYS_DIR)) return [];
@@ -27,13 +25,11 @@ function readEssayFiles(): string[] {
 
 export function getAllEssays(): EssayMeta[] {
   const files = readEssayFiles();
-
   const essays = files.map((filename) => {
     const slug = filename.replace(/\.mdx?$/, '');
     const filePath = path.join(ESSAYS_DIR, filename);
     const source = fs.readFileSync(filePath, 'utf8');
     const { data } = matter(source);
-
     return {
       slug,
       title: data.title || 'Untitled',
@@ -45,21 +41,13 @@ export function getAllEssays(): EssayMeta[] {
       featured: data.featured || false,
     };
   });
-
-  // newest first
   return essays.sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
 export function getEssayBySlug(slug: string): Essay | null {
   const filePath = path.join(ESSAYS_DIR, `${slug}.mdx`);
   const fallbackPath = path.join(ESSAYS_DIR, `${slug}.md`);
-
-  const realPath = fs.existsSync(filePath)
-    ? filePath
-    : fs.existsSync(fallbackPath)
-    ? fallbackPath
-    : null;
-
+  const realPath = fs.existsSync(filePath) ? filePath : fs.existsSync(fallbackPath) ? fallbackPath : null;
   if (!realPath) return null;
 
   const source = fs.readFileSync(realPath, 'utf8');

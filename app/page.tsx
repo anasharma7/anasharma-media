@@ -4,12 +4,13 @@ import Masthead from '@/components/Masthead';
 import Footer from '@/components/Footer';
 import SignalsGrid from '@/components/SignalsGrid';
 import { getAllEssays } from '@/lib/essays';
-import signalsData from '@/content/signals.json';
+import { getAllSignals } from '@/lib/signals';
 
 export default function Home() {
   const essays = getAllEssays();
   const featured = essays.find((e) => e.featured) || essays[0];
   const rest = essays.filter((e) => e.slug !== featured?.slug);
+  const signals = getAllSignals();
 
   return (
     <>
@@ -41,7 +42,7 @@ export default function Home() {
         <div className="section-eyebrow" id="signals">
           Signals
         </div>
-        <SignalsGrid signals={signalsData} />
+        <SignalsGrid signals={signals} />
 
         {rest.length > 0 && (
           <div className="essay-list-row">
