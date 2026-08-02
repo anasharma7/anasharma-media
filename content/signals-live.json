@@ -1,14 +1,8 @@
 [
   {
-    "text": "Montana’s new “right to try” law can’t come soon enough for some",
+    "text": "Montana’s plan to become an experimental medical hub just pushed forward",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-    "flag": "wire"
-  },
-  {
-    "text": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
     "flag": "wire"
   },
   {
@@ -24,9 +18,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: Montana’s new experimental drug rules",
+    "text": "Montana’s new “right to try” law can’t come soon enough for some",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
     "flag": "wire"
   },
   {
@@ -42,21 +36,21 @@
     "flag": "wire"
   },
   {
+    "text": "The Download: Montana’s new experimental drug rules",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "flag": "wire"
+  },
+  {
     "text": "Is this Billboard Hot 100 hit AI slop?",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
     "flag": "wire"
   },
   {
-    "text": "Sam Altman is still making the case for parenting via ChatGPT",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "flag": "wire"
-  },
-  {
-    "text": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "text": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
     "flag": "wire"
   },
   {
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Montana’s plan to become an experimental medical hub just pushed forward",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+    "text": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sam Altman is still making the case for parenting via ChatGPT",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
     "flag": "wire"
   }
 ]
