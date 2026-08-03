@@ -1,62 +1,8 @@
 [
   {
-    "text": "Fender’s CEO seems to think your bandmates are just analog AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "flag": "wire"
-  },
-  {
-    "text": "Is paying artists enough to convince them to embrace AI?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-    "flag": "wire"
-  },
-  {
-    "text": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
-    "flag": "wire"
-  },
-  {
-    "text": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "flag": "wire"
-  },
-  {
-    "text": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-    "flag": "wire"
-  },
-  {
-    "text": "Montana’s new “right to try” law can’t come soon enough for some",
+    "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Conquered Coding. Fast Food Is Next",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sam Altman and AI’s decel debate",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "flag": "wire"
-  },
-  {
-    "text": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Montana’s new experimental drug rules",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
     "flag": "wire"
   },
   {
@@ -66,9 +12,63 @@
     "flag": "wire"
   },
   {
+    "text": "AI Conquered Coding. Fast Food Is Next",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+    "flag": "wire"
+  },
+  {
+    "text": "Is paying artists enough to convince them to embrace AI?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "flag": "wire"
+  },
+  {
+    "text": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Montana’s new experimental drug rules",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "flag": "wire"
+  },
+  {
+    "text": "Fender’s CEO seems to think your bandmates are just analog AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "flag": "wire"
+  },
+  {
+    "text": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+    "flag": "wire"
+  },
+  {
     "text": "Here’s why AI agents lie and cheat to reach their goals",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sam Altman and AI’s decel debate",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "flag": "wire"
+  },
+  {
+    "text": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "flag": "wire"
+  },
+  {
+    "text": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
     "flag": "wire"
   }
 ]
