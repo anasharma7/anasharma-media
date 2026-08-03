@@ -1,14 +1,14 @@
 [
   {
-    "text": "Fender’s CEO seems to think your bandmates are just analog AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
     "flag": "wire"
   },
   {
-    "text": "Europe’s AI labeling and transparency rules are now in effect",
+    "text": "Fender’s CEO seems to think your bandmates are just analog AI",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
     "flag": "wire"
   },
   {
@@ -18,39 +18,21 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "text": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here’s why AI agents lie and cheat to reach their goals",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
     "flag": "wire"
   },
   {
-    "text": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
-    "flag": "wire"
-  },
-  {
-    "text": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "text": "Europe’s AI labeling and transparency rules are now in effect",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Montana’s new experimental drug rules",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-    "flag": "wire"
-  },
-  {
-    "text": "Congress’s favorite AI tool? ChatGPT",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-    "flag": "wire"
-  },
-  {
-    "text": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
     "flag": "wire"
   },
   {
@@ -60,15 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Sam Altman and AI’s decel debate",
+    "text": "Influencers draw backlash for attending OpenAI’s first luxury trip",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
     "flag": "wire"
   },
   {
-    "text": "Here’s why AI agents lie and cheat to reach their goals",
+    "text": "Trump’s AI protectionism has come for robotics",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "flag": "wire"
+  },
+  {
+    "text": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+    "flag": "wire"
+  },
+  {
+    "text": "DesignArena creators raise $7.9 million to bring taste to AI models",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
     "flag": "wire"
   }
 ]
