@@ -1,50 +1,8 @@
 [
   {
-    "text": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-    "flag": "wire"
-  },
-  {
-    "text": "Is this Billboard Hot 100 hit AI slop?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Montana’s new experimental drug rules",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-    "flag": "wire"
-  },
-  {
-    "text": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "flag": "wire"
-  },
-  {
-    "text": "Montana’s plan to become an experimental medical hub just pushed forward",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-    "flag": "wire"
-  },
-  {
     "text": "Fender’s CEO seems to think your bandmates are just analog AI",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "flag": "wire"
-  },
-  {
-    "text": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sam Altman and AI’s decel debate",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
     "flag": "wire"
   },
   {
@@ -54,9 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "Montana’s new “right to try” law can’t come soon enough for some",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+    "text": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+    "flag": "wire"
+  },
+  {
+    "text": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
     "flag": "wire"
   },
   {
@@ -66,9 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+    "text": "Montana’s new “right to try” law can’t come soon enough for some",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Conquered Coding. Fast Food Is Next",
     "source": "Wired",
-    "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+    "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sam Altman and AI’s decel debate",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "flag": "wire"
+  },
+  {
+    "text": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Montana’s new experimental drug rules",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "flag": "wire"
+  },
+  {
+    "text": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here’s why AI agents lie and cheat to reach their goals",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
     "flag": "wire"
   }
 ]
