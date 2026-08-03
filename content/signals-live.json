@@ -1,26 +1,14 @@
 [
   {
-    "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-    "flag": "wire"
-  },
-  {
-    "text": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Conquered Coding. Fast Food Is Next",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
-    "flag": "wire"
-  },
-  {
-    "text": "Is paying artists enough to convince them to embrace AI?",
+    "text": "Fender’s CEO seems to think your bandmates are just analog AI",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "flag": "wire"
+  },
+  {
+    "text": "Europe’s AI labeling and transparency rules are now in effect",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
     "flag": "wire"
   },
   {
@@ -30,15 +18,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: Montana’s new experimental drug rules",
+    "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-    "flag": "wire"
-  },
-  {
-    "text": "Fender’s CEO seems to think your bandmates are just analog AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
     "flag": "wire"
   },
   {
@@ -48,15 +30,21 @@
     "flag": "wire"
   },
   {
-    "text": "Here’s why AI agents lie and cheat to reach their goals",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "text": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
     "flag": "wire"
   },
   {
-    "text": "Sam Altman and AI’s decel debate",
+    "text": "The Download: Montana’s new experimental drug rules",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "flag": "wire"
+  },
+  {
+    "text": "Congress’s favorite AI tool? ChatGPT",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
     "flag": "wire"
   },
   {
@@ -66,9 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "text": "AI Conquered Coding. Fast Food Is Next",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sam Altman and AI’s decel debate",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here’s why AI agents lie and cheat to reach their goals",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
     "flag": "wire"
   }
 ]
