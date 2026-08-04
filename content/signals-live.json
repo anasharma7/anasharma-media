@@ -1,38 +1,8 @@
 [
   {
-    "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "text": "The Download: US robot restrictions, and ICE’s DNA grab",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-    "flag": "wire"
-  },
-  {
-    "text": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump’s AI protectionism has come for robotics",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "flag": "wire"
-  },
-  {
-    "text": "Mistral Is in the Right Place at the Right Time",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
-    "flag": "wire"
-  },
-  {
-    "text": "How Data Centers Broke American Politics",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
-    "flag": "wire"
-  },
-  {
-    "text": "Here’s why AI agents lie and cheat to reach their goals",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
     "flag": "wire"
   },
   {
@@ -42,9 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Europe’s AI labeling and transparency rules are now in effect",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "text": "Is This Poker Player Bluffing? The AI Thinks So",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
     "flag": "wire"
   },
   {
@@ -54,21 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "text": "Europe’s AI labeling and transparency rules are now in effect",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
     "flag": "wire"
   },
   {
-    "text": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "text": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+    "flag": "wire"
+  },
+  {
+    "text": "Is the future of data centers portable? Runware builds a pod to find out",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
     "flag": "wire"
   },
   {
-    "text": "Did an AI Music App Just Snitch on the Song of the Summer?",
+    "text": "Trump’s AI protectionism has come for robotics",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "flag": "wire"
+  },
+  {
+    "text": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+    "flag": "wire"
+  },
+  {
+    "text": "How One Startup Built a (Mostly) China-Free Robot",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+    "flag": "wire"
+  },
+  {
+    "text": "EON wants to move the data superhighway from ocean fiber to space lasers",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
     "flag": "wire"
   }
 ]
