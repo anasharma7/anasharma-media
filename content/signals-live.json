@@ -1,17 +1,5 @@
 [
   {
-    "text": "AI Conquered Coding. Fast Food Is Next",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
-    "flag": "wire"
-  },
-  {
-    "text": "Europe’s AI labeling and transparency rules are now in effect",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
@@ -24,27 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "text": "Trump’s AI protectionism has come for robotics",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "flag": "wire"
   },
   {
-    "text": "Fender’s CEO seems to think your bandmates are just analog AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "flag": "wire"
-  },
-  {
-    "text": "Did an AI Music App Just Snitch on the Song of the Summer?",
+    "text": "Mistral Is in the Right Place at the Right Time",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+    "link": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
     "flag": "wire"
   },
   {
-    "text": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "text": "How Data Centers Broke American Politics",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
     "flag": "wire"
   },
   {
@@ -54,21 +36,39 @@
     "flag": "wire"
   },
   {
+    "text": "Can Reddit fend off a new wave of AI SEO spam?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+    "flag": "wire"
+  },
+  {
+    "text": "Europe’s AI labeling and transparency rules are now in effect",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "flag": "wire"
+  },
+  {
+    "text": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "flag": "wire"
+  },
+  {
+    "text": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "flag": "wire"
+  },
+  {
     "text": "Design Arena creators raise $7.9 million to bring taste to AI models",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
     "flag": "wire"
   },
   {
-    "text": "Trump’s AI protectionism has come for robotics",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "flag": "wire"
-  },
-  {
-    "text": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+    "text": "Did an AI Music App Just Snitch on the Song of the Summer?",
     "source": "Wired",
-    "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+    "link": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
     "flag": "wire"
   }
 ]
