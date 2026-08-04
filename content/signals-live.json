@@ -1,56 +1,8 @@
 [
   {
-    "text": "The Download: US robot restrictions, and ICE’s DNA grab",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-    "flag": "wire"
-  },
-  {
-    "text": "Can Reddit fend off a new wave of AI SEO spam?",
+    "text": "Texas says data centers must pass an audit before connecting to the grid",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-    "flag": "wire"
-  },
-  {
-    "text": "Is This Poker Player Bluffing? The AI Thinks So",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
-    "flag": "wire"
-  },
-  {
-    "text": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-    "flag": "wire"
-  },
-  {
-    "text": "Europe’s AI labeling and transparency rules are now in effect",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-    "flag": "wire"
-  },
-  {
-    "text": "Is the future of data centers portable? Runware builds a pod to find out",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump’s AI protectionism has come for robotics",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "flag": "wire"
-  },
-  {
-    "text": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+    "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
     "flag": "wire"
   },
   {
@@ -60,15 +12,63 @@
     "flag": "wire"
   },
   {
-    "text": "EON wants to move the data superhighway from ocean fiber to space lasers",
+    "text": "‘Not healthy’ LLM use is more common than you think",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+    "flag": "wire"
+  },
+  {
+    "text": "Is This Poker Player Bluffing? The AI Thinks So",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+    "flag": "wire"
+  },
+  {
+    "text": "Spotify expands AI remix and covers project with Merlin partnership",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
     "flag": "wire"
   },
   {
     "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "flag": "wire"
+  },
+  {
+    "text": "Texas halts new data centers as governor calls for audits",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+    "flag": "wire"
+  },
+  {
+    "text": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: US robot restrictions, and ICE’s DNA grab",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "flag": "wire"
+  },
+  {
+    "text": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump’s AI protectionism has come for robotics",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "flag": "wire"
   }
 ]
