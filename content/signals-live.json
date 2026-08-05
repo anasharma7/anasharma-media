@@ -1,14 +1,8 @@
 [
   {
-    "text": "Is This Poker Player Bluffing? The AI Thinks So",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
-    "flag": "wire"
-  },
-  {
-    "text": "SpaceX made more revenue as an AI company than a space company",
+    "text": "How an OpenAI influencer trip backfired",
     "source": "The Verge",
-    "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
     "flag": "wire"
   },
   {
@@ -18,39 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump’s AI protectionism has come for robotics",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "flag": "wire"
-  },
-  {
-    "text": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: US robot restrictions, and ICE’s DNA grab",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-    "flag": "wire"
-  },
-  {
-    "text": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "flag": "wire"
-  },
-  {
-    "text": "How an OpenAI influencer trip backfired",
+    "text": "SpaceX made more revenue as an AI company than a space company",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "flag": "wire"
+  },
+  {
+    "text": "NASA’s new dark energy space telescope can also detect killer asteroids",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
     "flag": "wire"
   },
   {
@@ -60,15 +30,45 @@
     "flag": "wire"
   },
   {
+    "text": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "flag": "wire"
+  },
+  {
     "text": "OK, Well, Rogue AI Agents Are Hacking Again",
     "source": "Wired",
     "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
     "flag": "wire"
   },
   {
-    "text": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+    "text": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "flag": "wire"
+  },
+  {
+    "text": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
     "source": "Wired",
-    "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+    "link": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI Notetaker Has Been Invited to All the Meetings",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump’s AI protectionism has come for robotics",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: US robot restrictions, and ICE’s DNA grab",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
     "flag": "wire"
   }
 ]
