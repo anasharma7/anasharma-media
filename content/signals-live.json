@@ -1,14 +1,44 @@
 [
   {
-    "text": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "text": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: NASA’s new telescope and Chinese tech import curbs",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
     "flag": "wire"
   },
   {
     "text": "Puzzle Corner",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "flag": "wire"
+  },
+  {
+    "text": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
     "flag": "wire"
   },
   {
@@ -30,45 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Influencers Are Heading Into Uncharted Territory",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
-    "flag": "wire"
-  },
-  {
-    "text": "Reddit is introducing a new moderator: AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: NASA’s new telescope and Chinese tech import curbs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-    "flag": "wire"
-  },
-  {
-    "text": "Hark previews its browser use agent for completing tasks",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-    "flag": "wire"
-  },
-  {
     "text": "Shopify says AI search is driving more traffic and sales, not replacing Google",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "flag": "wire"
+  },
+  {
+    "text": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
     "flag": "wire"
   }
 ]
