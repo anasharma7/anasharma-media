@@ -1,38 +1,14 @@
 [
   {
+    "text": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "flag": "wire"
+  },
+  {
     "text": "Anthropic signs $10B deal with AI cloud startup Volta",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: US robot restrictions, and ICE’s DNA grab",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-    "flag": "wire"
-  },
-  {
-    "text": "AMD&#8217;s datacenter business is booming while gaming takes a backseat",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-    "flag": "wire"
-  },
-  {
-    "text": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
     "flag": "wire"
   },
   {
@@ -42,9 +18,21 @@
     "flag": "wire"
   },
   {
-    "text": "How One Startup Built a (Mostly) China-Free Robot",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+    "text": "SpaceX made more revenue as an AI company than a space company",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: US robot restrictions, and ICE’s DNA grab",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "flag": "wire"
+  },
+  {
+    "text": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
     "flag": "wire"
   },
   {
@@ -54,21 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "SpaceX has more neocloud revenue",
+    "text": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "flag": "wire"
+  },
+  {
+    "text": "AMD&#8217;s data center business is booming while gaming takes a backseat",
     "source": "The Verge",
-    "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+    "flag": "wire"
+  },
+  {
+    "text": "OK, Well, Rogue AI Agents Are Hacking Again",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
     "flag": "wire"
   },
   {
     "text": "Trump’s AI protectionism has come for robotics",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "flag": "wire"
-  },
-  {
-    "text": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
     "flag": "wire"
   }
 ]
