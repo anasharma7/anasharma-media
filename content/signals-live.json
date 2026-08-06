@@ -6,9 +6,33 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: NASA’s new telescope and Chinese tech import curbs",
+    "text": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+    "flag": "wire"
+  },
+  {
+    "text": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google just announced a major shakeup of its top AI leadership",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta launches Muse Code, an AI agent for large code bases",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "flag": "wire"
+  },
+  {
+    "text": "NASA’s new dark-energy space telescope can also detect killer asteroids",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
     "flag": "wire"
   },
   {
@@ -24,15 +48,9 @@
     "flag": "wire"
   },
   {
-    "text": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
+    "text": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+    "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
     "flag": "wire"
   },
   {
@@ -42,33 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "SpaceX is barely Space and mostly X",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
-    "flag": "wire"
-  },
-  {
-    "text": "Google just announced a major shakeup of its top AI leadership",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-    "flag": "wire"
-  },
-  {
-    "text": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "flag": "wire"
-  },
-  {
-    "text": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+    "text": "The Download: NASA’s new telescope and Chinese tech import curbs",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "flag": "wire"
+  },
+  {
+    "text": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
     "flag": "wire"
   }
 ]
