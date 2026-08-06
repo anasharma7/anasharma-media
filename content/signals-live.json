@@ -1,20 +1,8 @@
 [
   {
-    "text": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "text": "Meta launches Muse Code, an AI agent for large code bases",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
     "flag": "wire"
   },
   {
@@ -24,27 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Sure seems like Fenix Flexin used AI music generator Treblo",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-    "flag": "wire"
-  },
-  {
-    "text": "SpaceX is barely Space and mostly X",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta launches Muse Code, an AI agent for large code bases",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: NASA’s new telescope and Chinese tech import curbs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "text": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
     "flag": "wire"
   },
   {
@@ -54,9 +24,39 @@
     "flag": "wire"
   },
   {
-    "text": "Google just announced a major shakeup of its top AI leadership",
+    "text": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+    "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: NASA’s new telescope and Chinese tech import curbs",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+    "text": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
     "flag": "wire"
   }
 ]
