@@ -1,20 +1,38 @@
 [
   {
-    "text": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-    "flag": "wire"
-  },
-  {
-    "text": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+    "text": "Why Normal People Aren’t Using AI Agents",
     "source": "Wired",
-    "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+    "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT brings unlimited text chats to free users",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "flag": "wire"
+  },
+  {
+    "text": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "flag": "wire"
   },
   {
@@ -24,33 +42,21 @@
     "flag": "wire"
   },
   {
-    "text": "Amid legal battles, Suno says it will start watermarking songs",
+    "text": "Suno shares plans to combat spammy AI music",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "flag": "wire"
+  },
+  {
+    "text": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI bots started a religion — humans immediately followed",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-    "flag": "wire"
-  },
-  {
-    "text": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
     "flag": "wire"
   },
   {
@@ -60,15 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
     "flag": "wire"
   }
 ]
