@@ -1,8 +1,8 @@
 [
   {
-    "text": "ChatGPT brings unlimited text chats to free users",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "text": "Scientists Used AI to Create 16 New Viruses",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
     "flag": "wire"
   },
   {
@@ -12,51 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: NASA’s new telescope and Chinese tech import curbs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-    "flag": "wire"
-  },
-  {
-    "text": "Suno shares plans to combat spammy AI music",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-    "flag": "wire"
-  },
-  {
-    "text": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI is giving ChatGPT free users unlimited text chats",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-    "flag": "wire"
-  },
-  {
-    "text": "Puzzle Corner",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
     "flag": "wire"
   },
   {
@@ -66,9 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "Why Normal People Aren’t Using AI Agents",
+    "text": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "flag": "wire"
+  },
+  {
+    "text": "Suno shares plans to combat spammy AI music",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "flag": "wire"
+  },
+  {
+    "text": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "flag": "wire"
+  },
+  {
+    "text": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
     "source": "Wired",
-    "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
     "flag": "wire"
   }
 ]
