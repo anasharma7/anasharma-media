@@ -1,26 +1,8 @@
 [
   {
-    "text": "Why Normal People Aren’t Using AI Agents",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT brings unlimited text chats to free users",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "flag": "wire"
-  },
-  {
-    "text": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
+    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
     "flag": "wire"
   },
   {
@@ -30,27 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "text": "Why Normal People Aren’t Using AI Agents",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT brings unlimited text chats to free users",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: NASA’s new telescope and Chinese tech import curbs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-    "flag": "wire"
-  },
-  {
-    "text": "Suno shares plans to combat spammy AI music",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI is giving ChatGPT free users unlimited text chats",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
     "flag": "wire"
   },
   {
@@ -60,15 +30,45 @@
     "flag": "wire"
   },
   {
+    "text": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
+    "flag": "wire"
+  },
+  {
+    "text": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+    "flag": "wire"
+  },
+  {
+    "text": "Suno shares plans to combat spammy AI music",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: NASA’s new telescope and Chinese tech import curbs",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "flag": "wire"
+  },
+  {
     "text": "Puzzle Corner",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
     "flag": "wire"
   },
   {
-    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "text": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
     "flag": "wire"
   }
 ]
