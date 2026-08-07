@@ -1,32 +1,14 @@
 [
   {
+    "text": "ChatGPT brings unlimited text chats to free users",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "flag": "wire"
+  },
+  {
     "text": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
     "source": "Wired",
     "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI is giving ChatGPT free users unlimited text chats",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-    "flag": "wire"
-  },
-  {
-    "text": "Why Normal People Aren’t Using AI Agents",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
     "flag": "wire"
   },
   {
@@ -36,21 +18,21 @@
     "flag": "wire"
   },
   {
-    "text": "ChatGPT brings unlimited text chats to free users",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "flag": "wire"
-  },
-  {
     "text": "Suno shares plans to combat spammy AI music",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
     "flag": "wire"
   },
   {
-    "text": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "text": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
     "flag": "wire"
   },
   {
@@ -60,15 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "text": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
     "flag": "wire"
   },
   {
-    "text": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+    "text": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "flag": "wire"
+  },
+  {
+    "text": "New Mexico court orders Meta to pay additional $567M in child safety case",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+    "flag": "wire"
+  },
+  {
+    "text": "Why Normal People Aren’t Using AI Agents",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
+    "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
     "flag": "wire"
   }
 ]
