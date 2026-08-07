@@ -1,14 +1,20 @@
 [
   {
-    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "text": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
     "flag": "wire"
   },
   {
-    "text": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "text": "OpenAI is giving ChatGPT free users unlimited text chats",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
     "flag": "wire"
   },
   {
@@ -18,39 +24,27 @@
     "flag": "wire"
   },
   {
-    "text": "ChatGPT brings unlimited text chats to free users",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "flag": "wire"
-  },
-  {
-    "text": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "flag": "wire"
-  },
-  {
-    "text": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-    "flag": "wire"
-  },
-  {
-    "text": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-    "flag": "wire"
-  },
-  {
-    "text": "Suno shares plans to combat spammy AI music",
+    "text": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
     "flag": "wire"
   },
   {
     "text": "The Download: NASA’s new telescope and Chinese tech import curbs",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT brings unlimited text chats to free users",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "flag": "wire"
+  },
+  {
+    "text": "Suno shares plans to combat spammy AI music",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
     "flag": "wire"
   },
   {
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI is giving ChatGPT free users unlimited text chats",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "text": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "flag": "wire"
+  },
+  {
+    "text": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
     "flag": "wire"
   }
 ]
