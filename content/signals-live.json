@@ -1,14 +1,20 @@
 [
   {
-    "text": "Scientists Used AI to Create 16 New Viruses",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "text": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
     "flag": "wire"
   },
   {
-    "text": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+    "text": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
     "source": "Wired",
-    "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "flag": "wire"
+  },
+  {
+    "text": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
     "flag": "wire"
   },
   {
@@ -18,45 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: a censorship conspiracy theory and the first virus created by AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-    "flag": "wire"
-  },
-  {
-    "text": "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-    "flag": "wire"
-  },
-  {
-    "text": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-    "flag": "wire"
-  },
-  {
-    "text": "Suno shares plans to combat spammy AI music",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-    "flag": "wire"
-  },
-  {
-    "text": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI is giving ChatGPT free users unlimited text chats",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "text": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
     "flag": "wire"
   },
   {
@@ -66,9 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "text": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "flag": "wire"
+  },
+  {
+    "text": "Scientists Used AI to Create 16 New Viruses",
     "source": "Wired",
-    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "flag": "wire"
+  },
+  {
+    "text": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "flag": "wire"
+  },
+  {
+    "text": "Watching Roku’s AI channel is like eating from a trough",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
     "flag": "wire"
   }
 ]
