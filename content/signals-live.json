@@ -1,5 +1,11 @@
 [
   {
+    "text": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "flag": "wire"
+  },
+  {
     "text": "Watching Roku’s AI channel is like eating from a trough",
     "source": "The Verge",
     "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
@@ -12,9 +18,15 @@
     "flag": "wire"
   },
   {
-    "text": "How to Disable Gemini in Gmail and Google Docs",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+    "text": "OpenAI says it slowed Astra model development over security concerns",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
     "flag": "wire"
   },
   {
@@ -27,6 +39,12 @@
     "text": "Scientists Used AI to Create 16 New Viruses",
     "source": "Wired",
     "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "flag": "wire"
+  },
+  {
+    "text": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
     "flag": "wire"
   },
   {
@@ -48,27 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "text": "How to Disable Gemini in Gmail and Google Docs",
     "source": "Wired",
-    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI says it slowed Astra model development over security concerns",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
     "flag": "wire"
   }
 ]
