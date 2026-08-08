@@ -1,38 +1,20 @@
 [
   {
-    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-    "flag": "wire"
-  },
-  {
-    "text": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "flag": "wire"
-  },
-  {
     "text": "After Rippling blew millions on AI in months, it built an employee ROI tool",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
     "flag": "wire"
   },
   {
-    "text": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+    "text": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
     "flag": "wire"
   },
   {
-    "text": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-    "flag": "wire"
-  },
-  {
-    "text": "Watching Roku’s AI channel is like eating from a trough",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
     "flag": "wire"
   },
   {
@@ -42,21 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI says it slowed Astra model development over security concerns",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "flag": "wire"
-  },
-  {
-    "text": "Scientists Used AI to Create 16 New Viruses",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "text": "Suno shares plans to combat spammy AI music",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
     "flag": "wire"
   },
   {
@@ -66,9 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+    "text": "OpenAI says it slowed Astra model development over security concerns",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "flag": "wire"
+  },
+  {
+    "text": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "flag": "wire"
+  },
+  {
+    "text": "Scientists Used AI to Create 16 New Viruses",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
     "flag": "wire"
   }
 ]
