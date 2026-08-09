@@ -1,50 +1,8 @@
 [
   {
-    "text": "Scientists Used AI to Create 16 New Viruses",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-    "flag": "wire"
-  },
-  {
-    "text": "An Amazon data center could have the worst polluting power plant in the country",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "flag": "wire"
-  },
-  {
-    "text": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-    "flag": "wire"
-  },
-  {
     "text": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-    "flag": "wire"
-  },
-  {
-    "text": "Watching Roku’s AI channel is like eating from a trough",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "flag": "wire"
-  },
-  {
-    "text": "How to Disable Gemini in Gmail and Google Docs",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI acquires presentation startup NextSlide",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "flag": "wire"
   },
   {
@@ -54,9 +12,51 @@
     "flag": "wire"
   },
   {
-    "text": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "text": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "flag": "wire"
+  },
+  {
+    "text": "How to Disable Gemini in Gmail and Google Docs",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "flag": "wire"
+  },
+  {
+    "text": "An Amazon data center could have the worst polluting power plant in the country",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+    "flag": "wire"
+  },
+  {
+    "text": "Scientists Used AI to Create 16 New Viruses",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "flag": "wire"
+  },
+  {
+    "text": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "flag": "wire"
+  },
+  {
+    "text": "Watching Roku’s AI channel is like eating from a trough",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI acquires presentation startup NextSlide",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "flag": "wire"
   },
   {
