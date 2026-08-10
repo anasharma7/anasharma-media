@@ -1,20 +1,32 @@
 [
   {
-    "text": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "text": "Tech industry is buzzing after a Claude agent hacked into a gym",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
     "flag": "wire"
   },
   {
-    "text": "The Download: AI agents for science, and the “censorship-industrial complex”",
+    "text": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+    "flag": "wire"
+  },
+  {
+    "text": "AI professors are negotiating the new realities of academic research",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
     "flag": "wire"
   },
   {
     "text": "AI for science needs reasoning, not just data",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "flag": "wire"
+  },
+  {
+    "text": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
     "flag": "wire"
   },
   {
@@ -30,27 +42,21 @@
     "flag": "wire"
   },
   {
-    "text": "The Rise of the 1 am Job Interview",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
-    "flag": "wire"
-  },
-  {
-    "text": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-    "flag": "wire"
-  },
-  {
-    "text": "These startups are chasing the next big thing in LLMs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "flag": "wire"
-  },
-  {
     "text": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "flag": "wire"
+  },
+  {
+    "text": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Rise of the 1 am Job Interview",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
     "flag": "wire"
   },
   {
@@ -60,15 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-    "flag": "wire"
-  },
-  {
-    "text": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "text": "The Download: AI agents for science, and the “censorship-industrial complex”",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
     "flag": "wire"
   }
 ]
