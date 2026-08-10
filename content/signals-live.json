@@ -6,27 +6,15 @@
     "flag": "wire"
   },
   {
+    "text": "The Download: AI agents for science, and the “censorship-industrial complex”",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+    "flag": "wire"
+  },
+  {
     "text": "AI for science needs reasoning, not just data",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "flag": "wire"
-  },
-  {
-    "text": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-    "flag": "wire"
-  },
-  {
-    "text": "The AI Slop Backlash Is Actually Having an Impact",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-    "flag": "wire"
-  },
-  {
-    "text": "These startups are chasing the next big thing in LLMs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
     "flag": "wire"
   },
   {
@@ -36,39 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic is turning Claude Code’s auto mode on by default",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI agents for science, and the “censorship-industrial complex”",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-    "flag": "wire"
-  },
-  {
-    "text": "An Amazon data center could have the worst polluting power plant in the country",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "flag": "wire"
-  },
-  {
-    "text": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI detectors are creating a new era of distrust",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "text": "The AI Slop Backlash Is Actually Having an Impact",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
     "flag": "wire"
   },
   {
     "text": "The Rise of the 1 am Job Interview",
     "source": "Wired",
     "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+    "flag": "wire"
+  },
+  {
+    "text": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+    "flag": "wire"
+  },
+  {
+    "text": "These startups are chasing the next big thing in LLMs",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "flag": "wire"
+  },
+  {
+    "text": "What happens to Bose when headphones become AI?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+    "flag": "wire"
+  },
+  {
+    "text": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+    "flag": "wire"
+  },
+  {
+    "text": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
     "flag": "wire"
   }
 ]
