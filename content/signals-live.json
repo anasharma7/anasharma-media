@@ -1,8 +1,14 @@
 [
   {
-    "text": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+    "text": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a censorship conspiracy theory and the first virus created by AI",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
     "flag": "wire"
   },
   {
@@ -18,45 +24,15 @@
     "flag": "wire"
   },
   {
-    "text": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
-    "flag": "wire"
-  },
-  {
-    "text": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI detectors are creating a new era of distrust",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-    "flag": "wire"
-  },
-  {
     "text": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
     "flag": "wire"
   },
   {
-    "text": "An Amazon data center could have the worst polluting power plant in the country",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "text": "These startups are chasing the next big thing in LLMs",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
     "flag": "wire"
   },
   {
@@ -66,9 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "text": "An Amazon data center could have the worst polluting power plant in the country",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+    "flag": "wire"
+  },
+  {
+    "text": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI for science needs reasoning, not just data",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI detectors are creating a new era of distrust",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "flag": "wire"
+  },
+  {
+    "text": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
     "flag": "wire"
   }
 ]
