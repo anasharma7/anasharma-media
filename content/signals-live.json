@@ -1,26 +1,8 @@
 [
   {
-    "text": "Tech industry is buzzing after a Claude agent hacked into a gym",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "flag": "wire"
-  },
-  {
-    "text": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+    "text": "What happens to Bose when headphones become AI?",
     "source": "The Verge",
-    "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-    "flag": "wire"
-  },
-  {
-    "text": "AI professors are negotiating the new realities of academic research",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI for science needs reasoning, not just data",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
     "flag": "wire"
   },
   {
@@ -30,27 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+    "text": "Mark Zuckerberg doesn’t understand how to live",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
     "flag": "wire"
   },
   {
-    "text": "The AI Slop Backlash Is Actually Having an Impact",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "text": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "flag": "wire"
-  },
-  {
-    "text": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
     "flag": "wire"
   },
   {
@@ -60,15 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "What happens to Bose when headphones become AI?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+    "text": "The AI Slop Backlash Is Actually Having an Impact",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+    "flag": "wire"
+  },
+  {
+    "text": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI professors are negotiating the new realities of academic research",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
     "flag": "wire"
   },
   {
     "text": "The Download: AI agents for science, and the “censorship-industrial complex”",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI for science needs reasoning, not just data",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
     "flag": "wire"
   }
 ]
