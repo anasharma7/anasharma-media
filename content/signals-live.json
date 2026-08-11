@@ -1,38 +1,8 @@
 [
   {
-    "text": "What happens to Bose when headphones become AI?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-    "flag": "wire"
-  },
-  {
-    "text": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-    "flag": "wire"
-  },
-  {
-    "text": "Mark Zuckerberg doesn’t understand how to live",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-    "flag": "wire"
-  },
-  {
-    "text": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Rise of the 1 am Job Interview",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
-    "flag": "wire"
-  },
-  {
-    "text": "The AI Slop Backlash Is Actually Having an Impact",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "text": "AI professors are negotiating the new realities of academic research",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
     "flag": "wire"
   },
   {
@@ -42,21 +12,33 @@
     "flag": "wire"
   },
   {
+    "text": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+    "flag": "wire"
+  },
+  {
     "text": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
     "source": "Wired",
     "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
     "flag": "wire"
   },
   {
-    "text": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "text": "What happens to Bose when headphones become AI?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
     "flag": "wire"
   },
   {
-    "text": "AI professors are negotiating the new realities of academic research",
+    "text": "AI for science needs reasoning, not just data",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
     "flag": "wire"
   },
   {
@@ -66,9 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "AI for science needs reasoning, not just data",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "text": "The Rise of the 1 am Job Interview",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+    "flag": "wire"
+  },
+  {
+    "text": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "flag": "wire"
+  },
+  {
+    "text": "Mark Zuckerberg doesn’t understand how to live",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI Slop Backlash Is Actually Having an Impact",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
     "flag": "wire"
   }
 ]
