@@ -1,26 +1,38 @@
 [
   {
-    "text": "Another OpenAI executive takes off",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI launches ChatGPT desktop app for Linux",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "flag": "wire"
-  },
-  {
     "text": "Oh Lord, AI Reporters Are Actually Breaking Big News",
     "source": "Wired",
     "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
     "flag": "wire"
   },
   {
-    "text": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "text": "Lovable confirms new $13.3B valuation, raises another $400M",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+    "flag": "wire"
+  },
+  {
+    "text": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+    "flag": "wire"
+  },
+  {
+    "text": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "flag": "wire"
+  },
+  {
+    "text": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "flag": "wire"
+  },
+  {
+    "text": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
     "flag": "wire"
   },
   {
@@ -36,15 +48,15 @@
     "flag": "wire"
   },
   {
-    "text": "You’re Thinking About Online Trends All Wrong",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+    "text": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
     "flag": "wire"
   },
   {
-    "text": "Google’s Gemini app surges to 1 billion users",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "text": "Google’s Pixel Watch 5 dives deeper into AI and health",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
     "flag": "wire"
   },
   {
@@ -57,18 +69,6 @@
     "text": "How the “censorship-industrial complex” is changing the internet and US policy",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT and Gemini both just passed 1 billion users",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-    "flag": "wire"
-  },
-  {
-    "text": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
     "flag": "wire"
   }
 ]
