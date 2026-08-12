@@ -1,5 +1,11 @@
 [
   {
+    "text": "AI Is Dead. Organoids Are Alive",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+    "flag": "wire"
+  },
+  {
     "text": "Another OpenAI executive takes off",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
@@ -12,54 +18,6 @@
     "flag": "wire"
   },
   {
-    "text": "Google’s Gemini app surges to one billion users",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "flag": "wire"
-  },
-  {
-    "text": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-    "flag": "wire"
-  },
-  {
-    "text": "How the “censorship-industrial complex” is changing the Internet and US policy",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI professors are negotiating the new realities of academic research",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI launches ChatGPT desktop app for Linux",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "flag": "wire"
-  },
-  {
-    "text": "Made by Google 2026: all the Pixel news and announcements",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Is Dead. Organoids Are Alive",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-    "flag": "wire"
-  },
-  {
     "text": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
     "source": "Wired",
     "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
@@ -69,6 +27,48 @@
     "text": "A New Trick Reveals AI Models’ Inner Thoughts",
     "source": "Wired",
     "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+    "flag": "wire"
+  },
+  {
+    "text": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "flag": "wire"
+  },
+  {
+    "text": "AI professors are negotiating the new realities of academic research",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s Gemini app surges to 1 billion users",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "flag": "wire"
+  },
+  {
+    "text": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "flag": "wire"
+  },
+  {
+    "text": "How the “censorship-industrial complex” is changing the Internet and US policy",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI launches ChatGPT desktop app for Linux",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
     "flag": "wire"
   }
 ]
