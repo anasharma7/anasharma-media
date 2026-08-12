@@ -1,56 +1,8 @@
 [
   {
-    "text": "AI Is Dead. Organoids Are Alive",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-    "flag": "wire"
-  },
-  {
-    "text": "Another OpenAI executive takes off",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT and Gemini both just passed 1 billion users",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-    "flag": "wire"
-  },
-  {
-    "text": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-    "flag": "wire"
-  },
-  {
-    "text": "A New Trick Reveals AI Models’ Inner Thoughts",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-    "flag": "wire"
-  },
-  {
-    "text": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-    "flag": "wire"
-  },
-  {
     "text": "AI professors are negotiating the new realities of academic research",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s Gemini app surges to 1 billion users",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "flag": "wire"
-  },
-  {
-    "text": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
     "flag": "wire"
   },
   {
@@ -60,15 +12,63 @@
     "flag": "wire"
   },
   {
+    "text": "Another OpenAI executive takes off",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Is Dead. Organoids Are Alive",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+    "flag": "wire"
+  },
+  {
+    "text": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "flag": "wire"
+  },
+  {
+    "text": "A New Trick Reveals AI Models’ Inner Thoughts",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT and Gemini both just passed 1 billion users",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: the next big thing in LLMs and how AI academic research is shifting",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
     "flag": "wire"
   },
   {
+    "text": "Google’s Gemini app surges to 1 billion users",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "flag": "wire"
+  },
+  {
+    "text": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI launches ChatGPT desktop app for Linux",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "flag": "wire"
+  },
+  {
+    "text": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
     "flag": "wire"
   }
 ]
