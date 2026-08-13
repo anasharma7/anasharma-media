@@ -1,56 +1,8 @@
 [
   {
-    "text": "How kids feel about AI, in their own words",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: kids’ thoughts on AI, and female clones of male mice",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-    "flag": "wire"
-  },
-  {
-    "text": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "text": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "flag": "wire"
-  },
-  {
-    "text": "What’s behind this summer’s heat, and why 2027 could be worse",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-    "flag": "wire"
-  },
-  {
-    "text": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s Pixel Watch 5 dives deeper into AI and health",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-    "flag": "wire"
-  },
-  {
-    "text": "Guitar company D’Addario admits that AI music was used in a promotional video",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-    "flag": "wire"
-  },
-  {
-    "text": "Twitch streamers can now opt out from training Amazon’s AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
     "flag": "wire"
   },
   {
@@ -60,15 +12,63 @@
     "flag": "wire"
   },
   {
+    "text": "I looked inside an AI generated movie, and the best parts were all human",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+    "flag": "wire"
+  },
+  {
+    "text": "Apple in talks to pay publishers to provide Siri with current news: report",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+    "flag": "wire"
+  },
+  {
+    "text": "Suno is trying to look more like a real music production tool",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "flag": "wire"
+  },
+  {
     "text": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
     "source": "Wired",
     "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
     "flag": "wire"
   },
   {
-    "text": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "text": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+    "flag": "wire"
+  },
+  {
+    "text": "Flock is tightening its rules in response to a growing surveillance backlash",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: kids’ thoughts on AI, and female clones of male mice",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+    "flag": "wire"
+  },
+  {
+    "text": "Does Google even want to win at AI?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+    "flag": "wire"
+  },
+  {
+    "text": "What’s behind this summer’s heat, and why 2027 could be worse",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
     "flag": "wire"
   }
 ]
