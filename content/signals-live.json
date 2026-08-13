@@ -6,51 +6,21 @@
     "flag": "wire"
   },
   {
-    "text": "Twitch streamers can now opt out from training Amazon’s AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: our 35 young innovators and the “censorship-industrial complex”",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
     "flag": "wire"
   },
   {
-    "text": "Scientists just created female clones of male mice",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "text": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s Pixel Watch 5 dives deeper into AI and health",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-    "flag": "wire"
-  },
-  {
-    "text": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
     "flag": "wire"
   },
   {
     "text": "Scaling AI agents with trustworthy data",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
     "flag": "wire"
   },
   {
@@ -63,6 +33,36 @@
     "text": "Guitar company D’Addario admits that AI music was used in a promotional video",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "flag": "wire"
+  },
+  {
+    "text": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "flag": "wire"
+  },
+  {
+    "text": "Twitch streamers can now opt out from training Amazon’s AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s Pixel Watch 5 dives deeper into AI and health",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "flag": "wire"
+  },
+  {
+    "text": "Scientists just created female clones of male mice",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
     "flag": "wire"
   },
   {
