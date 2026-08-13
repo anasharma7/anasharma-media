@@ -1,14 +1,8 @@
 [
   {
-    "text": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-    "flag": "wire"
-  },
-  {
-    "text": "The White House Is Going to Expand Its AI Policy",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "text": "Suno is trying to look more like a real music production tool",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
     "flag": "wire"
   },
   {
@@ -18,21 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "Apple in talks to pay publishers to provide Siri with current news: report",
+    "text": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
     "flag": "wire"
   },
   {
-    "text": "Suno is trying to look more like a real music production tool",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-    "flag": "wire"
-  },
-  {
-    "text": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "text": "The White House Is Going to Expand Its AI Policy",
     "source": "Wired",
-    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+    "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
     "flag": "wire"
   },
   {
@@ -42,9 +30,33 @@
     "flag": "wire"
   },
   {
+    "text": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "flag": "wire"
+  },
+  {
     "text": "Flock is tightening its rules in response to a growing surveillance backlash",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "flag": "wire"
+  },
+  {
+    "text": "Building a practical path to post-quantum cryptography",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+    "flag": "wire"
+  },
+  {
+    "text": "IBM partners with OpenAI to bolster enterprise AI push",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI is losing its second executive this week",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
     "flag": "wire"
   },
   {
@@ -54,21 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-    "flag": "wire"
-  },
-  {
-    "text": "Does Google even want to win at AI?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-    "flag": "wire"
-  },
-  {
-    "text": "What’s behind this summer’s heat, and why 2027 could be worse",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+    "text": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
     "flag": "wire"
   }
 ]
