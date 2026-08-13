@@ -1,38 +1,14 @@
 [
   {
-    "text": "The White House Is Going to Expand Its AI Policy",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+    "text": "How kids feel about AI, in their own words",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
     "flag": "wire"
   },
   {
-    "text": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "flag": "wire"
-  },
-  {
-    "text": "Scaling AI agents with trustworthy data",
+    "text": "The Download: kids’ thoughts on AI, and female clones of male mice",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "flag": "wire"
-  },
-  {
-    "text": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
-    "flag": "wire"
-  },
-  {
-    "text": "Guitar company D’Addario admits that AI music was used in a promotional video",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
     "flag": "wire"
   },
   {
@@ -42,9 +18,15 @@
     "flag": "wire"
   },
   {
-    "text": "Twitch streamers can now opt out from training Amazon’s AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "text": "What’s behind this summer’s heat, and why 2027 could be worse",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+    "flag": "wire"
+  },
+  {
+    "text": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
     "flag": "wire"
   },
   {
@@ -54,21 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "Scientists just created female clones of male mice",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+    "text": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "flag": "wire"
+  },
+  {
+    "text": "Twitch streamers can now opt out from training Amazon’s AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "flag": "wire"
+  },
+  {
+    "text": "The White House Is Going to Expand Its AI Policy",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "flag": "wire"
+  },
+  {
+    "text": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
     "flag": "wire"
   },
   {
     "text": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "flag": "wire"
-  },
-  {
-    "text": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
     "flag": "wire"
   }
 ]
