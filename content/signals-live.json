@@ -1,32 +1,8 @@
 [
   {
-    "text": "Suno is trying to look more like a real music production tool",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-    "flag": "wire"
-  },
-  {
-    "text": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-    "flag": "wire"
-  },
-  {
     "text": "Flock is tightening its rules in response to a growing surveillance backlash",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "flag": "wire"
   },
   {
@@ -36,9 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "text": "OpenAI is losing its second executive this week",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "flag": "wire"
+  },
+  {
+    "text": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
     "flag": "wire"
   },
   {
@@ -48,9 +30,15 @@
     "flag": "wire"
   },
   {
-    "text": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "text": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "flag": "wire"
+  },
+  {
+    "text": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
     "flag": "wire"
   },
   {
@@ -66,9 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI is losing its second executive this week",
+    "text": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "flag": "wire"
+  },
+  {
+    "text": "Suno is trying to look more like a real music production tool",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "flag": "wire"
   }
 ]
