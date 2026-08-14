@@ -6,57 +6,15 @@
     "flag": "wire"
   },
   {
-    "text": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI is losing its second executive this week",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-    "flag": "wire"
-  },
-  {
-    "text": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-    "flag": "wire"
-  },
-  {
-    "text": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "flag": "wire"
-  },
-  {
     "text": "Writer introduces new AI model and upgraded harness to contain token costs",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "flag": "wire"
   },
   {
-    "text": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Safety Reckoning Inside OpenAI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-    "flag": "wire"
-  },
-  {
-    "text": "Building a practical path to post-quantum cryptography",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "text": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "flag": "wire"
   },
   {
@@ -66,9 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "text": "OpenAI is losing its second executive this week",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "flag": "wire"
+  },
+  {
+    "text": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Safety Reckoning Inside OpenAI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+    "flag": "wire"
+  },
+  {
+    "text": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "flag": "wire"
+  },
+  {
+    "text": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+    "flag": "wire"
+  },
+  {
+    "text": "Building a practical path to post-quantum cryptography",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+    "flag": "wire"
+  },
+  {
+    "text": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
     "flag": "wire"
   }
 ]
