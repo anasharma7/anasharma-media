@@ -1,20 +1,38 @@
 [
   {
-    "text": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "text": "Kog is going deeper to squeeze more inference out of GPUs",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
     "flag": "wire"
   },
   {
-    "text": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+    "text": "This scientist is helping build a missing map of childhood",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "flag": "wire"
+  },
+  {
+    "text": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
     "source": "Wired",
-    "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google will now allow users to remove visible watermark from its AI generations",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "flag": "wire"
+  },
+  {
+    "text": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
     "flag": "wire"
   },
   {
@@ -24,15 +42,9 @@
     "flag": "wire"
   },
   {
-    "text": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-    "flag": "wire"
-  },
-  {
-    "text": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "text": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
     "flag": "wire"
   },
   {
@@ -42,15 +54,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI is losing its second executive this week",
+    "text": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
     "flag": "wire"
   },
   {
@@ -60,15 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Safety Reckoning Inside OpenAI",
+    "text": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
     "source": "Wired",
-    "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-    "flag": "wire"
-  },
-  {
-    "text": "This scientist is helping build a missing map of childhood",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
     "flag": "wire"
   }
 ]
