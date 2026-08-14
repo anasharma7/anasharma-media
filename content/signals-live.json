@@ -1,11 +1,5 @@
 [
   {
-    "text": "Flock is tightening its rules in response to a growing surveillance backlash",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "flag": "wire"
-  },
-  {
     "text": "Writer introduces new AI model and upgraded harness to contain token costs",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -18,33 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "Suno is trying to look more like a real music production tool",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI is losing its second executive this week",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-    "flag": "wire"
-  },
-  {
-    "text": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+    "text": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
     "source": "Wired",
-    "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+    "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
     "flag": "wire"
   },
   {
-    "text": "The Safety Reckoning Inside OpenAI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+    "text": "Apple trained its own AI model for China with help from Alibaba",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
     "flag": "wire"
   },
   {
@@ -54,21 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-    "flag": "wire"
-  },
-  {
-    "text": "Building a practical path to post-quantum cryptography",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-    "flag": "wire"
-  },
-  {
     "text": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "flag": "wire"
+  },
+  {
+    "text": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI is losing its second executive this week",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "flag": "wire"
+  },
+  {
+    "text": "Job titles of the future: Space travel agent",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Safety Reckoning Inside OpenAI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+    "flag": "wire"
+  },
+  {
+    "text": "This scientist is helping build a missing map of childhood",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
     "flag": "wire"
   }
 ]
