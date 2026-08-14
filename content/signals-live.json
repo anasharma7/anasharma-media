@@ -1,14 +1,38 @@
 [
   {
+    "text": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "flag": "wire"
+  },
+  {
+    "text": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+    "flag": "wire"
+  },
+  {
+    "text": "Job titles of the future: Space travel agent",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
     "flag": "wire"
   },
   {
-    "text": "Kog is going deeper to squeeze more inference out of GPUs",
+    "text": "Google will now allow users to remove visible watermark from its AI generations",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "flag": "wire"
+  },
+  {
+    "text": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
     "flag": "wire"
   },
   {
@@ -24,21 +48,15 @@
     "flag": "wire"
   },
   {
-    "text": "Google will now allow users to remove visible watermark from its AI generations",
+    "text": "Mark Zuckerberg has an Instagzam",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "flag": "wire"
+  },
+  {
+    "text": "Kog is going deeper to squeeze more inference out of GPUs",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "flag": "wire"
-  },
-  {
-    "text": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple trained its own AI model for China with help from Alibaba",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
     "flag": "wire"
   },
   {
@@ -48,27 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "text": "Apple trained its own AI model for China with help from Alibaba",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-    "flag": "wire"
-  },
-  {
-    "text": "Job titles of the future: Space travel agent",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-    "flag": "wire"
-  },
-  {
-    "text": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
     "flag": "wire"
   }
 ]
