@@ -1,20 +1,8 @@
 [
   {
-    "text": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "text": "SpaceX officially closes its Cursor acquisition",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "flag": "wire"
-  },
-  {
-    "text": "This scientist is helping build a missing map of childhood",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-    "flag": "wire"
-  },
-  {
-    "text": "Kog is going deeper to squeeze more inference out of GPUs",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
     "flag": "wire"
   },
   {
@@ -24,15 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "Google will now allow users to remove visible watermark from its AI generations",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
     "flag": "wire"
   },
   {
-    "text": "Apple trained its own AI model for China with help from Alibaba",
+    "text": "You can now turn off Google Gemini&#8217;s visible watermarks",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
     "flag": "wire"
   },
   {
@@ -42,9 +30,9 @@
     "flag": "wire"
   },
   {
-    "text": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "text": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
     "flag": "wire"
   },
   {
@@ -60,15 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+    "text": "Google will now allow users to remove visible watermark from its AI generations",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "flag": "wire"
+  },
+  {
+    "text": "This scientist is helping build a missing map of childhood",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
     "flag": "wire"
   },
   {
     "text": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
     "source": "Wired",
     "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "flag": "wire"
+  },
+  {
+    "text": "Apple trained its own AI model for China with help from Alibaba",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
     "flag": "wire"
   }
 ]
