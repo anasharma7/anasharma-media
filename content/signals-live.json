@@ -6,6 +6,18 @@
     "flag": "wire"
   },
   {
+    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "flag": "wire"
+  },
+  {
+    "text": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "flag": "wire"
+  },
+  {
     "text": "This scientist is helping build a missing map of childhood",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
@@ -24,39 +36,21 @@
     "flag": "wire"
   },
   {
-    "text": "Mark Zuckerberg has an Instagzam",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-    "flag": "wire"
-  },
-  {
-    "text": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-    "flag": "wire"
-  },
-  {
     "text": "Apple trained its own AI model for China with help from Alibaba",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
     "flag": "wire"
   },
   {
-    "text": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "text": "Kog is going deeper to squeeze more inference out of GPUs",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
     "flag": "wire"
   },
   {
-    "text": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "text": "Mark Zuckerberg has an Instagzam",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
     "flag": "wire"
   },
   {
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Kog is going deeper to squeeze more inference out of GPUs",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "text": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "flag": "wire"
+  },
+  {
+    "text": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
     "flag": "wire"
   }
 ]
