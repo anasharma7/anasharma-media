@@ -1,26 +1,8 @@
 [
   {
-    "text": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-    "flag": "wire"
-  },
-  {
-    "text": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-    "flag": "wire"
-  },
-  {
-    "text": "Job titles of the future: Space travel agent",
+    "text": "This scientist is helping build a missing map of childhood",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
     "flag": "wire"
   },
   {
@@ -36,9 +18,9 @@
     "flag": "wire"
   },
   {
-    "text": "This scientist is helping build a missing map of childhood",
+    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
     "flag": "wire"
   },
   {
@@ -48,15 +30,21 @@
     "flag": "wire"
   },
   {
-    "text": "Mark Zuckerberg has an Instagzam",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-    "flag": "wire"
-  },
-  {
     "text": "Kog is going deeper to squeeze more inference out of GPUs",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "flag": "wire"
+  },
+  {
+    "text": "Job titles of the future: Space travel agent",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "flag": "wire"
+  },
+  {
+    "text": "Mark Zuckerberg has an Instagzam",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
     "flag": "wire"
   },
   {
@@ -66,9 +54,21 @@
     "flag": "wire"
   },
   {
+    "text": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "flag": "wire"
+  },
+  {
     "text": "Apple trained its own AI model for China with help from Alibaba",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "flag": "wire"
+  },
+  {
+    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
     "flag": "wire"
   }
 ]
