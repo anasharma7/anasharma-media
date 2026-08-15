@@ -1,14 +1,8 @@
 [
   {
-    "text": "Google will now allow users to remove visible watermark from its AI generations",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "text": "Job titles of the future: Space travel agent",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
     "flag": "wire"
   },
   {
@@ -24,27 +18,15 @@
     "flag": "wire"
   },
   {
-    "text": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
     "source": "Wired",
-    "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
     "flag": "wire"
   },
   {
-    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple trained its own AI model for China with help from Alibaba",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-    "flag": "wire"
-  },
-  {
-    "text": "Kog is going deeper to squeeze more inference out of GPUs",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
     "flag": "wire"
   },
   {
@@ -54,9 +36,15 @@
     "flag": "wire"
   },
   {
-    "text": "Job titles of the future: Space travel agent",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "text": "Google will now allow users to remove visible watermark from its AI generations",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
     "flag": "wire"
   },
   {
@@ -66,9 +54,21 @@
     "flag": "wire"
   },
   {
+    "text": "Apple trained its own AI model for China with help from Alibaba",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "flag": "wire"
+  },
+  {
     "text": "You can now turn off Google Gemini&#8217;s visible watermarks",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "flag": "wire"
+  },
+  {
+    "text": "Kog is going deeper to squeeze more inference out of GPUs",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
     "flag": "wire"
   }
 ]
