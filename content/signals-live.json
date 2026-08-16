@@ -1,44 +1,20 @@
 [
   {
-    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "flag": "wire"
-  },
-  {
-    "text": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-    "flag": "wire"
-  },
-  {
-    "text": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-    "flag": "wire"
-  },
-  {
     "text": "Anthropic shares more details about how Claude’s new watermarks will work",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
     "flag": "wire"
   },
   {
-    "text": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "text": "Mark Zuckerberg has an Instagzam",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
     "flag": "wire"
   },
   {
-    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-    "flag": "wire"
-  },
-  {
-    "text": "This scientist is helping build a missing map of childhood",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "text": "Rogue AI aren’t science fiction anymore",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
     "flag": "wire"
   },
   {
@@ -48,15 +24,33 @@
     "flag": "wire"
   },
   {
+    "text": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "flag": "wire"
+  },
+  {
+    "text": "This scientist is helping build a missing map of childhood",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "flag": "wire"
+  },
+  {
     "text": "Have a laugh at AI’s expense by roleplaying as a chatbot",
     "source": "The Verge",
     "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
     "flag": "wire"
   },
   {
-    "text": "Mark Zuckerberg has an Instagzam",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+    "flag": "wire"
+  },
+  {
+    "text": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
     "flag": "wire"
   },
   {
@@ -69,6 +63,12 @@
     "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
     "flag": "wire"
   }
 ]
