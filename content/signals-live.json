@@ -1,8 +1,8 @@
 [
   {
-    "text": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "text": "ChatGPT’s Computer History tracks your clicks and keystrokes",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
     "flag": "wire"
   },
   {
@@ -12,27 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-    "flag": "wire"
-  },
-  {
-    "text": "What happens when a kid’s robot best friend dies?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
     "source": "Wired",
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "flag": "wire"
-  },
-  {
-    "text": "How much hydrogen awaits us underground?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
     "flag": "wire"
   },
   {
@@ -42,33 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "text": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
     "source": "Wired",
-    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
     "flag": "wire"
   },
   {
-    "text": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "text": "What happens when a kid’s robot best friend dies?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
     "flag": "wire"
   },
   {
-    "text": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "text": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
     "flag": "wire"
   },
   {
-    "text": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "text": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
     "flag": "wire"
   },
   {
-    "text": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "text": "How much hydrogen awaits us underground?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: dead robot friends and the “censorship-industrial complex”",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
     "flag": "wire"
   }
 ]
