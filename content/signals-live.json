@@ -1,32 +1,8 @@
 [
   {
-    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "text": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "flag": "wire"
-  },
-  {
-    "text": "Rogue AI aren’t science fiction anymore",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
     "flag": "wire"
   },
   {
@@ -36,21 +12,27 @@
     "flag": "wire"
   },
   {
-    "text": "This scientist is helping build a missing map of childhood",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
     "flag": "wire"
   },
   {
-    "text": "Job titles of the future: Space travel agent",
+    "text": "What happens when a kid’s robot best friend dies?",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "flag": "wire"
+  },
+  {
+    "text": "How much hydrogen awaits us underground?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
     "flag": "wire"
   },
   {
@@ -60,15 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
     "flag": "wire"
   },
   {
     "text": "Why people aren’t buying Mark Zuckerberg’s AI future",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "flag": "wire"
+  },
+  {
+    "text": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
     "flag": "wire"
   }
 ]
