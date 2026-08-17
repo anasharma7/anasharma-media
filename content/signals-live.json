@@ -1,14 +1,32 @@
 [
   {
-    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
     "flag": "wire"
   },
   {
     "text": "ChatGPT’s Computer History tracks your clicks and keystrokes",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "flag": "wire"
+  },
+  {
+    "text": "Rogue AI aren’t science fiction anymore",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
     "flag": "wire"
   },
   {
@@ -24,21 +42,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-    "flag": "wire"
-  },
-  {
-    "text": "Rogue AI aren’t science fiction anymore",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI reportedly disbanded its preparedness team",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
     "flag": "wire"
   },
   {
@@ -48,9 +54,9 @@
     "flag": "wire"
   },
   {
-    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "text": "OpenAI reportedly disbanded its preparedness team",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
     "flag": "wire"
   },
   {
@@ -63,12 +69,6 @@
     "text": "Why people aren’t buying Mark Zuckerberg’s AI future",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
     "flag": "wire"
   }
 ]
