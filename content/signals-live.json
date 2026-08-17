@@ -1,62 +1,8 @@
 [
   {
-    "text": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-    "flag": "wire"
-  },
-  {
-    "text": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-    "flag": "wire"
-  },
-  {
     "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
     "source": "Wired",
     "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI reportedly disbanded its preparedness team",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-    "flag": "wire"
-  },
-  {
-    "text": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "flag": "wire"
-  },
-  {
-    "text": "What happens when a kid’s robot best friend dies?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-    "flag": "wire"
-  },
-  {
-    "text": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
     "flag": "wire"
   },
   {
@@ -66,9 +12,63 @@
     "flag": "wire"
   },
   {
+    "text": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI reportedly disbanded its preparedness team",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "flag": "wire"
+  },
+  {
+    "text": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: dead robot friends and the “censorship-industrial complex”",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+    "flag": "wire"
+  },
+  {
+    "text": "What Flock’s defenders are missing",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "flag": "wire"
+  },
+  {
+    "text": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
     "flag": "wire"
   }
 ]
