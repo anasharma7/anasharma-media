@@ -1,8 +1,26 @@
 [
   {
-    "text": "Anthropic’s annualized revenue surges to $65B",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "text": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "flag": "wire"
+  },
+  {
+    "text": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+    "flag": "wire"
+  },
+  {
+    "text": "How much hydrogen awaits us underground?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
     "flag": "wire"
   },
   {
@@ -18,39 +36,21 @@
     "flag": "wire"
   },
   {
-    "text": "How much hydrogen awaits us underground?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
     "flag": "wire"
   },
   {
     "text": "OpenAI reportedly disbanded its preparedness team",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-    "flag": "wire"
-  },
-  {
-    "text": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-    "flag": "wire"
-  },
-  {
-    "text": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "text": "Anthropic’s annualized revenue surges to $65B",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
     "flag": "wire"
   }
 ]
