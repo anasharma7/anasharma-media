@@ -1,14 +1,14 @@
 [
   {
-    "text": "The role of the astronaut is in flux",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-    "flag": "wire"
-  },
-  {
     "text": "Firefox&#8217;s Smart Window promises a better AI browser",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "flag": "wire"
+  },
+  {
+    "text": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
     "flag": "wire"
   },
   {
@@ -18,21 +18,9 @@
     "flag": "wire"
   },
   {
-    "text": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-    "flag": "wire"
-  },
-  {
-    "text": "Google&#8217;s Pet Memory forgot who my cats are",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: how people really use AI, and Flock’s design choices",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+    "text": "OpenAI institutes new safeguards after Hugging Face breach",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
     "flag": "wire"
   },
   {
@@ -42,15 +30,27 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI institutes new safeguards after Hugging Face breach",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "text": "The role of the astronaut is in flux",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
     "flag": "wire"
   },
   {
-    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "text": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "flag": "wire"
+  },
+  {
+    "text": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: how people really use AI, and Flock’s design choices",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
     "flag": "wire"
   }
 ]
