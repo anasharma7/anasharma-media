@@ -1,62 +1,26 @@
 [
   {
-    "text": "Calendly throws its hat into meeting note-taker circus",
+    "text": "Google packs Search and Gemini with new AI study tools",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
     "flag": "wire"
   },
   {
-    "text": "Child-monitoring apps might need a reboot",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "text": "Google Gemini is getting a dedicated student hub",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
     "flag": "wire"
   },
   {
-    "text": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+    "text": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
     "source": "Wired",
-    "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+    "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
     "flag": "wire"
   },
   {
-    "text": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/flock-safety-os-investigate/",
-    "flag": "wire"
-  },
-  {
-    "text": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "text": "AI was supposed to win people over by now — it hasn’t",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-    "flag": "wire"
-  },
-  {
-    "text": "Firefox&#8217;s Smart Window promises a better AI browser",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-    "flag": "wire"
-  },
-  {
-    "text": "The Powerful Chinese AI Model Experts Warned About Is Here",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
-    "flag": "wire"
-  },
-  {
-    "text": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
     "flag": "wire"
   },
   {
@@ -66,9 +30,45 @@
     "flag": "wire"
   },
   {
+    "text": "Meta AI is getting a Mac app",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI hit the brakes. Now what?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: AI’s self-improvement problem, and what’s driving the heat",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+    "flag": "wire"
+  },
+  {
+    "text": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "flag": "wire"
+  },
+  {
+    "text": "Researchers say OpenAI revoked their access to limited cyber program",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "flag": "wire"
+  },
+  {
+    "text": "Child-monitoring apps might need a reboot",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
     "flag": "wire"
   }
 ]
