@@ -1,56 +1,8 @@
 [
   {
-    "text": "Etched’s valuation doubles to $21B in a month",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI institutes new safeguards after Hugging Face breach",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "text": "Nvidia’s new financial strategy does not compute",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-    "flag": "wire"
-  },
-  {
-    "text": "The role of the astronaut is in flux",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-    "flag": "wire"
-  },
-  {
-    "text": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "flag": "wire"
-  },
-  {
-    "text": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: how people really use AI, and Flock’s design choices",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-    "flag": "wire"
-  },
-  {
-    "text": "Firefox&#8217;s Smart Window promises a better AI browser",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
     "flag": "wire"
   },
   {
@@ -60,15 +12,63 @@
     "flag": "wire"
   },
   {
+    "text": "Child-monitoring apps might need a reboot",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "flag": "wire"
+  },
+  {
+    "text": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: how people really use AI, and Flock’s design choices",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+    "flag": "wire"
+  },
+  {
+    "text": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI institutes new safeguards after Hugging Face breach",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
     "source": "Wired",
     "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
     "flag": "wire"
   },
   {
-    "text": "We still don’t know how people are really using AI",
+    "text": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s self-improvement problem, and what’s driving the heat",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+    "flag": "wire"
+  },
+  {
+    "text": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/flock-safety-os-investigate/",
     "flag": "wire"
   }
 ]
