@@ -1,50 +1,8 @@
 [
   {
-    "text": "Firefox&#8217;s Smart Window promises a better AI browser",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-    "flag": "wire"
-  },
-  {
-    "text": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
     "source": "Wired",
-    "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI institutes new safeguards after Hugging Face breach",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Powerful Chinese AI Model Experts Warned About Is Here",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
-    "flag": "wire"
-  },
-  {
-    "text": "The role of the astronaut is in flux",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-    "flag": "wire"
-  },
-  {
-    "text": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
     "flag": "wire"
   },
   {
@@ -54,9 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "Etched’s valuation doubles to $21B in a month",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "text": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+    "flag": "wire"
+  },
+  {
+    "text": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
     "flag": "wire"
   },
   {
@@ -66,9 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "text": "The Powerful Chinese AI Model Experts Warned About Is Here",
     "source": "Wired",
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI institutes new safeguards after Hugging Face breach",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "flag": "wire"
+  },
+  {
+    "text": "Etched’s valuation doubles to $21B in a month",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "flag": "wire"
+  },
+  {
+    "text": "The role of the astronaut is in flux",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+    "flag": "wire"
+  },
+  {
+    "text": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
     "flag": "wire"
   }
 ]
