@@ -1,44 +1,20 @@
 [
   {
-    "text": "Google packs Search and Gemini with new AI study tools",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Gemini is getting a dedicated student hub",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-    "flag": "wire"
-  },
-  {
     "text": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
     "source": "Wired",
     "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
     "flag": "wire"
   },
   {
-    "text": "AI was supposed to win people over by now — it hasn’t",
+    "text": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
     "flag": "wire"
   },
   {
-    "text": "The Download: how people really use AI, and Flock’s design choices",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta AI is getting a Mac app",
+    "text": "Google Gemini is getting a dedicated student hub",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI hit the brakes. Now what?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
     "flag": "wire"
   },
   {
@@ -54,21 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/flock-safety-os-investigate/",
-    "flag": "wire"
-  },
-  {
-    "text": "Researchers say OpenAI revoked their access to limited cyber program",
+    "text": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
     "flag": "wire"
   },
   {
     "text": "Child-monitoring apps might need a reboot",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI hit the brakes. Now what?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta AI is getting a Mac app",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: how people really use AI, and Flock’s design choices",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+    "flag": "wire"
+  },
+  {
+    "text": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "flag": "wire"
+  },
+  {
+    "text": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
     "flag": "wire"
   }
 ]
