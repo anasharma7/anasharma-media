@@ -1,44 +1,14 @@
 [
   {
-    "text": "Meta AI’s new Mac app wants you to talk to your apps",
+    "text": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google gives publishers a new way to fight AI-driven traffic losses",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "flag": "wire"
-  },
-  {
-    "text": "The next big thing in hydrogen could be underground",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-    "flag": "wire"
-  },
-  {
-    "text": "Welcome to the AI crisis in math",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-    "flag": "wire"
-  },
-  {
-    "text": "Debates over AI consciousness are a trap",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "flag": "wire"
-  },
-  {
-    "text": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "flag": "wire"
-  },
-  {
-    "text": "It’s Greg Brockman’s OpenAI now",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: polycrisis support networks and a hydrogen gold rush",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
     "flag": "wire"
   },
   {
@@ -48,27 +18,57 @@
     "flag": "wire"
   },
   {
+    "text": "It’s Greg Brockman’s OpenAI now",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "flag": "wire"
+  },
+  {
     "text": "Slack is launching collaborative vibe-coding channels",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
     "flag": "wire"
   },
   {
-    "text": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+    "text": "Welcome to the AI crisis in math",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
     "flag": "wire"
   },
   {
-    "text": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "text": "The next big thing in hydrogen could be underground",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
     "flag": "wire"
   },
   {
-    "text": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+    "text": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: polycrisis support networks and a hydrogen gold rush",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "flag": "wire"
+  },
+  {
+    "text": "Debates over AI consciousness are a trap",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "flag": "wire"
+  },
+  {
+    "text": "Silicon Valley Doesn't Get Why You Hate AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
     "flag": "wire"
   }
 ]
