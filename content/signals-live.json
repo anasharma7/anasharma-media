@@ -1,20 +1,8 @@
 [
   {
-    "text": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+    "text": "Meta AI’s new Mac app wants you to talk to your apps",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-    "flag": "wire"
-  },
-  {
-    "text": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/flock-safety-os-investigate/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Gemini is getting a dedicated student hub",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
     "flag": "wire"
   },
   {
@@ -24,9 +12,27 @@
     "flag": "wire"
   },
   {
-    "text": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+    "text": "Welcome to the AI crisis in math",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "flag": "wire"
+  },
+  {
+    "text": "Debates over AI consciousness are a trap",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "flag": "wire"
+  },
+  {
+    "text": "Inertia Enterprises finds a way to make its fusion fuel fast",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+    "flag": "wire"
+  },
+  {
+    "text": "It’s Greg Brockman’s OpenAI now",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
     "flag": "wire"
   },
   {
@@ -36,9 +42,15 @@
     "flag": "wire"
   },
   {
-    "text": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "text": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+    "flag": "wire"
+  },
+  {
+    "text": "Slack is launching collaborative vibe-coding channels",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
     "flag": "wire"
   },
   {
@@ -48,27 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Meta AI’s new Mac app wants you to talk to your apps",
+    "text": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI hit the brakes. Now what?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "Unlocking hidden revenue streams with market models",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta AI is getting a Mac app",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
     "flag": "wire"
   }
 ]
