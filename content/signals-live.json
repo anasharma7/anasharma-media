@@ -1,11 +1,5 @@
 [
   {
-    "text": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "flag": "wire"
-  },
-  {
     "text": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
     "source": "Wired",
     "link": "https://www.wired.com/story/flock-safety-os-investigate/",
@@ -18,27 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: how people really use AI, and Flock’s design choices",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-    "flag": "wire"
-  },
-  {
     "text": "Meta AI is getting a Mac app",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-    "flag": "wire"
-  },
-  {
-    "text": "Child-monitoring apps might need a reboot",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
     "flag": "wire"
   },
   {
@@ -48,15 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Gemini is getting a dedicated student hub",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "text": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
     "flag": "wire"
   },
   {
@@ -69,6 +39,36 @@
     "text": "OpenAI hit the brakes. Now what?",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Child-monitoring apps might need a reboot",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: how people really use AI, and Flock’s design choices",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google Gemini is getting a dedicated student hub",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
     "flag": "wire"
   }
 ]
