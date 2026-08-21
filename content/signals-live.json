@@ -1,14 +1,26 @@
 [
   {
-    "text": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "text": "The DOJ is investigating a16z. What does this mean for venture capital?",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
     "flag": "wire"
   },
   {
-    "text": "It’s Greg Brockman’s OpenAI now",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "text": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "flag": "wire"
+  },
+  {
+    "text": "When AI designs a drug, who gets the credit?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: threats from space mirrors and credit for AI drugs",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
     "flag": "wire"
   },
   {
@@ -24,33 +36,9 @@
     "flag": "wire"
   },
   {
-    "text": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: threats from space mirrors and credit for AI drugs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-    "flag": "wire"
-  },
-  {
-    "text": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "flag": "wire"
-  },
-  {
-    "text": "When AI designs a drug, who gets the credit?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "flag": "wire"
-  },
-  {
-    "text": "Major YouTube creators are facing backlash for accepting AI money",
+    "text": "Google Discover is getting an AI chatbot-tuned feed",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
     "flag": "wire"
   },
   {
@@ -60,15 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "text": "Major YouTube creators are facing backlash for accepting AI money",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
     "flag": "wire"
   },
   {
     "text": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
     "source": "Wired",
     "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+    "flag": "wire"
+  },
+  {
+    "text": "It’s Greg Brockman’s OpenAI now",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "flag": "wire"
+  },
+  {
+    "text": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
     "flag": "wire"
   }
 ]
