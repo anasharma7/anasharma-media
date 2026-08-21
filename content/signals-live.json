@@ -1,8 +1,8 @@
 [
   {
-    "text": "The next big thing in hydrogen could be underground",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+    "text": "The Single English County Saying No to Palantir",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
     "flag": "wire"
   },
   {
@@ -12,33 +12,27 @@
     "flag": "wire"
   },
   {
-    "text": "Silicon Valley Doesn't Get Why You Hate AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "It’s Greg Brockman’s OpenAI now",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: polycrisis support networks and a hydrogen gold rush",
+    "text": "Mother tongue",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
     "flag": "wire"
   },
   {
-    "text": "The Single English County Saying No to Palantir",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+    "text": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
     "flag": "wire"
   },
   {
     "text": "Welcome to the AI crisis in math",
     "source": "The Verge",
     "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "flag": "wire"
+  },
+  {
+    "text": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
     "flag": "wire"
   },
   {
@@ -54,21 +48,27 @@
     "flag": "wire"
   },
   {
+    "text": "When AI designs a drug, who gets the credit?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "flag": "wire"
+  },
+  {
+    "text": "Silicon Valley Doesn't Get Why You Hate AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "flag": "wire"
+  },
+  {
     "text": "Google Discover is getting an AI chatbot-tuned feed",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
     "flag": "wire"
   },
   {
-    "text": "Debates over AI consciousness are a trap",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "text": "It’s Greg Brockman’s OpenAI now",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
     "flag": "wire"
   }
 ]
