@@ -1,32 +1,20 @@
 [
   {
-    "text": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "flag": "wire"
-  },
-  {
-    "text": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-    "flag": "wire"
-  },
-  {
     "text": "It’s Greg Brockman’s OpenAI now",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
     "flag": "wire"
   },
   {
-    "text": "Slack is launching collaborative vibe-coding channels",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+    "text": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
     "flag": "wire"
   },
   {
@@ -42,15 +30,27 @@
     "flag": "wire"
   },
   {
-    "text": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: polycrisis support networks and a hydrogen gold rush",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "flag": "wire"
+  },
+  {
+    "text": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
     "flag": "wire"
   },
   {
@@ -60,15 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Silicon Valley Doesn't Get Why You Hate AI",
+    "text": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
     "source": "Wired",
-    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
     "flag": "wire"
   },
   {
-    "text": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "text": "Silicon Valley Doesn't Get Why You Hate AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
     "flag": "wire"
   }
 ]
