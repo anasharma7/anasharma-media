@@ -1,20 +1,8 @@
 [
   {
-    "text": "It’s Greg Brockman’s OpenAI now",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-    "flag": "wire"
-  },
-  {
-    "text": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "text": "The next big thing in hydrogen could be underground",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
     "flag": "wire"
   },
   {
@@ -24,21 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "The next big thing in hydrogen could be underground",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: polycrisis support networks and a hydrogen gold rush",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-    "flag": "wire"
-  },
-  {
     "text": "ChatGPT can now send texts for you with new Apple Messages plug-in",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "flag": "wire"
+  },
+  {
+    "text": "It’s Greg Brockman’s OpenAI now",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "flag": "wire"
+  },
+  {
+    "text": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
     "flag": "wire"
   },
   {
@@ -60,15 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-    "flag": "wire"
-  },
-  {
     "text": "Silicon Valley Doesn't Get Why You Hate AI",
     "source": "Wired",
     "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: polycrisis support networks and a hydrogen gold rush",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
     "flag": "wire"
   }
 ]
