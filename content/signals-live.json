@@ -1,8 +1,20 @@
 [
   {
-    "text": "Silicon Valley Doesn't Get Why You Hate AI",
+    "text": "Major YouTube creators are facing backlash for accepting AI money",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "flag": "wire"
+  },
+  {
+    "text": "The Unlikely Place at the Center of China’s AI Boom",
     "source": "Wired",
-    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "flag": "wire"
+  },
+  {
+    "text": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
     "flag": "wire"
   },
   {
@@ -18,39 +30,27 @@
     "flag": "wire"
   },
   {
-    "text": "Nvidia partners with data center developer Cloverleaf",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "text": "Silicon Valley Doesn't Get Why You Hate AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
     "flag": "wire"
   },
   {
-    "text": "Major YouTube creators are facing backlash for accepting AI money",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "text": "OpenAI says California should strengthen its AI safety bill",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "flag": "wire"
+  },
+  {
+    "text": "Mother tongue",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
     "flag": "wire"
   },
   {
     "text": "When AI designs a drug, who gets the credit?",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Discover is getting an AI chatbot-tuned feed",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-    "flag": "wire"
-  },
-  {
-    "text": "The Unlikely Place at the Center of China’s AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic’s Opus 4.6 is a smut-machine",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Mother tongue",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
     "flag": "wire"
   }
 ]
