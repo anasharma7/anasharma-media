@@ -1,50 +1,8 @@
 [
   {
-    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic’s Opus 4.6 is a smut-machine",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "flag": "wire"
-  },
-  {
     "text": "Mother tongue",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Single English County Saying No to Palantir",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
-    "flag": "wire"
-  },
-  {
-    "text": "Silicon Valley Doesn't Get Why You Hate AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Discover is getting an AI chatbot-tuned feed",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: threats from space mirrors and credit for AI drugs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Unlikely Place at the Center of China’s AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
     "flag": "wire"
   },
   {
@@ -54,9 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "When AI designs a drug, who gets the credit?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "text": "Major YouTube creators are facing backlash for accepting AI money",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "flag": "wire"
+  },
+  {
+    "text": "The Single English County Saying No to Palantir",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
     "flag": "wire"
   },
   {
@@ -66,9 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "Major YouTube creators are facing backlash for accepting AI money",
+    "text": "Anthropic’s Opus 4.6 is a smut-machine",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "flag": "wire"
+  },
+  {
+    "text": "When AI designs a drug, who gets the credit?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Unlikely Place at the Center of China’s AI Boom",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: threats from space mirrors and credit for AI drugs",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+    "flag": "wire"
+  },
+  {
+    "text": "Silicon Valley Doesn't Get Why You Hate AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
     "flag": "wire"
   }
 ]
