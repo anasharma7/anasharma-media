@@ -1,20 +1,8 @@
 [
   {
-    "text": "The Single English County Saying No to Palantir",
+    "text": "Silicon Valley Doesn't Get Why You Hate AI",
     "source": "Wired",
-    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
-    "flag": "wire"
-  },
-  {
-    "text": "Mother tongue",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Discover is getting an AI chatbot-tuned feed",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
     "flag": "wire"
   },
   {
@@ -24,15 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "flag": "wire"
-  },
-  {
-    "text": "Major YouTube creators are facing backlash for accepting AI money",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "text": "The Single English County Saying No to Palantir",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
     "flag": "wire"
   },
   {
@@ -42,9 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic’s Opus 4.6 is a smut-machine",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "text": "Major YouTube creators are facing backlash for accepting AI money",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
     "flag": "wire"
   },
   {
@@ -54,9 +36,9 @@
     "flag": "wire"
   },
   {
-    "text": "Silicon Valley Doesn't Get Why You Hate AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
     "flag": "wire"
   },
   {
@@ -66,9 +48,27 @@
     "flag": "wire"
   },
   {
+    "text": "Anthropic’s Opus 4.6 is a smut-machine",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: threats from space mirrors and credit for AI drugs",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+    "flag": "wire"
+  },
+  {
+    "text": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "flag": "wire"
+  },
+  {
+    "text": "Mother tongue",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
     "flag": "wire"
   }
 ]
