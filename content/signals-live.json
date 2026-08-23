@@ -1,20 +1,8 @@
 [
   {
-    "text": "OpenAI says California should strengthen its AI safety bill",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "flag": "wire"
-  },
-  {
-    "text": "Silicon Valley Doesn't Get Why You Hate AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "text": "Major YouTube creators are facing backlash for accepting AI money",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
     "flag": "wire"
   },
   {
@@ -24,27 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "When AI designs a drug, who gets the credit?",
+    "text": "Mother tongue",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Unlikely Place at the Center of China’s AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: threats from space mirrors and credit for AI drugs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-    "flag": "wire"
-  },
-  {
-    "text": "Major YouTube creators are facing backlash for accepting AI money",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
     "flag": "wire"
   },
   {
@@ -60,15 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "Mother tongue",
+    "text": "The Unlikely Place at the Center of China’s AI Boom",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "flag": "wire"
+  },
+  {
+    "text": "Silicon Valley Doesn't Get Why You Hate AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI says California should strengthen its AI safety bill",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: threats from space mirrors and credit for AI drugs",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
     "flag": "wire"
   },
   {
     "text": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "flag": "wire"
+  },
+  {
+    "text": "When AI designs a drug, who gets the credit?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
     "flag": "wire"
   }
 ]
