@@ -1,44 +1,14 @@
 [
   {
-    "text": "The Download: threats from space mirrors and credit for AI drugs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-    "flag": "wire"
-  },
-  {
-    "text": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "flag": "wire"
-  },
-  {
-    "text": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Discover is getting an AI chatbot-tuned feed",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-    "flag": "wire"
-  },
-  {
     "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
     "source": "Wired",
     "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
     "flag": "wire"
   },
   {
-    "text": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "text": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: kids outlearning AI, and space travel agents",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
     "flag": "wire"
   },
   {
@@ -48,15 +18,21 @@
     "flag": "wire"
   },
   {
-    "text": "The Unlikely Place at the Center of China’s AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "text": "Hugging Face reportedly in talks to be acquired for $13B",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
     "flag": "wire"
   },
   {
-    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "text": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "flag": "wire"
+  },
+  {
+    "text": "How to encourage smarter AI use in the classroom",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
     "flag": "wire"
   },
   {
@@ -66,9 +42,33 @@
     "flag": "wire"
   },
   {
+    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "flag": "wire"
+  },
+  {
+    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "flag": "wire"
+  },
+  {
     "text": "The Single English County Saying No to Palantir",
     "source": "Wired",
     "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: kids outlearning AI, and space travel agents",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Unlikely Place at the Center of China’s AI Boom",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
     "flag": "wire"
   }
 ]
