@@ -1,38 +1,8 @@
 [
   {
-    "text": "Mother tongue",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: threats from space mirrors and credit for AI drugs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-    "flag": "wire"
-  },
-  {
     "text": "The Unlikely Place at the Center of China’s AI Boom",
     "source": "Wired",
     "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-    "flag": "wire"
-  },
-  {
-    "text": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Discover is getting an AI chatbot-tuned feed",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-    "flag": "wire"
-  },
-  {
-    "text": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
     "flag": "wire"
   },
   {
@@ -48,9 +18,15 @@
     "flag": "wire"
   },
   {
-    "text": "The Single English County Saying No to Palantir",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+    "text": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "flag": "wire"
+  },
+  {
+    "text": "When AI designs a drug, who gets the credit?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
     "flag": "wire"
   },
   {
@@ -60,9 +36,33 @@
     "flag": "wire"
   },
   {
-    "text": "When AI designs a drug, who gets the credit?",
+    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "flag": "wire"
+  },
+  {
+    "text": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "flag": "wire"
+  },
+  {
+    "text": "Mother tongue",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: threats from space mirrors and credit for AI drugs",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Single English County Saying No to Palantir",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
     "flag": "wire"
   },
   {
