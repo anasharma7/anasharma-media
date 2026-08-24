@@ -1,8 +1,8 @@
 [
   {
-    "text": "The Unlikely Place at the Center of China’s AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "text": "The Download: threats from space mirrors and credit for AI drugs",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
     "flag": "wire"
   },
   {
@@ -12,15 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "Silicon Valley Doesn't Get Why You Hate AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
     "flag": "wire"
   },
   {
-    "text": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
     "flag": "wire"
   },
   {
@@ -30,33 +30,9 @@
     "flag": "wire"
   },
   {
-    "text": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "text": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Discover is getting an AI chatbot-tuned feed",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-    "flag": "wire"
-  },
-  {
-    "text": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "flag": "wire"
-  },
-  {
-    "text": "Mother tongue",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: threats from space mirrors and credit for AI drugs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
     "flag": "wire"
   },
   {
@@ -66,9 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "text": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "flag": "wire"
+  },
+  {
+    "text": "Silicon Valley Doesn't Get Why You Hate AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Mother tongue",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Unlikely Place at the Center of China’s AI Boom",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "flag": "wire"
+  },
+  {
+    "text": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
     "flag": "wire"
   }
 ]
