@@ -6,39 +6,9 @@
     "flag": "wire"
   },
   {
-    "text": "Major YouTube creators are facing backlash for accepting AI money",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Discover is getting an AI chatbot-tuned feed",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-    "flag": "wire"
-  },
-  {
-    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "flag": "wire"
-  },
-  {
-    "text": "When AI designs a drug, who gets the credit?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "flag": "wire"
-  },
-  {
-    "text": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "text": "Who’s behind the new ‘stealth model’ Ox Alpha?",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Single English County Saying No to Palantir",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
     "flag": "wire"
   },
   {
@@ -48,15 +18,33 @@
     "flag": "wire"
   },
   {
-    "text": "Silicon Valley Doesn't Get Why You Hate AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
     "flag": "wire"
   },
   {
-    "text": "Mother tongue",
+    "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+    "flag": "wire"
+  },
+  {
+    "text": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: kids outlearning AI, and space travel agents",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+    "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "Kids outlearn AI—and we still don’t know why",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
     "flag": "wire"
   },
   {
@@ -66,9 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "flag": "wire"
+  },
+  {
+    "text": "Major YouTube creators are facing backlash for accepting AI money",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "flag": "wire"
+  },
+  {
+    "text": "The Single English County Saying No to Palantir",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
     "flag": "wire"
   }
 ]
