@@ -1,8 +1,8 @@
 [
   {
-    "text": "Google Discover is getting an AI chatbot-tuned feed",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "text": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
     "flag": "wire"
   },
   {
@@ -12,39 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "flag": "wire"
-  },
-  {
-    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "flag": "wire"
-  },
-  {
-    "text": "How to encourage smarter AI use in the classroom",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-    "flag": "wire"
-  },
-  {
-    "text": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "Kids outlearn AI—and we still don’t know why",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "flag": "wire"
-  },
-  {
-    "text": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
     "flag": "wire"
   },
   {
@@ -54,9 +24,27 @@
     "flag": "wire"
   },
   {
+    "text": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "flag": "wire"
+  },
+  {
+    "text": "Kids outlearn AI—and we still don’t know why",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: kids outlearning AI, and space travel agents",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "How to encourage smarter AI use in the classroom",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
     "flag": "wire"
   },
   {
@@ -66,9 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+    "text": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google Discover is getting an AI chatbot-tuned feed",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "flag": "wire"
+  },
+  {
+    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
     "flag": "wire"
   }
 ]
