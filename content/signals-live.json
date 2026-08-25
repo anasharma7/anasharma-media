@@ -1,56 +1,14 @@
 [
   {
-    "text": "The Download: kids outlearning AI, and space travel agents",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "Kids outlearn AI—and we still don’t know why",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "flag": "wire"
-  },
-  {
     "text": "How to encourage smarter AI use in the classroom",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
     "flag": "wire"
   },
   {
-    "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "text": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
     "source": "Wired",
-    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Unlikely Place at the Center of China’s AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Single English County Saying No to Palantir",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Discover is getting an AI chatbot-tuned feed",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-    "flag": "wire"
-  },
-  {
-    "text": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
     "flag": "wire"
   },
   {
@@ -60,15 +18,57 @@
     "flag": "wire"
   },
   {
+    "text": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "flag": "wire"
+  },
+  {
+    "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "It Should Be Harder to Apply for a Job. No, Really",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "flag": "wire"
+  },
+  {
     "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
     "flag": "wire"
   },
   {
-    "text": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "text": "Welcome to the spiderverse, a world measured through webs",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+    "flag": "wire"
+  },
+  {
+    "text": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump bought SpaceX shares two weeks after blockbuster IPO",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
     "flag": "wire"
   }
 ]
