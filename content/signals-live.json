@@ -1,20 +1,14 @@
 [
   {
-    "text": "Welcome to the spiderverse, a world measured through webs",
+    "text": "Art and algorithms at Sotheby’s",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+    "link": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
     "flag": "wire"
   },
   {
-    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "text": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "flag": "wire"
-  },
-  {
-    "text": "It Should Be Harder to Apply for a Job. No, Really",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
     "flag": "wire"
   },
   {
@@ -24,15 +18,15 @@
     "flag": "wire"
   },
   {
-    "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "text": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
     "source": "Wired",
-    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
     "flag": "wire"
   },
   {
-    "text": "Accel-backed Keenable is indexing the web for AI agents",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
     "flag": "wire"
   },
   {
@@ -42,27 +36,33 @@
     "flag": "wire"
   },
   {
-    "text": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-    "flag": "wire"
-  },
-  {
-    "text": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "text": "Welcome to the spiderverse, a world measured through webs",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "text": "It Should Be Harder to Apply for a Job. No, Really",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "flag": "wire"
+  },
+  {
+    "text": "Claude Cowork finally remembers what you told the app in chat",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "flag": "wire"
+  },
+  {
+    "text": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "flag": "wire"
+  },
+  {
+    "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
     "flag": "wire"
   },
   {
