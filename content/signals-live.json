@@ -6,39 +6,15 @@
     "flag": "wire"
   },
   {
-    "text": "YouTuber finds niche as college admissions mentor",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
-    "flag": "wire"
-  },
-  {
     "text": "Addressing a sticking point in sustainable adhesives",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
     "flag": "wire"
   },
   {
-    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "flag": "wire"
-  },
-  {
-    "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
-    "flag": "wire"
-  },
-  {
-    "text": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "flag": "wire"
-  },
-  {
-    "text": "It Should Be Harder to Apply for a Job. No, Really",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "text": "YouTuber finds niche as college admissions mentor",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
     "flag": "wire"
   },
   {
@@ -48,9 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "text": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
     "flag": "wire"
   },
   {
@@ -60,15 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+    "text": "It Should Be Harder to Apply for a Job. No, Really",
     "source": "Wired",
-    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "flag": "wire"
+  },
+  {
+    "text": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "flag": "wire"
+  },
+  {
+    "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
     "flag": "wire"
   },
   {
     "text": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "flag": "wire"
+  },
+  {
+    "text": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "flag": "wire"
+  },
+  {
+    "text": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
     "flag": "wire"
   }
 ]
