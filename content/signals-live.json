@@ -1,26 +1,20 @@
 [
   {
-    "text": "Art and algorithms at Sotheby’s",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "text": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
     "flag": "wire"
   },
   {
-    "text": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+    "text": "YouTuber finds niche as college admissions mentor",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+    "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
     "flag": "wire"
   },
   {
-    "text": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "text": "Addressing a sticking point in sustainable adhesives",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
     "flag": "wire"
   },
   {
@@ -30,15 +24,15 @@
     "flag": "wire"
   },
   {
-    "text": "Gamma acquires Accel-backed design startup Lica",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
     "flag": "wire"
   },
   {
-    "text": "Welcome to the spiderverse, a world measured through webs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+    "text": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
     "flag": "wire"
   },
   {
@@ -48,9 +42,9 @@
     "flag": "wire"
   },
   {
-    "text": "Claude Cowork finally remembers what you told the app in chat",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "text": "Launching youth entrepreneurship",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
     "flag": "wire"
   },
   {
@@ -60,15 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+    "text": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
     "flag": "wire"
   },
   {
-    "text": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "text": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "flag": "wire"
   }
 ]
