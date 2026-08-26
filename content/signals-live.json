@@ -1,44 +1,8 @@
 [
   {
-    "text": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-    "flag": "wire"
-  },
-  {
-    "text": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+    "text": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "flag": "wire"
-  },
-  {
-    "text": "Raised on AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI models flub these intelligence tests. Can you fare any better?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-    "flag": "wire"
-  },
-  {
-    "text": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-    "flag": "wire"
-  },
-  {
-    "text": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
     "flag": "wire"
   },
   {
@@ -48,15 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "text": "Raised on AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "text": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "flag": "wire"
+  },
+  {
+    "text": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
     "flag": "wire"
   },
   {
@@ -66,9 +36,39 @@
     "flag": "wire"
   },
   {
+    "text": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "flag": "wire"
+  },
+  {
+    "text": "Radar makes podcasts searchable — and usable by AI agents",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "flag": "wire"
+  },
+  {
+    "text": "AI models flub these intelligence tests. Can you fare any better?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "flag": "wire"
+  },
+  {
     "text": "It Should Be Harder to Apply for a Job. No, Really",
     "source": "Wired",
     "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
     "flag": "wire"
   }
 ]
