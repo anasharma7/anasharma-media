@@ -1,8 +1,14 @@
 [
   {
-    "text": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "text": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+    "flag": "wire"
+  },
+  {
+    "text": "The inside story on why OpenAI agents hacked Hugging Face",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
     "flag": "wire"
   },
   {
@@ -12,63 +18,57 @@
     "flag": "wire"
   },
   {
+    "text": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+    "flag": "wire"
+  },
+  {
     "text": "Raised on AI",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
     "flag": "wire"
   },
   {
-    "text": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+    "text": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
     "source": "Wired",
-    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
     "flag": "wire"
   },
   {
-    "text": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Slop Is Ruining Cute Animals on the Internet",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
-    "flag": "wire"
-  },
-  {
-    "text": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "text": "How do we explain OpenAI’s executive exodus?",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
     "flag": "wire"
   },
   {
-    "text": "Radar makes podcasts searchable — and usable by AI agents",
+    "text": "OpenAI’s rogue AI model incident was worse than we thought",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s Gemini has a branding problem, and so does the rest of AI",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-    "flag": "wire"
-  },
-  {
-    "text": "AI models flub these intelligence tests. Can you fare any better?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-    "flag": "wire"
-  },
-  {
-    "text": "It Should Be Harder to Apply for a Job. No, Really",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
     "flag": "wire"
   }
 ]
