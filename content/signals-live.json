@@ -1,56 +1,8 @@
 [
   {
-    "text": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
-    "flag": "wire"
-  },
-  {
-    "text": "The inside story on why OpenAI agents hacked Hugging Face",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-    "flag": "wire"
-  },
-  {
-    "text": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+    "text": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-    "flag": "wire"
-  },
-  {
-    "text": "Raised on AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
-    "flag": "wire"
-  },
-  {
-    "text": "How do we explain OpenAI’s executive exodus?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
     "flag": "wire"
   },
   {
@@ -60,15 +12,63 @@
     "flag": "wire"
   },
   {
-    "text": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "text": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
     "flag": "wire"
   },
   {
-    "text": "Google’s Gemini has a branding problem, and so does the rest of AI",
+    "text": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+    "flag": "wire"
+  },
+  {
+    "text": "The inside story on why OpenAI agents hacked Hugging Face",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+    "flag": "wire"
+  },
+  {
+    "text": "The UK Power Grid Has a Phantom Data Center Problem",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+    "flag": "wire"
+  },
+  {
+    "text": "Raised on AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+    "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "flag": "wire"
+  },
+  {
+    "text": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
     "flag": "wire"
   }
 ]
