@@ -1,74 +1,74 @@
 [
   {
-    "text": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s rogue AI model incident was worse than we thought",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-    "flag": "wire"
-  },
-  {
-    "text": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-    "flag": "wire"
-  },
-  {
     "text": "The inside story on why OpenAI agents hacked Hugging Face",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
     "flag": "wire"
   },
   {
-    "text": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-    "flag": "wire"
-  },
-  {
-    "text": "The UK Power Grid Has a Phantom Data Center Problem",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
-    "flag": "wire"
-  },
-  {
-    "text": "Raised on AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-    "flag": "wire"
-  },
-  {
-    "text": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "text": "OpenAI&#8217;s executive exodus has one big winner",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+    "flag": "wire"
+  },
+  {
+    "text": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "flag": "wire"
+  },
+  {
+    "text": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+    "flag": "wire"
+  },
+  {
+    "text": "Hugging Face’s new robot is an adorable rollerskating duck",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+    "flag": "wire"
+  },
+  {
+    "text": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
+    "flag": "wire"
+  },
+  {
+    "text": "Is Slate Auto’s new electric truck the EV Americans need?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
     "flag": "wire"
   }
 ]
