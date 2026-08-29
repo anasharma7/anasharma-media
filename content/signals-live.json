@@ -1,32 +1,8 @@
 [
   {
-    "text": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-    "flag": "wire"
-  },
-  {
     "text": "Trump’s EPA wants to let data centers hide their air pollution",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "flag": "wire"
-  },
-  {
-    "text": "How to sign up for a virtual power plant—and decide whether you should",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-    "flag": "wire"
-  },
-  {
-    "text": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-    "flag": "wire"
-  },
-  {
-    "text": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
     "flag": "wire"
   },
   {
@@ -36,27 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "AI Has Human Doctors Asking: What’s Left for Us?",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-    "flag": "wire"
-  },
-  {
-    "text": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "flag": "wire"
-  },
-  {
-    "text": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "flag": "wire"
-  },
-  {
     "text": "Open-weight AI companies are the Valley’s hottest acquisition targets",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a secretive antiaging drug and joining virtual power plants",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
     "flag": "wire"
   },
   {
@@ -66,9 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: a secretive antiaging drug and joining virtual power plants",
+    "text": "How to Run a Chatbot on Your Own Computer",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "flag": "wire"
+  },
+  {
+    "text": "How to sign up for a virtual power plant—and decide whether you should",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Has Human Doctors Asking: What’s Left for Us?",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+    "flag": "wire"
+  },
+  {
+    "text": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
     "flag": "wire"
   }
 ]
