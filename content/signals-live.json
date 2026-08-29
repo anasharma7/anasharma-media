@@ -1,5 +1,11 @@
 [
   {
+    "text": "How to sign up for a virtual power plant—and decide whether you should",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+    "flag": "wire"
+  },
+  {
     "text": "AI Has Human Doctors Asking: What’s Left for Us?",
     "source": "Wired",
     "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
@@ -12,33 +18,9 @@
     "flag": "wire"
   },
   {
-    "text": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "text": "Nvidia’s AI advantage is moving beyond the GPU",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-    "flag": "wire"
-  },
-  {
-    "text": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-    "flag": "wire"
-  },
-  {
-    "text": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "flag": "wire"
-  },
-  {
-    "text": "How to Run a Chatbot on Your Own Computer",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
     "flag": "wire"
   },
   {
@@ -48,15 +30,15 @@
     "flag": "wire"
   },
   {
-    "text": "Nvidia’s AI advantage is moving beyond the GPU",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "text": "How to Run a Chatbot on Your Own Computer",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
     "flag": "wire"
   },
   {
-    "text": "Trump’s EPA wants to let data centers hide their air pollution",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "text": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
     "flag": "wire"
   },
   {
@@ -66,9 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "How to sign up for a virtual power plant—and decide whether you should",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+    "text": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "flag": "wire"
+  },
+  {
+    "text": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sony Music and Warner Chappell are suing Anthropic",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump’s EPA wants to let data centers hide their air pollution",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
     "flag": "wire"
   }
 ]
