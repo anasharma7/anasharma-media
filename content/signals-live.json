@@ -1,20 +1,8 @@
 [
   {
-    "text": "Trump’s EPA wants to let data centers hide their air pollution",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "flag": "wire"
-  },
-  {
-    "text": "A startup claims it’s found a drug to make your blood young",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-    "flag": "wire"
-  },
-  {
-    "text": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "text": "AI Has Human Doctors Asking: What’s Left for Us?",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
     "flag": "wire"
   },
   {
@@ -24,27 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Google’s AI note-taking app now allows you to interact with books",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-    "flag": "wire"
-  },
-  {
-    "text": "How to Run a Chatbot on Your Own Computer",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-    "flag": "wire"
-  },
-  {
-    "text": "How to sign up for a virtual power plant—and decide whether you should",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "text": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
     "flag": "wire"
   },
   {
@@ -54,21 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "AI Has Human Doctors Asking: What’s Left for Us?",
+    "text": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-    "flag": "wire"
-  },
-  {
-    "text": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
     "flag": "wire"
   },
   {
     "text": "Neocloud Lambda secures $1B in debt to buy more chips",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "flag": "wire"
+  },
+  {
+    "text": "How to Run a Chatbot on Your Own Computer",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "flag": "wire"
+  },
+  {
+    "text": "A startup claims it’s found a drug to make your blood young",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia’s AI advantage is moving beyond the GPU",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump’s EPA wants to let data centers hide their air pollution",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "flag": "wire"
+  },
+  {
+    "text": "Musicians-turned-detectives are hunting for AI grifters",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "How to sign up for a virtual power plant—and decide whether you should",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
     "flag": "wire"
   }
 ]
