@@ -1,32 +1,14 @@
 [
   {
-    "text": "A startup claims it’s found a drug to make your blood young",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Has Human Doctors Asking: What’s Left for Us?",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-    "flag": "wire"
-  },
-  {
     "text": "Anthropic was illegally blacklisted by the Trump administration, court rules",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump’s EPA wants to let data centers hide their air pollution",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
     "flag": "wire"
   },
   {
@@ -42,33 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: a secretive antiaging drug and joining virtual power plants",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-    "flag": "wire"
-  },
-  {
     "text": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
     "source": "Wired",
     "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
     "flag": "wire"
   },
   {
-    "text": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "text": "A startup claims it’s found a drug to make your blood young",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
     "flag": "wire"
   },
   {
-    "text": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+    "text": "AI Has Human Doctors Asking: What’s Left for Us?",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+    "flag": "wire"
+  },
+  {
+    "text": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "flag": "wire"
+  },
+  {
+    "text": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
     "flag": "wire"
   },
   {
     "text": "Google’s AI note-taking app now allows you to interact with books",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a secretive antiaging drug and joining virtual power plants",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
     "flag": "wire"
   }
 ]
