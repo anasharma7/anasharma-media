@@ -6,39 +6,21 @@
     "flag": "wire"
   },
   {
+    "text": "Trump’s EPA wants to let data centers hide their air pollution",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "flag": "wire"
+  },
+  {
+    "text": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "flag": "wire"
+  },
+  {
     "text": "Sony Music and Warner Chappell are suing Anthropic",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: a secretive antiaging drug and joining virtual power plants",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Has Human Doctors Asking: What’s Left for Us?",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-    "flag": "wire"
-  },
-  {
-    "text": "Musicians-turned-detectives are hunting for AI grifters",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia’s AI advantage is moving beyond the GPU",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "flag": "wire"
-  },
-  {
-    "text": "How to sign up for a virtual power plant—and decide whether you should",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
     "flag": "wire"
   },
   {
@@ -48,15 +30,27 @@
     "flag": "wire"
   },
   {
-    "text": "Trump’s EPA wants to let data centers hide their air pollution",
+    "text": "Musicians-turned-detectives are hunting for AI grifters",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
     "flag": "wire"
   },
   {
-    "text": "How to Run a Chatbot on Your Own Computer",
+    "text": "AI Has Human Doctors Asking: What’s Left for Us?",
     "source": "Wired",
-    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a secretive antiaging drug and joining virtual power plants",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+    "flag": "wire"
+  },
+  {
+    "text": "How to sign up for a virtual power plant—and decide whether you should",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
     "flag": "wire"
   },
   {
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "text": "How to Run a Chatbot on Your Own Computer",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia’s AI advantage is moving beyond the GPU",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
     "flag": "wire"
   }
 ]
