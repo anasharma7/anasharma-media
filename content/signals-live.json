@@ -1,14 +1,14 @@
 [
   {
-    "text": "Texas Governor Abbott blocks funding for more Flock cameras",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "text": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
     "flag": "wire"
   },
   {
-    "text": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "text": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
     "flag": "wire"
   },
   {
@@ -18,27 +18,9 @@
     "flag": "wire"
   },
   {
-    "text": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "text": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-    "flag": "wire"
-  },
-  {
-    "text": "Musicians-turned-detectives are hunting for AI grifters",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: a secretive antiaging drug and joining virtual power plants",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
     "flag": "wire"
   },
   {
@@ -48,15 +30,27 @@
     "flag": "wire"
   },
   {
+    "text": "Why the Hottest New Wearables Want to Be Ignored",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+    "flag": "wire"
+  },
+  {
     "text": "How to Run a Chatbot on Your Own Computer",
     "source": "Wired",
     "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
     "flag": "wire"
   },
   {
-    "text": "Why the Hottest New Wearables Want to Be Ignored",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+    "text": "Musicians-turned-detectives are hunting for AI grifters",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a secretive antiaging drug and joining virtual power plants",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
     "flag": "wire"
   },
   {
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "text": "Musk’s faster path to more gas turbines comes with pollution problem",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "flag": "wire"
+  },
+  {
+    "text": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
     "flag": "wire"
   }
 ]
