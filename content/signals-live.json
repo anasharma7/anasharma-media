@@ -1,14 +1,20 @@
 [
   {
-    "text": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "text": "Hugging Face hack could indicate cultural issues at OpenAI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
     "flag": "wire"
   },
   {
-    "text": "How to Run a Chatbot on Your Own Computer",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "text": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "flag": "wire"
+  },
+  {
+    "text": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
     "flag": "wire"
   },
   {
@@ -18,9 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "text": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
     "flag": "wire"
   },
   {
@@ -30,15 +36,21 @@
     "flag": "wire"
   },
   {
-    "text": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "text": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
     "flag": "wire"
   },
   {
-    "text": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "text": "Meeting note-taker Circleback adds a free tier to attract more customers",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+    "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+    "flag": "wire"
+  },
+  {
+    "text": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
     "flag": "wire"
   },
   {
@@ -48,27 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "text": "ChatGPT to face tougher regulation in the EU",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-    "flag": "wire"
-  },
-  {
-    "text": "Musicians-turned-detectives are hunting for AI grifters",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
     "flag": "wire"
   },
   {
     "text": "How to sign up for a virtual power plant—and decide whether you should",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-    "flag": "wire"
-  },
-  {
-    "text": "A startup claims it’s found a drug to make your blood young",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
     "flag": "wire"
   }
 ]
