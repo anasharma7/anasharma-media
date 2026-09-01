@@ -1,50 +1,20 @@
 [
   {
-    "text": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "text": "OpenAI delayed its new model’s development after the Hugging Face hack",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
     "flag": "wire"
   },
   {
-    "text": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "text": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+    "flag": "wire"
+  },
+  {
+    "text": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-    "flag": "wire"
-  },
-  {
-    "text": "Why the Hottest New Wearables Want to Be Ignored",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple accuses OpenAI of destroying evidence",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-    "flag": "wire"
-  },
-  {
-    "text": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
     "flag": "wire"
   },
   {
@@ -54,21 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "John Deere launched an AI chatbot for farmers",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-    "flag": "wire"
-  },
-  {
-    "text": "How engineered microbes could help feed the world’s crops",
+    "text": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
     "flag": "wire"
   },
   {
-    "text": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "text": "Google’s Android update tackles motion sickness, accessibility, and more",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+    "flag": "wire"
+  },
+  {
+    "text": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "flag": "wire"
+  },
+  {
+    "text": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "flag": "wire"
+  },
+  {
+    "text": "How AI plotted an interstellar journey to Alpha Centauri",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "flag": "wire"
+  },
+  {
+    "text": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
     "flag": "wire"
   }
 ]
