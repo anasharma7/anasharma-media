@@ -6,39 +6,9 @@
     "flag": "wire"
   },
   {
-    "text": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-    "flag": "wire"
-  },
-  {
-    "text": "Debian won&#8217;t ban AI code from its Linux distribution",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-    "flag": "wire"
-  },
-  {
-    "text": "The Pentagon now has its own version of ChatGPT and Grok",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "flag": "wire"
-  },
-  {
-    "text": "How to sign up for a virtual power plant—and decide whether you should",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT to face tougher regulation in the EU",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-    "flag": "wire"
-  },
-  {
-    "text": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "text": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
     "flag": "wire"
   },
   {
@@ -48,15 +18,39 @@
     "flag": "wire"
   },
   {
-    "text": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-    "flag": "wire"
-  },
-  {
     "text": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
     "source": "Wired",
     "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT to face tougher regulation in the EU",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "flag": "wire"
+  },
+  {
+    "text": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "flag": "wire"
+  },
+  {
+    "text": "How to sign up for a virtual power plant—and decide whether you should",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+    "flag": "wire"
+  },
+  {
+    "text": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
     "flag": "wire"
   },
   {
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Hugging Face hack could indicate cultural issues at OpenAI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "text": "The Pentagon now has its own version of ChatGPT and Grok",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "flag": "wire"
+  },
+  {
+    "text": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
     "flag": "wire"
   }
 ]
