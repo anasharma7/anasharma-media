@@ -1,20 +1,44 @@
 [
   {
-    "text": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "text": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
     "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
     "flag": "wire"
   },
   {
-    "text": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "text": "ChatGPT Health adds Epic integration for clinicians to import patient data",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
     "flag": "wire"
   },
   {
-    "text": "Fambot introduces an ‘AI chief of staff’ for families",
+    "text": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "flag": "wire"
+  },
+  {
+    "text": "Why the Hottest New Wearables Want to Be Ignored",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s answer to Canva is an AI tool where you prompt instead of design",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "flag": "wire"
+  },
+  {
+    "text": "Apple accuses OpenAI of destroying evidence",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
     "flag": "wire"
   },
   {
@@ -30,15 +54,9 @@
     "flag": "wire"
   },
   {
-    "text": "Why the Hottest New Wearables Want to Be Ignored",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "text": "John Deere launched an AI chatbot for farmers",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
     "flag": "wire"
   },
   {
@@ -48,27 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-    "flag": "wire"
-  },
-  {
-    "text": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
-    "flag": "wire"
-  },
-  {
-    "text": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "text": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-    "flag": "wire"
-  },
-  {
-    "text": "Debian won&#8217;t ban AI code from its Linux distribution",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
     "flag": "wire"
   }
 ]
