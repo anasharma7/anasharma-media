@@ -6,45 +6,15 @@
     "flag": "wire"
   },
   {
-    "text": "How to sign up for a virtual power plant—and decide whether you should",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-    "flag": "wire"
-  },
-  {
-    "text": "Why the Hottest New Wearables Want to Be Ignored",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Pentagon now has its own version of ChatGPT and Grok",
+    "text": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
     "flag": "wire"
   },
   {
-    "text": "The Download: a secretive antiaging drug and joining virtual power plants",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-    "flag": "wire"
-  },
-  {
-    "text": "Debian won&#8217;t ban AI code from its Linux distribution",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT to face tougher regulation in the EU",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-    "flag": "wire"
-  },
-  {
-    "text": "The Hugging Face hack could indicate cultural issues at OpenAI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "text": "Fambot introduces an ‘AI chief of staff’ for families",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
     "flag": "wire"
   },
   {
@@ -54,21 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "text": "Making the AI-powered case for legacy modernization",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
     "flag": "wire"
   },
   {
-    "text": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "text": "Why the Hottest New Wearables Want to Be Ignored",
     "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
     "flag": "wire"
   },
   {
-    "text": "Instagram puts new limits on undisclosed AI profiles",
+    "text": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "flag": "wire"
+  },
+  {
+    "text": "How engineered microbes could help feed the world’s crops",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+    "flag": "wire"
+  },
+  {
+    "text": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+    "flag": "wire"
+  },
+  {
+    "text": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "flag": "wire"
+  },
+  {
+    "text": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
     "flag": "wire"
   }
 ]
