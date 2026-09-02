@@ -1,26 +1,50 @@
 [
   {
-    "text": "NYC bans AI use for students until they reach high school",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-    "flag": "wire"
-  },
-  {
-    "text": "Adobe acquires Indian market intelligence startup Rilo",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-    "flag": "wire"
-  },
-  {
-    "text": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "flag": "wire"
-  },
-  {
-    "text": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+    "text": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
     "source": "Wired",
-    "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+    "flag": "wire"
+  },
+  {
+    "text": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "flag": "wire"
+  },
+  {
+    "text": "Facilitating AI integration with simplicity at scale",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "flag": "wire"
+  },
+  {
+    "text": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
     "flag": "wire"
   },
   {
@@ -30,45 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google needs Hollywood more than the studios need AI",
+    "text": "Amazon’s AI assistant can now spot fake emails from the company",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
     "flag": "wire"
   },
   {
-    "text": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+    "text": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-    "flag": "wire"
-  },
-  {
-    "text": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
     "flag": "wire"
   },
   {
     "text": "The Download: AI puzzles and a path to our nearest star system",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-    "flag": "wire"
-  },
-  {
-    "text": "Facilitating AI integration with simplicity at scale",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
     "flag": "wire"
   }
 ]
