@@ -1,14 +1,26 @@
 [
   {
-    "text": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "text": "NYC bans AI use for students until they reach high school",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
     "flag": "wire"
   },
   {
-    "text": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "text": "Adobe acquires Indian market intelligence startup Rilo",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "flag": "wire"
+  },
+  {
+    "text": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "flag": "wire"
+  },
+  {
+    "text": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
     "flag": "wire"
   },
   {
@@ -18,33 +30,27 @@
     "flag": "wire"
   },
   {
+    "text": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+    "flag": "wire"
+  },
+  {
     "text": "Google needs Hollywood more than the studios need AI",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
     "flag": "wire"
   },
   {
-    "text": "OpenAI delayed its new model’s development after the Hugging Face hack",
+    "text": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
     "flag": "wire"
   },
   {
-    "text": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "text": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "flag": "wire"
-  },
-  {
-    "text": "Making the AI-powered case for legacy modernization",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s Android update tackles motion sickness, accessibility, and more",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
     "flag": "wire"
   },
   {
@@ -54,21 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+    "text": "The Download: AI puzzles and a path to our nearest star system",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
     "flag": "wire"
   },
   {
-    "text": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "text": "Facilitating AI integration with simplicity at scale",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
     "flag": "wire"
   }
 ]
