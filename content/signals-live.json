@@ -1,26 +1,8 @@
 [
   {
-    "text": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+    "text": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-    "flag": "wire"
-  },
-  {
-    "text": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
     "flag": "wire"
   },
   {
@@ -30,21 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+    "text": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
     "source": "Wired",
-    "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
     "flag": "wire"
   },
   {
-    "text": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "flag": "wire"
-  },
-  {
-    "text": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "text": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
     "flag": "wire"
   },
   {
@@ -54,9 +36,27 @@
     "flag": "wire"
   },
   {
-    "text": "Amazon’s AI assistant can now spot fake emails from the company",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "text": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI puzzles and a path to our nearest star system",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "flag": "wire"
+  },
+  {
+    "text": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: AI puzzles and a path to our nearest star system",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "text": "Amazon’s AI assistant can now spot fake emails from the company",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
     "flag": "wire"
   }
 ]
