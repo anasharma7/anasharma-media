@@ -1,44 +1,14 @@
 [
   {
-    "text": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-    "flag": "wire"
-  },
-  {
-    "text": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "text": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
     "flag": "wire"
   },
   {
-    "text": "The Download: AI puzzles and a path to our nearest star system",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon’s AI assistant can now spot fake emails from the company",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-    "flag": "wire"
-  },
-  {
-    "text": "Facilitating AI integration with simplicity at scale",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "flag": "wire"
-  },
-  {
-    "text": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "text": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
     "flag": "wire"
   },
   {
@@ -48,9 +18,15 @@
     "flag": "wire"
   },
   {
-    "text": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "text": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
     "source": "Wired",
-    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
     "flag": "wire"
   },
   {
@@ -60,15 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "How AI plotted an interstellar journey to Alpha Centauri",
+    "text": "Scaling agentic AI pilots across the enterprise",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
     "flag": "wire"
   },
   {
-    "text": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+    "text": "Amazon’s AI assistant can now spot fake emails from the company",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: rethinking child safety and fossil-fueled farming",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "flag": "wire"
+  },
+  {
+    "text": "This Is Flock’s AI Search Tool for Cops",
     "source": "Wired",
-    "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+    "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
+    "flag": "wire"
+  },
+  {
+    "text": "Agriculture relies on fossil fuels. It’s costing us.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
     "flag": "wire"
   }
 ]
