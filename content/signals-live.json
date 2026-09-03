@@ -1,32 +1,14 @@
 [
   {
-    "text": "Amazon’s AI assistant can now spot fake emails from the company",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-    "flag": "wire"
-  },
-  {
-    "text": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-    "flag": "wire"
-  },
-  {
-    "text": "Facilitating AI integration with simplicity at scale",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+    "text": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
     "source": "Wired",
-    "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
     "flag": "wire"
   },
   {
-    "text": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "text": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
     "flag": "wire"
   },
   {
@@ -42,9 +24,15 @@
     "flag": "wire"
   },
   {
-    "text": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "text": "Amazon’s AI assistant can now spot fake emails from the company",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "flag": "wire"
+  },
+  {
+    "text": "Facilitating AI integration with simplicity at scale",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
     "flag": "wire"
   },
   {
@@ -54,9 +42,21 @@
     "flag": "wire"
   },
   {
-    "text": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "text": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "flag": "wire"
+  },
+  {
+    "text": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+    "text": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
     "source": "Wired",
-    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
     "flag": "wire"
   }
 ]
