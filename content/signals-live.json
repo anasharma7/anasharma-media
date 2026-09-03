@@ -1,62 +1,62 @@
 [
   {
-    "text": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "flag": "wire"
-  },
-  {
-    "text": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-    "flag": "wire"
-  },
-  {
     "text": "Scaling agentic AI pilots across the enterprise",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
     "flag": "wire"
   },
   {
-    "text": "Amazon’s AI assistant can now spot fake emails from the company",
+    "text": "Google now lets you chat with Gmail, Docs, and Keep",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
     "flag": "wire"
   },
   {
-    "text": "The Download: rethinking child safety and fossil-fueled farming",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "text": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
     "flag": "wire"
   },
   {
-    "text": "This Is Flock’s AI Search Tool for Cops",
+    "text": "Abliteration.ai is making a business out of removing AI guardrails",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia launches free tool that links idle computers into a personal AI data center",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta is paying to peek at how you use their latest AI model",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
     "source": "Wired",
-    "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
+    "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+    "flag": "wire"
+  },
+  {
+    "text": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+    "text": "The Download: rethinking child safety and fossil-fueled farming",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
     "flag": "wire"
   }
 ]
