@@ -1,62 +1,8 @@
 [
   {
-    "text": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+    "text": "Amazon’s AI assistant can now spot fake emails from the company",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "flag": "wire"
-  },
-  {
-    "text": "Facilitating AI integration with simplicity at scale",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "flag": "wire"
-  },
-  {
-    "text": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-    "flag": "wire"
-  },
-  {
-    "text": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-    "flag": "wire"
-  },
-  {
-    "text": "How AI plotted an interstellar journey to Alpha Centauri",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI puzzles and a path to our nearest star system",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-    "flag": "wire"
-  },
-  {
-    "text": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
     "flag": "wire"
   },
   {
@@ -66,9 +12,63 @@
     "flag": "wire"
   },
   {
-    "text": "Amazon’s AI assistant can now spot fake emails from the company",
+    "text": "Facilitating AI integration with simplicity at scale",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI puzzles and a path to our nearest star system",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "flag": "wire"
+  },
+  {
+    "text": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "flag": "wire"
+  },
+  {
+    "text": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "flag": "wire"
+  },
+  {
+    "text": "How AI plotted an interstellar journey to Alpha Centauri",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "flag": "wire"
+  },
+  {
+    "text": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
     "flag": "wire"
   }
 ]
