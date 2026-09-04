@@ -1,38 +1,8 @@
 [
   {
-    "text": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: selling battlefield drone data and AI reshaping language",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-    "flag": "wire"
-  },
-  {
-    "text": "Roland is getting into generative AI music with Melody Flip",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: rethinking child safety and fossil-fueled farming",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-    "flag": "wire"
-  },
-  {
-    "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "text": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
     "flag": "wire"
   },
   {
@@ -48,27 +18,57 @@
     "flag": "wire"
   },
   {
-    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-    "flag": "wire"
-  },
-  {
     "text": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
     "flag": "wire"
   },
   {
+    "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "flag": "wire"
+  },
+  {
+    "text": "Roland is getting into generative AI music with Melody Flip",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "flag": "wire"
+  },
+  {
+    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "flag": "wire"
+  },
+  {
+    "text": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "flag": "wire"
+  },
+  {
     "text": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
     "source": "Wired",
     "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: selling battlefield drone data and AI reshaping language",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "flag": "wire"
+  },
+  {
+    "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "flag": "wire"
+  },
+  {
+    "text": "Architecting memory and storage in the AI era",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
     "flag": "wire"
   }
 ]
