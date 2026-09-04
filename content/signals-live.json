@@ -1,50 +1,8 @@
 [
   {
-    "text": "Agriculture relies on fossil fuels. It’s costing us.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: rethinking child safety and fossil-fueled farming",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-    "flag": "wire"
-  },
-  {
-    "text": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "flag": "wire"
-  },
-  {
-    "text": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-    "flag": "wire"
-  },
-  {
-    "text": "Scaling agentic AI pilots across the enterprise",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-    "flag": "wire"
-  },
-  {
-    "text": "Abliteration.ai is making a business out of removing AI guardrails",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google now lets you chat with Gmail, Docs, and Keep",
+    "text": "Nvidia launches free tool that links idle computers into a personal AI data center",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
     "flag": "wire"
   },
   {
@@ -54,21 +12,63 @@
     "flag": "wire"
   },
   {
-    "text": "Nvidia launches free tool that links idle computers into a personal AI data center",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+    "text": "The sameness problem behind those unappetizing AI-generated menus",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "flag": "wire"
   },
   {
-    "text": "Prediction Market Betting Is Getting People Banned and Arrested",
+    "text": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
     "source": "Wired",
-    "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google now lets you chat with Gmail, Docs, and Keep",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "flag": "wire"
+  },
+  {
+    "text": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
     "flag": "wire"
   },
   {
     "text": "OpenAI’s next big AI model has ‘entered the AGI era’",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "flag": "wire"
+  },
+  {
+    "text": "Agriculture relies on fossil fuels. It’s costing us.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+    "flag": "wire"
+  },
+  {
+    "text": "Scaling agentic AI pilots across the enterprise",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: rethinking child safety and fossil-fueled farming",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "flag": "wire"
+  },
+  {
+    "text": "Prediction Market Betting Is Getting People Banned and Arrested",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
     "flag": "wire"
   }
 ]
