@@ -1,50 +1,14 @@
 [
   {
-    "text": "Why AI food looks like that",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-    "flag": "wire"
-  },
-  {
-    "text": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "flag": "wire"
-  },
-  {
-    "text": "Instagram’s AI detection is a mess (again)",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-    "flag": "wire"
-  },
-  {
-    "text": "The sameness problem behind those unappetizing AI-generated menus",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "flag": "wire"
-  },
-  {
     "text": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
     "flag": "wire"
   },
   {
-    "text": "The Download: rethinking child safety and fossil-fueled farming",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-    "flag": "wire"
-  },
-  {
-    "text": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-    "flag": "wire"
-  },
-  {
-    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
     "flag": "wire"
   },
   {
@@ -54,21 +18,57 @@
     "flag": "wire"
   },
   {
-    "text": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+    "text": "Roland is getting into generative AI music with Melody Flip",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
     "flag": "wire"
   },
   {
-    "text": "Google’s Gemini Spark can now manage your Google Photos library",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "text": "The Download: rethinking child safety and fossil-fueled farming",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
     "flag": "wire"
   },
   {
     "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
     "source": "Wired",
     "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "flag": "wire"
+  },
+  {
+    "text": "What will Apple’s John Ternus era look like?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "flag": "wire"
+  },
+  {
+    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "flag": "wire"
+  },
+  {
+    "text": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "flag": "wire"
+  },
+  {
+    "text": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
     "flag": "wire"
   }
 ]
