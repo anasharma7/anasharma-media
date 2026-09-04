@@ -1,38 +1,8 @@
 [
   {
-    "text": "Nvidia launches free tool that links idle computers into a personal AI data center",
+    "text": "Why AI food looks like that",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-    "flag": "wire"
-  },
-  {
-    "text": "Crusoe reportedly raises $3B at a $30B valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "flag": "wire"
-  },
-  {
-    "text": "The sameness problem behind those unappetizing AI-generated menus",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "flag": "wire"
-  },
-  {
-    "text": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google now lets you chat with Gmail, Docs, and Keep",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-    "flag": "wire"
-  },
-  {
-    "text": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
     "flag": "wire"
   },
   {
@@ -42,21 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "text": "Instagram’s AI detection is a mess (again)",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
     "flag": "wire"
   },
   {
-    "text": "Agriculture relies on fossil fuels. It’s costing us.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+    "text": "The sameness problem behind those unappetizing AI-generated menus",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "flag": "wire"
   },
   {
-    "text": "Scaling agentic AI pilots across the enterprise",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+    "text": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
     "flag": "wire"
   },
   {
@@ -66,9 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "Prediction Market Betting Is Getting People Banned and Arrested",
+    "text": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "flag": "wire"
+  },
+  {
+    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: selling battlefield drone data and AI reshaping language",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
     "source": "Wired",
-    "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s Gemini Spark can now manage your Google Photos library",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "flag": "wire"
+  },
+  {
+    "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
     "flag": "wire"
   }
 ]
