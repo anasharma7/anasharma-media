@@ -1,44 +1,8 @@
 [
   {
-    "text": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Agents Hacked Another Website",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: selling battlefield drone data and AI reshaping language",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-    "flag": "wire"
-  },
-  {
-    "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
-    "flag": "wire"
-  },
-  {
-    "text": "Architecting memory and storage in the AI era",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "text": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "flag": "wire"
   },
   {
@@ -48,15 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI admits to German wiki ‘incident’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "text": "Architecting memory and storage in the AI era",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
     "flag": "wire"
   },
   {
@@ -66,9 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI admits to German wiki ‘incident’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: selling battlefield drone data and AI reshaping language",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Agents Hacked Another Website",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
     "flag": "wire"
   }
 ]
