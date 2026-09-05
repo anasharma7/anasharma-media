@@ -1,29 +1,5 @@
 [
   {
-    "text": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "flag": "wire"
-  },
-  {
-    "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "flag": "wire"
-  },
-  {
-    "text": "Roland is getting into generative AI music with Melody Flip",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-    "flag": "wire"
-  },
-  {
     "text": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
@@ -36,27 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "text": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: selling battlefield drone data and AI reshaping language",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "flag": "wire"
   },
   {
@@ -66,9 +24,51 @@
     "flag": "wire"
   },
   {
+    "text": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: selling battlefield drone data and AI reshaping language",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "flag": "wire"
+  },
+  {
+    "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "flag": "wire"
+  },
+  {
+    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "flag": "wire"
+  },
+  {
+    "text": "Roland is getting into generative AI music with Melody Flip",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
     "flag": "wire"
   }
 ]
