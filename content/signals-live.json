@@ -6,45 +6,15 @@
     "flag": "wire"
   },
   {
-    "text": "Roland is getting into generative AI music with Melody Flip",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-    "flag": "wire"
-  },
-  {
-    "text": "Architecting memory and storage in the AI era",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "flag": "wire"
-  },
-  {
-    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "flag": "wire"
-  },
-  {
-    "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
-    "flag": "wire"
-  },
-  {
     "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
     "source": "The Verge",
     "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
     "flag": "wire"
   },
   {
-    "text": "OpenAI admits to German wiki ‘incident’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "text": "OpenAI Agents Hacked Another Website",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
     "flag": "wire"
   },
   {
@@ -54,9 +24,39 @@
     "flag": "wire"
   },
   {
+    "text": "Roland is getting into generative AI music with Melody Flip",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "flag": "wire"
+  },
+  {
+    "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "flag": "wire"
+  },
+  {
+    "text": "Architecting memory and storage in the AI era",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI admits to German wiki ‘incident’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI Agents Hacked Another Website",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
     "flag": "wire"
   }
 ]
