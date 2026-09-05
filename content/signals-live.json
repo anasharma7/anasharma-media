@@ -1,32 +1,14 @@
 [
   {
-    "text": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-    "flag": "wire"
-  },
-  {
-    "text": "Architecting memory and storage in the AI era",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "flag": "wire"
-  },
-  {
-    "text": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "flag": "wire"
-  },
-  {
     "text": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
     "source": "Wired",
     "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
     "flag": "wire"
   },
   {
-    "text": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "text": "OpenAI Agents Hacked Another Website",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
     "flag": "wire"
   },
   {
@@ -36,9 +18,9 @@
     "flag": "wire"
   },
   {
-    "text": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
     "flag": "wire"
   },
   {
@@ -48,9 +30,27 @@
     "flag": "wire"
   },
   {
-    "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "text": "Architecting memory and storage in the AI era",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "flag": "wire"
+  },
+  {
+    "text": "Roland is getting into generative AI music with Melody Flip",
     "source": "The Verge",
-    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI admits to German wiki ‘incident’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Roland is getting into generative AI music with Melody Flip",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "text": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "flag": "wire"
   }
 ]
