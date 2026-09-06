@@ -1,11 +1,5 @@
 [
   {
-    "text": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "flag": "wire"
-  },
-  {
     "text": "OpenAI admits to German wiki ‘incident’",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
@@ -15,6 +9,36 @@
     "text": "Hikers rescued after using Google Gemini for planning",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "flag": "wire"
+  },
+  {
+    "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "flag": "wire"
+  },
+  {
+    "text": "Architecting memory and storage in the AI era",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: selling battlefield drone data and AI reshaping language",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "flag": "wire"
+  },
+  {
+    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
     "flag": "wire"
   },
   {
@@ -42,33 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "flag": "wire"
-  },
-  {
-    "text": "Who Cares if AI Is Conscious—It’s Basically Alive",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
-    "flag": "wire"
-  },
-  {
     "text": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "flag": "wire"
-  },
-  {
-    "text": "Architecting memory and storage in the AI era",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: selling battlefield drone data and AI reshaping language",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
     "flag": "wire"
   }
 ]
