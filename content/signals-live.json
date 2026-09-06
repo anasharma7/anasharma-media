@@ -1,8 +1,32 @@
 [
   {
+    "text": "OpenAI admits to German wiki ‘incident’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI Agents Hacked Another Website",
     "source": "Wired",
     "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+    "flag": "wire"
+  },
+  {
+    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "flag": "wire"
+  },
+  {
+    "text": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
     "flag": "wire"
   },
   {
@@ -18,45 +42,9 @@
     "flag": "wire"
   },
   {
-    "text": "Roland is getting into generative AI music with Melody Flip",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: selling battlefield drone data and AI reshaping language",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-    "flag": "wire"
-  },
-  {
-    "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "flag": "wire"
-  },
-  {
-    "text": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI admits to German wiki ‘incident’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "flag": "wire"
-  },
-  {
-    "text": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
     "flag": "wire"
   },
   {
@@ -66,9 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "text": "Roland is getting into generative AI music with Melody Flip",
     "source": "The Verge",
-    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "flag": "wire"
+  },
+  {
+    "text": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
     "flag": "wire"
   }
 ]
