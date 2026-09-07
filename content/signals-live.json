@@ -6,57 +6,9 @@
     "flag": "wire"
   },
   {
-    "text": "Roland is getting into generative AI music with Melody Flip",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-    "flag": "wire"
-  },
-  {
-    "text": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "text": "Opaque recurrence, and other AI terms that you should probably know",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: selling battlefield drone data and AI reshaping language",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-    "flag": "wire"
-  },
-  {
-    "text": "My Brief Summer Fling With Siri AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-    "flag": "wire"
-  },
-  {
-    "text": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI admits to German wiki ‘incident’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "flag": "wire"
-  },
-  {
-    "text": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "flag": "wire"
   },
   {
@@ -66,9 +18,57 @@
     "flag": "wire"
   },
   {
+    "text": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "flag": "wire"
+  },
+  {
+    "text": "My Brief Summer Fling With Siri AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Roland is getting into generative AI music with Melody Flip",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "flag": "wire"
+  },
+  {
+    "text": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+    "flag": "wire"
+  },
+  {
     "text": "Architecting memory and storage in the AI era",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: selling battlefield drone data and AI reshaping language",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI admits to German wiki ‘incident’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "flag": "wire"
+  },
+  {
+    "text": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
     "flag": "wire"
   }
 ]
