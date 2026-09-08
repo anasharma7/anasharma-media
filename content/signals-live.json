@@ -1,14 +1,14 @@
 [
   {
-    "text": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+    "text": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
     "flag": "wire"
   },
   {
-    "text": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "text": "Hackers are stealing Claude tokens from subscribers",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
     "flag": "wire"
   },
   {
@@ -18,39 +18,15 @@
     "flag": "wire"
   },
   {
-    "text": "Google’s Atlas of the human genome could pave the way for new treatments",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-    "flag": "wire"
-  },
-  {
-    "text": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-    "flag": "wire"
-  },
-  {
-    "text": "My Brief Summer Fling With Siri AI",
+    "text": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
     "source": "Wired",
-    "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+    "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
     "flag": "wire"
   },
   {
-    "text": "The Download: our 35 Innovators Under 35 this year",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-    "flag": "wire"
-  },
-  {
-    "text": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta bets on AI agent Muse to catch up in AI race",
+    "text": "Drama swirls around OpenAI’s legendary mathematical milestone",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
     "flag": "wire"
   },
   {
@@ -66,9 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+    "text": "Meta bets on AI agent Muse to catch up in AI race",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+    "flag": "wire"
+  },
+  {
+    "text": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: our 35 Innovators Under 35 this year",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+    "flag": "wire"
+  },
+  {
+    "text": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
     "flag": "wire"
   }
 ]
