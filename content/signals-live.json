@@ -1,5 +1,41 @@
 [
   {
+    "text": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: selling battlefield drone data and AI reshaping language",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "flag": "wire"
+  },
+  {
+    "text": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "flag": "wire"
+  },
+  {
+    "text": "My Brief Summer Fling With Siri AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "flag": "wire"
+  },
+  {
+    "text": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+    "flag": "wire"
+  },
+  {
     "text": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
     "source": "Wired",
     "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
@@ -12,51 +48,15 @@
     "flag": "wire"
   },
   {
-    "text": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "flag": "wire"
-  },
-  {
-    "text": "My Brief Summer Fling With Siri AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-    "flag": "wire"
-  },
-  {
     "text": "Roland is getting into generative AI music with Melody Flip",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
     "flag": "wire"
   },
   {
-    "text": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
-    "flag": "wire"
-  },
-  {
-    "text": "Architecting memory and storage in the AI era",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: selling battlefield drone data and AI reshaping language",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "text": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "text": "Architecting memory and storage in the AI era",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
     "flag": "wire"
   }
 ]
