@@ -44,7 +44,7 @@ export default function TuringTest() {
   const [timeLeft, setTimeLeft] = useState(TIME_PER_ROUND);
   const [feedback, setFeedback] = useState<'correct' | 'wrong' | null>(null);
 
-  const timerRef = useRef<ReturnType<typeof setInterval>>();
+  const timerRef = useRef<ReturnType<typeof setInterval> | undefined>(undefined);
   const indexRef = useRef(0);
   const livesRef = useRef(LIVES_START);
 
