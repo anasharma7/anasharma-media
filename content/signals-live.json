@@ -1,44 +1,56 @@
 [
   {
-    "text": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "text": "Shipt becomes the latest delivery app with an AI shopping assistant",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
     "flag": "wire"
   },
   {
-    "text": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "text": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
     "flag": "wire"
   },
   {
-    "text": "Hackers are stealing Claude tokens from subscribers",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta bets on AI agent Muse to catch up in AI race",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: our 35 Innovators Under 35 this year",
+    "text": "Understanding the thermal ceiling in portable power",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+    "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+    "text": "Batteries just broke another record in the US",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+    "flag": "wire"
+  },
+  {
+    "text": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+    "flag": "wire"
+  },
+  {
+    "text": "Students who use AI generally score worse at school",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+    "flag": "wire"
+  },
+  {
+    "text": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
     "source": "Wired",
-    "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+    "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: OpenAI’s turning point for math and a battery record",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+    "flag": "wire"
+  },
+  {
+    "text": "Viral AI assistant Instinct now has its own email address",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
     "flag": "wire"
   },
   {
@@ -48,27 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "This founder is teaching chips how to recycle (their energy)",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-    "flag": "wire"
-  },
-  {
-    "text": "What OpenAI’s latest controversy tells us about the future of math",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-    "flag": "wire"
-  },
-  {
-    "text": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+    "text": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
     "source": "Wired",
-    "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+    "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
     "flag": "wire"
   },
   {
-    "text": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+    "text": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
     "source": "Wired",
-    "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+    "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
     "flag": "wire"
   }
 ]
