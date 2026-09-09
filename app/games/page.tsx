@@ -11,7 +11,12 @@ const games = [
   {
     slug: 'signal-catcher',
     title: 'Signal Catcher',
-    blurb: 'Click the signal, let the noise fall. A small game about attention.',
+    blurb: 'Steer a receiver through falling signal and noise. Combos, power-ups, ramping difficulty.',
+  },
+  {
+    slug: 'turing-test',
+    title: 'Turing Test: 5 Seconds',
+    blurb: 'Human or AI? You have five seconds to decide, over and over.',
   },
 ];
 
