@@ -15,6 +15,7 @@ export default function Masthead() {
         <nav className="masthead-nav" aria-label="Primary">
           <Link href="/#essays">essays</Link>
           <Link href="/#signals">signals</Link>
+          <Link href="/games">games</Link>
           <Link href="/#about">about</Link>
         </nav>
         <div className="status-line">updated continuously</div>
