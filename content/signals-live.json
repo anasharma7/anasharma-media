@@ -1,8 +1,8 @@
 [
   {
-    "text": "Suno releases its first AI music model made with record industry help",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+    "text": "OpenAI adds a prominent AI doomer to its board of directors",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
     "flag": "wire"
   },
   {
@@ -18,18 +18,6 @@
     "flag": "wire"
   },
   {
-    "text": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-    "flag": "wire"
-  },
-  {
-    "text": "Read the Apple document explaining how new listening features still protect your privacy",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-    "flag": "wire"
-  },
-  {
     "text": "Understanding the thermal ceiling in portable power",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
@@ -42,15 +30,15 @@
     "flag": "wire"
   },
   {
-    "text": "Batteries just broke another record in the US",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: OpenAI’s turning point for math and a battery record",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+    "flag": "wire"
+  },
+  {
+    "text": "Batteries just broke another record in the US",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
     "flag": "wire"
   },
   {
@@ -60,15 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI adds a prominent AI doomer to its board of directors",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-    "flag": "wire"
-  },
-  {
     "text": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+    "flag": "wire"
+  },
+  {
+    "text": "Suno releases its first AI music model made with record industry help",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+    "flag": "wire"
+  },
+  {
+    "text": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+    "flag": "wire"
+  },
+  {
+    "text": "Read the Apple document explaining how new listening features still protect your privacy",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
     "flag": "wire"
   }
 ]
