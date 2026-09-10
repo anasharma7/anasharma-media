@@ -1,32 +1,20 @@
 [
   {
-    "text": "Powering AI is an architecture problem",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI agents are flooding public services with new requests",
+    "text": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
     "flag": "wire"
   },
   {
-    "text": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+    "text": "Slack can now vibe-code interactive charts and reports inside chats",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
     "flag": "wire"
   },
   {
-    "text": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-    "flag": "wire"
-  },
-  {
-    "text": "This road map could help us decide whether to deploy solar geoengineering",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+    "text": "Universal Music is launching an AI music platform with ElevenLabs",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
     "flag": "wire"
   },
   {
@@ -36,15 +24,15 @@
     "flag": "wire"
   },
   {
-    "text": "Meta’s Muse AI works and creeps me out",
+    "text": "Schools are catching on to Big Tech’s playbook",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
     "flag": "wire"
   },
   {
-    "text": "Why the current tech backlash feels different",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+    "text": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
     "flag": "wire"
   },
   {
@@ -54,21 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "text": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
     "flag": "wire"
   },
   {
-    "text": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "text": "This road map could help us decide whether to deploy solar geoengineering",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
     "flag": "wire"
   },
   {
-    "text": "Universal Music is launching an AI music platform with ElevenLabs",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+    "text": "Is AI Actually Going to Kill Us All?",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+    "flag": "wire"
+  },
+  {
+    "text": "Powering AI is an architecture problem",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
     "flag": "wire"
   }
 ]
