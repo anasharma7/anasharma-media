@@ -1,26 +1,20 @@
 [
   {
-    "text": "OpenAI adds a prominent AI doomer to its board of directors",
+    "text": "AI agents are flooding public services with new requests",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
     "flag": "wire"
   },
   {
-    "text": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-    "flag": "wire"
-  },
-  {
-    "text": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-    "flag": "wire"
-  },
-  {
-    "text": "Understanding the thermal ceiling in portable power",
+    "text": "This road map could help us decide whether to deploy solar geoengineering",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+    "flag": "wire"
+  },
+  {
+    "text": "Maven Robotics wants to steal your robot deployment deal",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
     "flag": "wire"
   },
   {
@@ -30,45 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: OpenAI’s turning point for math and a battery record",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-    "flag": "wire"
-  },
-  {
-    "text": "Batteries just broke another record in the US",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-    "flag": "wire"
-  },
-  {
-    "text": "Massachusetts hits data centers with new clean power rules",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-    "flag": "wire"
-  },
-  {
     "text": "Suno releases its first AI music model made with record industry help",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
     "flag": "wire"
   },
   {
-    "text": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+    "text": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
     "source": "Wired",
-    "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+    "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+    "flag": "wire"
+  },
+  {
+    "text": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
     "flag": "wire"
   },
   {
     "text": "Read the Apple document explaining how new listening features still protect your privacy",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+    "flag": "wire"
+  },
+  {
+    "text": "Powering AI is an architecture problem",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "flag": "wire"
+  },
+  {
+    "text": "Everything New You Can Do With Siri AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
     "flag": "wire"
   }
 ]
