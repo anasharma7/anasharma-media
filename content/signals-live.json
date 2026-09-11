@@ -1,26 +1,8 @@
 [
   {
-    "text": "Everything New You Can Do With Siri AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Powering AI is an architecture problem",
+    "text": "The Download: biotech’s future and cheaper, cleaner steel",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "flag": "wire"
-  },
-  {
-    "text": "Is AI Actually Going to Kill Us All?",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
     "flag": "wire"
   },
   {
@@ -30,9 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Universal Music is launching an AI music platform with ElevenLabs",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+    "text": "Meet the under-35s shaping the future of biotech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
     "flag": "wire"
   },
   {
@@ -42,9 +24,15 @@
     "flag": "wire"
   },
   {
-    "text": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "text": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
     "flag": "wire"
   },
   {
@@ -54,21 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Slack can now vibe-code interactive charts and reports inside chats",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-    "flag": "wire"
-  },
-  {
     "text": "Schools are catching on to Big Tech’s playbook",
     "source": "The Verge",
     "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
     "flag": "wire"
   },
   {
-    "text": "This road map could help us decide whether to deploy solar geoengineering",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+    "text": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "Slack can now vibe-code interactive charts and reports inside chats",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "flag": "wire"
+  },
+  {
+    "text": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
     "flag": "wire"
   }
 ]
