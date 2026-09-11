@@ -1,62 +1,8 @@
 [
   {
-    "text": "The Download: biotech’s future and cheaper, cleaner steel",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meet the under-35s shaping the future of biotech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-    "flag": "wire"
-  },
-  {
-    "text": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "flag": "wire"
-  },
-  {
-    "text": "Schools are catching on to Big Tech’s playbook",
+    "text": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
     "source": "The Verge",
-    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-    "flag": "wire"
-  },
-  {
-    "text": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "Slack can now vibe-code interactive charts and reports inside chats",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
     "flag": "wire"
   },
   {
@@ -66,9 +12,63 @@
     "flag": "wire"
   },
   {
-    "text": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+    "text": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "flag": "wire"
+  },
+  {
+    "text": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+    "flag": "wire"
+  },
+  {
+    "text": "Slack can now vibe-code interactive charts and reports inside chats",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "flag": "wire"
+  },
+  {
+    "text": "Meet the under-35s shaping the future of biotech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: biotech’s future and cheaper, cleaner steel",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic spent this week in hot water over cybersecurity",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "flag": "wire"
+  },
+  {
+    "text": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
     "flag": "wire"
   }
 ]
