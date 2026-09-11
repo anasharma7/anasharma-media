@@ -1,20 +1,8 @@
 [
   {
-    "text": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-    "flag": "wire"
-  },
-  {
     "text": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
     "source": "Wired",
     "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
     "flag": "wire"
   },
   {
@@ -24,27 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "Slack can now vibe-code interactive charts and reports inside chats",
+    "text": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
     "flag": "wire"
   },
   {
-    "text": "Meet the under-35s shaping the future of biotech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "text": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
     "flag": "wire"
   },
   {
-    "text": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "text": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: biotech’s future and cheaper, cleaner steel",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
     "flag": "wire"
   },
   {
@@ -54,21 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+    "text": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
     "source": "Wired",
-    "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+    "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meet the under-35s shaping the future of biotech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "flag": "wire"
+  },
+  {
+    "text": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s feud with mathematicians is only escalating",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "flag": "wire"
+  },
+  {
+    "text": "Roundtables: AI’s apocalypse crisis",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: biotech’s future and cheaper, cleaner steel",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
     "flag": "wire"
   }
 ]
