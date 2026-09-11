@@ -1,62 +1,14 @@
 [
   {
-    "text": "Powering AI is an architecture problem",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "flag": "wire"
-  },
-  {
-    "text": "Slack can now vibe-code interactive charts and reports inside chats",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-    "flag": "wire"
-  },
-  {
-    "text": "Universal Music is launching an AI music platform with ElevenLabs",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "This road map could help us decide whether to deploy solar geoengineering",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-    "flag": "wire"
-  },
-  {
-    "text": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "flag": "wire"
-  },
-  {
     "text": "Everything New You Can Do With Siri AI",
     "source": "Wired",
     "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
     "flag": "wire"
   },
   {
-    "text": "Schools are catching on to Big Tech’s playbook",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+    "text": "Powering AI is an architecture problem",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
     "flag": "wire"
   },
   {
@@ -66,9 +18,57 @@
     "flag": "wire"
   },
   {
+    "text": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+    "flag": "wire"
+  },
+  {
+    "text": "Universal Music is launching an AI music platform with ElevenLabs",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "flag": "wire"
+  },
+  {
+    "text": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
     "text": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "flag": "wire"
+  },
+  {
+    "text": "Slack can now vibe-code interactive charts and reports inside chats",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "flag": "wire"
+  },
+  {
+    "text": "Schools are catching on to Big Tech’s playbook",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+    "flag": "wire"
+  },
+  {
+    "text": "This road map could help us decide whether to deploy solar geoengineering",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
     "flag": "wire"
   }
 ]
