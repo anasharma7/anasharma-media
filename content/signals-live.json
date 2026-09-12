@@ -1,50 +1,14 @@
 [
   {
+    "text": "Anthropic spent this week in hot water over cybersecurity",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "flag": "wire"
+  },
+  {
     "text": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
     "source": "Wired",
     "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-    "flag": "wire"
-  },
-  {
-    "text": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "flag": "wire"
-  },
-  {
-    "text": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: biotech’s future and cheaper, cleaner steel",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-    "flag": "wire"
-  },
-  {
-    "text": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: AI’s apocalypse crisis",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "flag": "wire"
-  },
-  {
-    "text": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
     "flag": "wire"
   },
   {
@@ -54,9 +18,45 @@
     "flag": "wire"
   },
   {
+    "text": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: biotech’s future and cheaper, cleaner steel",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI’s feud with mathematicians is only escalating",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "flag": "wire"
+  },
+  {
+    "text": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+    "flag": "wire"
+  },
+  {
+    "text": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+    "flag": "wire"
+  },
+  {
+    "text": "Roundtables: AI’s apocalypse crisis",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "flag": "wire"
+  },
+  {
+    "text": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic spent this week in hot water over cybersecurity",
+    "text": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
     "flag": "wire"
   }
 ]
