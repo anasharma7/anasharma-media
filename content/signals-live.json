@@ -1,50 +1,14 @@
 [
   {
-    "text": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: AI’s apocalypse crisis",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s feud with mathematicians is only escalating",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "flag": "wire"
-  },
-  {
     "text": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
     "source": "Wired",
     "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
     "flag": "wire"
   },
   {
-    "text": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI just wants to win",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: biotech’s future and cheaper, cleaner steel",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meet the under-35s shaping the future of biotech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "text": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
     "flag": "wire"
   },
   {
@@ -54,21 +18,57 @@
     "flag": "wire"
   },
   {
+    "text": "OpenAI just wants to win",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "flag": "wire"
+  },
+  {
+    "text": "Roundtables: Could AI really kill us all?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic CEO outlines plan to ‘pace the frontier’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: biotech’s future and cheaper, cleaner steel",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "flag": "wire"
+  },
+  {
     "text": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
     "flag": "wire"
   },
   {
-    "text": "Anthropic spent this week in hot water over cybersecurity",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "text": "Meet the under-35s shaping the future of biotech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
     "flag": "wire"
   },
   {
-    "text": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+    "text": "Trump is giving data centers a pass to pollute",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "flag": "wire"
+  },
+  {
+    "text": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "flag": "wire"
+  },
+  {
+    "text": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
     "source": "Wired",
-    "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+    "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
     "flag": "wire"
   }
 ]
