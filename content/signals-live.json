@@ -1,20 +1,14 @@
 [
   {
-    "text": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+    "text": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
     "source": "Wired",
-    "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+    "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
     "flag": "wire"
   },
   {
-    "text": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+    "text": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
     "flag": "wire"
   },
   {
@@ -24,39 +18,21 @@
     "flag": "wire"
   },
   {
-    "text": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic spent this week in hot water over cybersecurity",
+    "text": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
     "flag": "wire"
   },
   {
-    "text": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meet the under-35s shaping the future of biotech",
+    "text": "The Download: biotech’s future and cheaper, cleaner steel",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
     "flag": "wire"
   },
   {
-    "text": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s feud with mathematicians is only escalating",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "text": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
     "flag": "wire"
   },
   {
@@ -66,9 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: biotech’s future and cheaper, cleaner steel",
+    "text": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+    "flag": "wire"
+  },
+  {
+    "text": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s feud with mathematicians is only escalating",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meet the under-35s shaping the future of biotech",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic spent this week in hot water over cybersecurity",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
     "flag": "wire"
   }
 ]
