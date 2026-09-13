@@ -1,20 +1,56 @@
 [
   {
+    "text": "Meet the under-35s shaping the future of biotech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "flag": "wire"
+  },
+  {
     "text": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
     "source": "Wired",
     "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
     "flag": "wire"
   },
   {
-    "text": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+    "text": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
     "flag": "wire"
   },
   {
     "text": "Roundtables: Could AI really kill us all?",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s rogue AI tried to hack another company in May",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "flag": "wire"
+  },
+  {
+    "text": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic CEO says it’s time to pump the brakes on AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: biotech’s future and cheaper, cleaner steel",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
     "flag": "wire"
   },
   {
@@ -30,45 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI’s rogue AI tried to hack another company in May",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meet the under-35s shaping the future of biotech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: biotech’s future and cheaper, cleaner steel",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic CEO says it’s time to pump the brakes on AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-    "flag": "wire"
-  },
-  {
-    "text": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "text": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
     "flag": "wire"
   }
 ]
