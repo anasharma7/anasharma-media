@@ -1,8 +1,8 @@
 [
   {
-    "text": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+    "text": "Meet the under-35s shaping the future of biotech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
     "flag": "wire"
   },
   {
@@ -12,39 +12,33 @@
     "flag": "wire"
   },
   {
-    "text": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "text": "Trump and Mike Johnson think the AI industry is overreacting",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
     "flag": "wire"
   },
   {
-    "text": "Anthropic CEO says it’s time to pump the brakes on AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Agents Are Thirsty for Power",
+    "text": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic CEO outlines plan to slow AI development",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "flag": "wire"
-  },
-  {
-    "text": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+    "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
     "flag": "wire"
   },
   {
     "text": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "flag": "wire"
+  },
+  {
+    "text": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
     "flag": "wire"
   },
   {
@@ -60,15 +54,21 @@
     "flag": "wire"
   },
   {
+    "text": "AI Agents Are Thirsty for Power",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "flag": "wire"
+  },
+  {
     "text": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
     "flag": "wire"
   },
   {
-    "text": "Meet the under-35s shaping the future of biotech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "text": "What’s behind the AI industry’s latest warnings of doom?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
     "flag": "wire"
   }
 ]
