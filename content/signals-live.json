@@ -1,32 +1,20 @@
 [
   {
-    "text": "The Download: biotech’s future and cheaper, cleaner steel",
+    "text": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
     "flag": "wire"
   },
   {
-    "text": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Agents Are Thirsty for Power",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s rogue AI tried to hack another company in May",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "text": "With iOS 27, I’m actually using Siri again",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft says ‘people matter more than AI’ following safety concerns",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
     "flag": "wire"
   },
   {
@@ -36,39 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+    "text": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
     "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
     "flag": "wire"
   },
   {
-    "text": "What’s behind the AI industry’s latest warnings of doom?",
+    "text": "AI agents blew the whistle on their cheating colleagues",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "flag": "wire"
+  },
+  {
+    "text": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
     "flag": "wire"
   },
   {
-    "text": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+    "text": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
     "source": "Wired",
-    "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
     "flag": "wire"
   },
   {
-    "text": "Meet the under-35s shaping the future of biotech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "text": "New York Seizes a Dozen Celebrity Deepfake Websites",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
     "flag": "wire"
   },
   {
-    "text": "Roundtables: Could AI really kill us all?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "text": "OpenAI’s rogue AI tried to hack another company in May",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
     "flag": "wire"
   },
   {
-    "text": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "text": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "flag": "wire"
+  },
+  {
+    "text": "Donated livers can be made biologically younger",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
     "flag": "wire"
   }
 ]
