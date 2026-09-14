@@ -1,20 +1,14 @@
 [
   {
-    "text": "Meet the under-35s shaping the future of biotech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-    "flag": "wire"
-  },
-  {
     "text": "OpenAI’s rogue AI tried to hack another company in May",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
     "flag": "wire"
   },
   {
-    "text": "Trump and Mike Johnson think the AI industry is overreacting",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "text": "The Download: biotech’s future and cheaper, cleaner steel",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
     "flag": "wire"
   },
   {
@@ -24,21 +18,9 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "flag": "wire"
-  },
-  {
     "text": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-    "flag": "wire"
-  },
-  {
-    "text": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
     "flag": "wire"
   },
   {
@@ -48,9 +30,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: biotech’s future and cheaper, cleaner steel",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "text": "What’s behind the AI industry’s latest warnings of doom?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
     "flag": "wire"
   },
   {
@@ -66,9 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "What’s behind the AI industry’s latest warnings of doom?",
+    "text": "Trump and Mike Johnson think the AI industry is overreacting",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meet the under-35s shaping the future of biotech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
     "flag": "wire"
   }
 ]
