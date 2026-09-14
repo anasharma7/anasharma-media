@@ -1,50 +1,14 @@
 [
   {
-    "text": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-    "flag": "wire"
-  },
-  {
-    "text": "With iOS 27, I’m actually using Siri again",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft says ‘people matter more than AI’ following safety concerns",
+    "text": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
     "source": "The Verge",
-    "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
     "flag": "wire"
   },
   {
-    "text": "Trump and Mike Johnson think the AI industry is overreacting",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-    "flag": "wire"
-  },
-  {
-    "text": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI agents blew the whistle on their cheating colleagues",
+    "text": "Donated livers can be made biologically younger",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "flag": "wire"
-  },
-  {
-    "text": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+    "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
     "flag": "wire"
   },
   {
@@ -54,21 +18,57 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI’s rogue AI tried to hack another company in May",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "flag": "wire"
-  },
-  {
-    "text": "Donated livers can be made biologically younger",
+    "text": "The AI industry has taken a doomer turn. What now?",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "flag": "wire"
+  },
+  {
+    "text": "With iOS 27, I’m actually using Siri again",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI agents blew the whistle on their cheating colleagues",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+    "flag": "wire"
+  },
+  {
+    "text": "What execs and politicians are saying about slowing down AI development",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft says ‘people matter more than AI’ following safety concerns",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
     "flag": "wire"
   }
 ]
