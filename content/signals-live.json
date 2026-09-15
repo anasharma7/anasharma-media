@@ -1,20 +1,8 @@
 [
   {
-    "text": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "flag": "wire"
-  },
-  {
-    "text": "This doorbell camera lets a human security guard watch your front door",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: Could AI really kill us all?",
+    "text": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
     "flag": "wire"
   },
   {
@@ -30,15 +18,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "text": "Roundtables: Could AI really kill us all?",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI models need more data about biology, and OpenAI is paying to create it",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
     "flag": "wire"
   },
   {
@@ -48,15 +30,15 @@
     "flag": "wire"
   },
   {
-    "text": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+    "text": "The AI data center boom is colliding with cities scarred by big industry",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
     "flag": "wire"
   },
   {
-    "text": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "text": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
     "flag": "wire"
   },
   {
@@ -66,9 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "AI agents now have a place to snitch",
+    "text": "This doorbell camera lets a human security guard watch your front door",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI models need more data about biology, and OpenAI is paying to create it",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
     "flag": "wire"
   }
 ]
