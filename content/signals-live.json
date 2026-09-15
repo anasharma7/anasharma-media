@@ -1,38 +1,8 @@
 [
   {
-    "text": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-    "flag": "wire"
-  },
-  {
-    "text": "Donated livers can be made biologically younger",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-    "flag": "wire"
-  },
-  {
-    "text": "New York Seizes a Dozen Celebrity Deepfake Websites",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-    "flag": "wire"
-  },
-  {
     "text": "The AI industry has taken a doomer turn. What now?",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "flag": "wire"
-  },
-  {
-    "text": "With iOS 27, I’m actually using Siri again",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI agents blew the whistle on their cheating colleagues",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
     "flag": "wire"
   },
   {
@@ -48,9 +18,45 @@
     "flag": "wire"
   },
   {
+    "text": "AI agents blew the whistle on their cheating colleagues",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "flag": "wire"
+  },
+  {
+    "text": "New York Seizes a Dozen Celebrity Deepfake Websites",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+    "flag": "wire"
+  },
+  {
+    "text": "Donated livers can be made biologically younger",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "flag": "wire"
+  },
+  {
+    "text": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
     "flag": "wire"
   },
   {
@@ -63,12 +69,6 @@
     "text": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
     "source": "Wired",
     "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft says ‘people matter more than AI’ following safety concerns",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
     "flag": "wire"
   }
 ]
