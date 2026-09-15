@@ -1,5 +1,29 @@
 [
   {
+    "text": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "flag": "wire"
+  },
+  {
+    "text": "AI agents blew the whistle on their cheating colleagues",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "flag": "wire"
+  },
+  {
+    "text": "New York Seizes a Dozen Celebrity Deepfake Websites",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "flag": "wire"
+  },
+  {
     "text": "The AI industry has taken a doomer turn. What now?",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
@@ -12,39 +36,15 @@
     "flag": "wire"
   },
   {
-    "text": "What execs and politicians are saying about slowing down AI development",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-    "flag": "wire"
-  },
-  {
-    "text": "AI agents blew the whistle on their cheating colleagues",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-    "flag": "wire"
-  },
-  {
-    "text": "New York Seizes a Dozen Celebrity Deepfake Websites",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-    "flag": "wire"
-  },
-  {
     "text": "Donated livers can be made biologically younger",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "text": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
     "flag": "wire"
   },
   {
@@ -54,21 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "flag": "wire"
-  },
-  {
     "text": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
     "flag": "wire"
   },
   {
-    "text": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+    "text": "What execs and politicians are saying about slowing down AI development",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "flag": "wire"
+  },
+  {
+    "text": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
     "flag": "wire"
   }
 ]
