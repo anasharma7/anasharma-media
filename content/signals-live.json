@@ -1,14 +1,20 @@
 [
   {
-    "text": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "text": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
     "flag": "wire"
   },
   {
-    "text": "AI agents blew the whistle on their cheating colleagues",
+    "text": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
     "flag": "wire"
   },
   {
@@ -18,15 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "text": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "flag": "wire"
-  },
-  {
-    "text": "The AI industry has taken a doomer turn. What now?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
     "flag": "wire"
   },
   {
@@ -36,39 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "Donated livers can be made biologically younger",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang took a call from Trump, and showed off something else, too",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "flag": "wire"
-  },
-  {
-    "text": "What execs and politicians are saying about slowing down AI development",
+    "text": "This doorbell camera lets a human security guard watch your front door",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+    "flag": "wire"
+  },
+  {
+    "text": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI models need more data about biology, and OpenAI is paying to create it",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
     "flag": "wire"
   },
   {
     "text": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "flag": "wire"
+  },
+  {
+    "text": "What’s at stake in AI’s trillion-dollar gamble",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
     "flag": "wire"
   }
 ]
