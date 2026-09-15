@@ -1,38 +1,8 @@
 [
   {
-    "text": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "text": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-    "flag": "wire"
-  },
-  {
-    "text": "New York Seizes a Dozen Celebrity Deepfake Websites",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
     "flag": "wire"
   },
   {
@@ -42,15 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI models need more data about biology, and OpenAI is paying to create it",
+    "text": "Roundtables: Could AI really kill us all?",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
     "flag": "wire"
   },
   {
@@ -60,15 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "What’s at stake in AI’s trillion-dollar gamble",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "text": "New York Seizes a Dozen Celebrity Deepfake Websites",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
     "flag": "wire"
   },
   {
-    "text": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+    "text": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI models need more data about biology, and OpenAI is paying to create it",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
     "source": "Wired",
-    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI agents now have a place to snitch",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
     "flag": "wire"
   }
 ]
