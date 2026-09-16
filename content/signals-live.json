@@ -1,56 +1,20 @@
 [
   {
-    "text": "AI models need more data about biology, and OpenAI is paying to create it",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-    "flag": "wire"
-  },
-  {
-    "text": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "text": "A brief history of AI executives calling for regulation",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
     "flag": "wire"
   },
   {
-    "text": "Roundtables: Could AI really kill us all?",
+    "text": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meet a mouse whose brain cortex is made up of human cells",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-    "flag": "wire"
-  },
-  {
-    "text": "The AI data center boom is colliding with cities scarred by big industry",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "flag": "wire"
-  },
-  {
-    "text": "This doorbell camera lets a human security guard watch your front door",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
     "flag": "wire"
   },
   {
@@ -60,15 +24,51 @@
     "flag": "wire"
   },
   {
+    "text": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+    "flag": "wire"
+  },
+  {
+    "text": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "Threads’ new features let podcasters promote shows and reach listeners",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+    "flag": "wire"
+  },
+  {
+    "text": "Building the materials foundation for AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "flag": "wire"
+  },
+  {
     "text": "AI and data centers are incredibly unpopular in every poll",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
     "flag": "wire"
   },
   {
-    "text": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+    "text": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+    "flag": "wire"
+  },
+  {
+    "text": "The sexy AI-powered dating app scams are here",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
     "flag": "wire"
   }
 ]
