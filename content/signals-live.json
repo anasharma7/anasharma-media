@@ -1,44 +1,8 @@
 [
   {
-    "text": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-    "flag": "wire"
-  },
-  {
-    "text": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "flag": "wire"
-  },
-  {
-    "text": "New York Seizes a Dozen Celebrity Deepfake Websites",
+    "text": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
     "source": "Wired",
-    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: Could AI really kill us all?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "The AI data center boom is colliding with cities scarred by big industry",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
     "flag": "wire"
   },
   {
@@ -48,15 +12,33 @@
     "flag": "wire"
   },
   {
-    "text": "This doorbell camera lets a human security guard watch your front door",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+    "text": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
     "flag": "wire"
   },
   {
-    "text": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "text": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Roundtables: Could AI really kill us all?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
     "flag": "wire"
   },
   {
@@ -66,9 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+    "text": "The AI data center boom is colliding with cities scarred by big industry",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "flag": "wire"
+  },
+  {
+    "text": "New York Seizes a Dozen Celebrity Deepfake Websites",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+    "flag": "wire"
+  },
+  {
+    "text": "This doorbell camera lets a human security guard watch your front door",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
     "flag": "wire"
   }
 ]
