@@ -1,32 +1,14 @@
 [
   {
-    "text": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+    "text": "AI models need more data about biology, and OpenAI is paying to create it",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
     "flag": "wire"
   },
   {
     "text": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "flag": "wire"
-  },
-  {
-    "text": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
     "flag": "wire"
   },
   {
@@ -42,9 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "AI models need more data about biology, and OpenAI is paying to create it",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "text": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
     "flag": "wire"
   },
   {
@@ -54,21 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "New York Seizes a Dozen Celebrity Deepfake Websites",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-    "flag": "wire"
-  },
-  {
     "text": "This doorbell camera lets a human security guard watch your front door",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
     "flag": "wire"
   },
   {
+    "text": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+    "flag": "wire"
+  },
+  {
     "text": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "flag": "wire"
+  },
+  {
+    "text": "New York Seizes a Dozen Celebrity Deepfake Websites",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI and data centers are incredibly unpopular in every poll",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
     "flag": "wire"
   }
 ]
