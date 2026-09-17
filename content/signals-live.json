@@ -1,5 +1,53 @@
 [
   {
+    "text": "Meet a mouse whose brain cortex is made up of human cells",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "flag": "wire"
+  },
+  {
+    "text": "Building the materials foundation for AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "flag": "wire"
+  },
+  {
+    "text": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+    "flag": "wire"
+  },
+  {
+    "text": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+    "flag": "wire"
+  },
+  {
+    "text": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI data center e-waste problem is huge — and getting bigger",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "flag": "wire"
+  },
+  {
+    "text": "Washington Won’t Be Regulating AI Anytime Soon",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
     "source": "Wired",
     "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
@@ -12,63 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Meet a mouse whose brain cortex is made up of human cells",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-    "flag": "wire"
-  },
-  {
-    "text": "The AI data center e-waste problem is huge — and getting bigger",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple might make servers again to cash in on the AI rush",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-    "flag": "wire"
-  },
-  {
-    "text": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-    "flag": "wire"
-  },
-  {
-    "text": "Building the materials foundation for AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI labs want in-house auditors — but maybe they should shut the front door first",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-    "flag": "wire"
-  },
-  {
     "text": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
     "source": "The Verge",
     "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
     "flag": "wire"
   },
   {
-    "text": "Washington Won’t Be Regulating AI Anytime Soon",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
-    "flag": "wire"
-  },
-  {
-    "text": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "text": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
     "flag": "wire"
   }
 ]
