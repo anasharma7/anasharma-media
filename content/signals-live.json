@@ -1,26 +1,44 @@
 [
   {
+    "text": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: mice with part-human brains and climate tech innovators",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+    "flag": "wire"
+  },
+  {
+    "text": "Inside the suddenly explosive world of AI safety",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+    "flag": "wire"
+  },
+  {
+    "text": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+    "flag": "wire"
+  },
+  {
+    "text": "2 days left to exhibit at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
     "text": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
     "flag": "wire"
   },
   {
-    "text": "Building the materials foundation for AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "text": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-    "flag": "wire"
-  },
-  {
-    "text": "Washington Won’t Be Regulating AI Anytime Soon",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+    "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
     "flag": "wire"
   },
   {
@@ -30,45 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "The AI data center e-waste problem is huge — and getting bigger",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-    "flag": "wire"
-  },
-  {
-    "text": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+    "text": "Meet a mouse whose brain cortex is made up of human cells",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "text": "An OpenAI Agent Tried to Jailbreak Itself",
     "source": "Wired",
     "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
     "flag": "wire"
   },
   {
-    "text": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+    "text": "Washington Won’t Be Regulating AI Anytime Soon",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
     "flag": "wire"
   },
   {
-    "text": "Snap tries to make the case again for its $2,200 smart glasses",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meet a mouse whose brain cortex is made up of human cells",
+    "text": "Meet the innovators under 35 shaping climate tech",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
     "flag": "wire"
   }
 ]
