@@ -1,8 +1,8 @@
 [
   {
-    "text": "Meet a mouse whose brain cortex is made up of human cells",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "text": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
     "flag": "wire"
   },
   {
@@ -12,33 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "text": "Iceland-based Treble raises $18 million for its voice simulation platform",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-    "flag": "wire"
-  },
-  {
-    "text": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-    "flag": "wire"
-  },
-  {
-    "text": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-    "flag": "wire"
-  },
-  {
-    "text": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-    "flag": "wire"
-  },
-  {
-    "text": "The AI data center e-waste problem is huge — and getting bigger",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
     "flag": "wire"
   },
   {
@@ -48,9 +24,21 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "text": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
     "source": "Wired",
-    "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI data center e-waste problem is huge — and getting bigger",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "flag": "wire"
+  },
+  {
+    "text": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
     "flag": "wire"
   },
   {
@@ -60,15 +48,27 @@
     "flag": "wire"
   },
   {
+    "text": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "flag": "wire"
+  },
+  {
     "text": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
     "source": "The Verge",
     "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
     "flag": "wire"
   },
   {
-    "text": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "text": "Snap tries to make the case again for its $2,200 smart glasses",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meet a mouse whose brain cortex is made up of human cells",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
     "flag": "wire"
   }
 ]
