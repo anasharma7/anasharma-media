@@ -1,38 +1,26 @@
 [
   {
-    "text": "An OpenAI Agent Tried to Jailbreak Itself",
+    "text": "The AI ‘Slowdown’ Is an Antitrust Mess",
     "source": "Wired",
-    "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
     "flag": "wire"
   },
   {
-    "text": "Even the king of England has his hesitations about AI",
+    "text": "OpenAI caught its models leaving notes to successors to hide bad behavior",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
     "flag": "wire"
   },
   {
-    "text": "Meet the innovators under 35 shaping climate tech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-    "flag": "wire"
-  },
-  {
-    "text": "Washington Won’t Be Regulating AI Anytime Soon",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
-    "flag": "wire"
-  },
-  {
-    "text": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-    "flag": "wire"
-  },
-  {
-    "text": "The AI Superintelligence Slowdown",
+    "text": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+    "flag": "wire"
+  },
+  {
+    "text": "The fix for rogue AI agents could be more AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
     "flag": "wire"
   },
   {
@@ -42,15 +30,9 @@
     "flag": "wire"
   },
   {
-    "text": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+    "text": "The AI Superintelligence Slowdown",
     "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
     "flag": "wire"
   },
   {
@@ -60,15 +42,33 @@
     "flag": "wire"
   },
   {
+    "text": "Here’s What the AI Apocalypse Could Look Like",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meet the innovators under 35 shaping climate tech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: mice with part-human brains and climate tech innovators",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
     "flag": "wire"
   },
   {
-    "text": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+    "text": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
     "flag": "wire"
   }
 ]
