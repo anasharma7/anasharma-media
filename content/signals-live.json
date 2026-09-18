@@ -1,14 +1,14 @@
 [
   {
-    "text": "The AI ‘Slowdown’ Is an Antitrust Mess",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+    "text": "Google DeepMind launches institute to widen the AGI debate",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+    "text": "The AI Slowdown Debate Crashed Salesforce’s Party",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
     "flag": "wire"
   },
   {
@@ -18,15 +18,27 @@
     "flag": "wire"
   },
   {
-    "text": "The fix for rogue AI agents could be more AI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-    "flag": "wire"
-  },
-  {
     "text": "Meet a mouse whose brain cortex is made up of human cells",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: mice with part-human brains and climate tech innovators",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI ‘Slowdown’ Is an Antitrust Mess",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
     "flag": "wire"
   },
   {
@@ -36,9 +48,15 @@
     "flag": "wire"
   },
   {
-    "text": "The AI Slowdown Debate Crashed Salesforce’s Party",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+    "text": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "flag": "wire"
+  },
+  {
+    "text": "PrismML hopes its tiny LLM will change how we all use AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
     "flag": "wire"
   },
   {
@@ -51,24 +69,6 @@
     "text": "Meet the innovators under 35 shaping climate tech",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: mice with part-human brains and climate tech innovators",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-    "flag": "wire"
-  },
-  {
-    "text": "The FAA’s plan to fix air traffic? $875 million worth of AI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
     "flag": "wire"
   }
 ]
