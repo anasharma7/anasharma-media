@@ -1,5 +1,47 @@
 [
   {
+    "text": "PrismML hopes its tiny LLM will change how we all use AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meet the innovators under 35 shaping climate tech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meet a mouse whose brain cortex is made up of human cells",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "flag": "wire"
+  },
+  {
+    "text": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+    "flag": "wire"
+  },
+  {
+    "text": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI Superintelligence Slowdown",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+    "flag": "wire"
+  },
+  {
     "text": "Google DeepMind launches institute to widen the AGI debate",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
@@ -12,15 +54,9 @@
     "flag": "wire"
   },
   {
-    "text": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-    "flag": "wire"
-  },
-  {
-    "text": "Meet a mouse whose brain cortex is made up of human cells",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "text": "Here’s What the AI Apocalypse Could Look Like",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
     "flag": "wire"
   },
   {
@@ -33,42 +69,6 @@
     "text": "The AI ‘Slowdown’ Is an Antitrust Mess",
     "source": "Wired",
     "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-    "flag": "wire"
-  },
-  {
-    "text": "The AI Superintelligence Slowdown",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-    "flag": "wire"
-  },
-  {
-    "text": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-    "flag": "wire"
-  },
-  {
-    "text": "PrismML hopes its tiny LLM will change how we all use AI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Here’s What the AI Apocalypse Could Look Like",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meet the innovators under 35 shaping climate tech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
     "flag": "wire"
   }
 ]
