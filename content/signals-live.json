@@ -1,62 +1,14 @@
 [
   {
-    "text": "The Download: AI’s extinction risk and bioweapons threat",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-    "flag": "wire"
-  },
-  {
-    "text": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
+    "text": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
     "source": "Wired",
-    "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
+    "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
     "flag": "wire"
   },
   {
-    "text": "What Hollywood thinks about existential AI warnings",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+    "text": "World model companies are keeping a lot of secrets",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-    "flag": "wire"
-  },
-  {
-    "text": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-    "flag": "wire"
-  },
-  {
-    "text": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-    "flag": "wire"
-  },
-  {
-    "text": "Could AI really kill us all? Your questions, answered.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-    "flag": "wire"
-  },
-  {
-    "text": "Virginia governor creates an AI task force and moves to restrain data centers",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-    "flag": "wire"
-  },
-  {
-    "text": "Gavin Newsom is pushing for an AI kill switch",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-    "flag": "wire"
-  },
-  {
-    "text": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
     "flag": "wire"
   },
   {
@@ -66,9 +18,57 @@
     "flag": "wire"
   },
   {
-    "text": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+    "text": "Virginia governor creates an AI task force and moves to restrain data centers",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+    "flag": "wire"
+  },
+  {
+    "text": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "flag": "wire"
+  },
+  {
+    "text": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "flag": "wire"
+  },
+  {
+    "text": "Could AI really kill us all? Your questions, answered.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "flag": "wire"
+  },
+  {
+    "text": "Gavin Newsom is pushing for an AI kill switch",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic’s first embedded evaluator is … Accenture?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here’s How an AI Slowdown Could Actually Be Enforced",
     "source": "Wired",
-    "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+    "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s extinction risk and bioweapons threat",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
     "flag": "wire"
   }
 ]
