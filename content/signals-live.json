@@ -1,62 +1,8 @@
 [
   {
-    "text": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-    "flag": "wire"
-  },
-  {
-    "text": "6 days left to get ahead at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "flag": "wire"
-  },
-  {
-    "text": "It’s Donald Trump Versus MAGA on Data Centers",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI’s extinction risk and bioweapons threat",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-    "flag": "wire"
-  },
-  {
     "text": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
     "source": "The Verge",
     "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "flag": "wire"
-  },
-  {
-    "text": "Gemini went rogue, hacked three companies, and Google hid it",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "flag": "wire"
-  },
-  {
-    "text": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta's Muse Is Better at Surveilling Than Helping Me",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
     "flag": "wire"
   },
   {
@@ -66,9 +12,63 @@
     "flag": "wire"
   },
   {
+    "text": "6 days left to get ahead at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+    "flag": "wire"
+  },
+  {
+    "text": "It’s Donald Trump Versus MAGA on Data Centers",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+    "flag": "wire"
+  },
+  {
+    "text": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "flag": "wire"
+  },
+  {
+    "text": "ScrollEd wants to turn textbooks into TikTok",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta's Muse Is Better at Surveilling Than Helping Me",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump now says he wants to form an ‘AI Force’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s extinction risk and bioweapons threat",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+    "flag": "wire"
+  },
+  {
     "text": "Could AI really kill us all? Your questions, answered.",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
     "flag": "wire"
   }
 ]
