@@ -1,38 +1,8 @@
 [
   {
-    "text": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-    "flag": "wire"
-  },
-  {
-    "text": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s Gemini is the latest AI model to hack other companies",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "flag": "wire"
-  },
-  {
-    "text": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-    "flag": "wire"
-  },
-  {
     "text": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
     "source": "Wired",
     "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
     "flag": "wire"
   },
   {
@@ -42,21 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "Could AI really kill us all? Your questions, answered.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "text": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
     "flag": "wire"
   },
   {
-    "text": "Gemini went rogue, hacked three companies, and Google hid it",
+    "text": "Meta’s Muse is creepy, but maybe not for the reasons you think",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
     "flag": "wire"
   },
   {
-    "text": "The Download: AI’s extinction risk and bioweapons threat",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+    "text": "Join the WIRED World Fair in Miami on November 4",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
     "flag": "wire"
   },
   {
@@ -66,9 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "Join the WIRED World Fair in Miami on November 4",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+    "text": "Could AI really kill us all? Your questions, answered.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s extinction risk and bioweapons threat",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+    "flag": "wire"
+  },
+  {
+    "text": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "flag": "wire"
+  },
+  {
+    "text": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s Gemini is the latest AI model to hack other companies",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "flag": "wire"
+  },
+  {
+    "text": "Gemini went rogue, hacked three companies, and Google hid it",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
     "flag": "wire"
   }
 ]
