@@ -6,9 +6,27 @@
     "flag": "wire"
   },
   {
+    "text": "Could AI really kill us all? Your questions, answered.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "flag": "wire"
+  },
+  {
     "text": "World model companies are keeping a lot of secrets",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "flag": "wire"
+  },
+  {
+    "text": "It’s Donald Trump Versus MAGA on Data Centers",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump now says he wants to form an ‘AI Force’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
     "flag": "wire"
   },
   {
@@ -18,15 +36,21 @@
     "flag": "wire"
   },
   {
+    "text": "Is the AI industry really ready to slow down?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "flag": "wire"
+  },
+  {
     "text": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
     "flag": "wire"
   },
   {
-    "text": "Could AI really kill us all? Your questions, answered.",
+    "text": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
     "flag": "wire"
   },
   {
@@ -39,30 +63,6 @@
     "text": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-    "flag": "wire"
-  },
-  {
-    "text": "Is the AI industry really ready to slow down?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "flag": "wire"
-  },
-  {
-    "text": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump now says he wants to form an ‘AI Force’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "flag": "wire"
-  },
-  {
-    "text": "It’s Donald Trump Versus MAGA on Data Centers",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
     "flag": "wire"
   },
   {
