@@ -1,44 +1,44 @@
 [
   {
-    "text": "It’s Donald Trump Versus MAGA on Data Centers",
+    "text": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+    "flag": "wire"
+  },
+  {
+    "text": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
     "source": "Wired",
-    "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+    "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
     "flag": "wire"
   },
   {
-    "text": "The Download: AI’s extinction risk and bioweapons threat",
+    "text": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
     "flag": "wire"
   },
   {
-    "text": "Amazon doesn’t trust Meta’s Muse AI agent",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump now says he wants to form an ‘AI Force’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "flag": "wire"
-  },
-  {
-    "text": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "text": "4 ways to address the failures we found along the US border’s “virtual wall”",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
     "flag": "wire"
   },
   {
-    "text": "Is the AI industry really ready to slow down?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "text": "Can John Ternus find Apple’s next big thing?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
     "flag": "wire"
   },
   {
-    "text": "World model companies are keeping a lot of secrets",
+    "text": "With Tabby, a former accountant is using AI to make accountants obsolete",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
     "flag": "wire"
   },
   {
@@ -48,27 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "Could AI really kill us all? Your questions, answered.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-    "flag": "wire"
-  },
-  {
-    "text": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+    "text": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
     "flag": "wire"
   },
   {
-    "text": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "text": "UN says AI safeguards can’t wait for certainty",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
     "flag": "wire"
   },
   {
-    "text": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+    "text": "US and China Discuss Alerting Each Other to AI National Security Threats",
     "source": "Wired",
-    "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+    "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: investigating deaths at the US border’s “virtual wall”",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
     "flag": "wire"
   }
 ]
