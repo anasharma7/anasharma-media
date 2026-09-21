@@ -1,32 +1,8 @@
 [
   {
-    "text": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-    "flag": "wire"
-  },
-  {
-    "text": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-    "flag": "wire"
-  },
-  {
     "text": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-    "flag": "wire"
-  },
-  {
-    "text": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
     "flag": "wire"
   },
   {
@@ -36,27 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "With Tabby, a former accountant is using AI to make accountants obsolete",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta's Muse Is Better at Surveilling Than Helping Me",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-    "flag": "wire"
-  },
-  {
     "text": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
     "flag": "wire"
   },
   {
-    "text": "UN says AI safeguards can’t wait for certainty",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+    "text": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
     "flag": "wire"
   },
   {
@@ -69,6 +33,42 @@
     "text": "The Download: investigating deaths at the US border’s “virtual wall”",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "flag": "wire"
+  },
+  {
+    "text": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "flag": "wire"
+  },
+  {
+    "text": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+    "flag": "wire"
+  },
+  {
+    "text": "California tightens rules on AI data center energy and water use",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "flag": "wire"
+  },
+  {
+    "text": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
     "flag": "wire"
   }
 ]
