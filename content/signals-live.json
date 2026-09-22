@@ -1,26 +1,44 @@
 [
   {
-    "text": "Trump says US is officially renaming AI ‘super intelligence’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-    "flag": "wire"
-  },
-  {
-    "text": "Don’t be fooled by this summer of AI hype",
+    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "flag": "wire"
   },
   {
-    "text": "AI Models Built From Rat Brains Just Got Closer to Reality",
+    "text": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+    "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
     "flag": "wire"
   },
   {
-    "text": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "text": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "flag": "wire"
+  },
+  {
+    "text": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "flag": "wire"
+  },
+  {
+    "text": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "flag": "wire"
+  },
+  {
+    "text": "Rabbit Is Back, This Time With an AI Agent App",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
     "flag": "wire"
   },
   {
@@ -30,45 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "text": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
     "flag": "wire"
   },
   {
-    "text": "Meta patches Muse exploit that let attackers control the AI agent",
+    "text": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "flag": "wire"
+  },
+  {
+    "text": "Don’t be fooled by this summer of AI hype",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-    "flag": "wire"
-  },
-  {
-    "text": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-    "flag": "wire"
-  },
-  {
-    "text": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "flag": "wire"
-  },
-  {
-    "text": "California tightens rules on AI data center energy and water use",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-    "flag": "wire"
-  },
-  {
-    "text": "AstroForge is putting AI in command of its next spacecraft",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-    "flag": "wire"
-  },
-  {
-    "text": "I Built AI Clones of My Coworkers. Things Got Weird",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
     "flag": "wire"
   }
 ]
