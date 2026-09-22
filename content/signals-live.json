@@ -1,26 +1,56 @@
 [
   {
-    "text": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+    "text": "Trump says US is officially renaming AI ‘super intelligence’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
     "flag": "wire"
   },
   {
-    "text": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "text": "Don’t be fooled by this summer of AI hype",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
     "flag": "wire"
   },
   {
-    "text": "Can John Ternus find Apple’s next big thing?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+    "text": "AI Models Built From Rat Brains Just Got Closer to Reality",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
     "flag": "wire"
   },
   {
-    "text": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+    "text": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "flag": "wire"
+  },
+  {
+    "text": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+    "flag": "wire"
+  },
+  {
+    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta patches Muse exploit that let attackers control the AI agent",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+    "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "flag": "wire"
+  },
+  {
+    "text": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+    "flag": "wire"
+  },
+  {
+    "text": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
     "flag": "wire"
   },
   {
@@ -30,45 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: investigating deaths at the US border’s “virtual wall”",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
-    "flag": "wire"
-  },
-  {
-    "text": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "text": "AstroForge is putting AI in command of its next spacecraft",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
     "flag": "wire"
   },
   {
-    "text": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "flag": "wire"
-  },
-  {
-    "text": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+    "text": "I Built AI Clones of My Coworkers. Things Got Weird",
     "source": "Wired",
-    "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-    "flag": "wire"
-  },
-  {
-    "text": "US and China Discuss Alerting Each Other to AI National Security Threats",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+    "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
     "flag": "wire"
   }
 ]
