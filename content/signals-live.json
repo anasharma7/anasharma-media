@@ -1,50 +1,8 @@
 [
   {
-    "text": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-    "flag": "wire"
-  },
-  {
-    "text": "Can John Ternus find Apple’s next big thing?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-    "flag": "wire"
-  },
-  {
-    "text": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "text": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "flag": "wire"
-  },
-  {
-    "text": "US and China Discuss Alerting Each Other to AI National Security Threats",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: investigating deaths at the US border’s “virtual wall”",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
-    "flag": "wire"
-  },
-  {
-    "text": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
     "flag": "wire"
   },
   {
@@ -54,21 +12,63 @@
     "flag": "wire"
   },
   {
+    "text": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "flag": "wire"
+  },
+  {
+    "text": "Can John Ternus find Apple’s next big thing?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+    "flag": "wire"
+  },
+  {
+    "text": "US and China Discuss Alerting Each Other to AI National Security Threats",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+    "flag": "wire"
+  },
+  {
     "text": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
     "source": "Wired",
     "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
     "flag": "wire"
   },
   {
-    "text": "California tightens rules on AI data center energy and water use",
+    "text": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+    "flag": "wire"
+  },
+  {
+    "text": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
     "flag": "wire"
   },
   {
     "text": "4 ways to address the failures we found along the US border’s “virtual wall”",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: investigating deaths at the US border’s “virtual wall”",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "flag": "wire"
+  },
+  {
+    "text": "California tightens rules on AI data center energy and water use",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
     "flag": "wire"
   }
 ]
