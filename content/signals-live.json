@@ -1,56 +1,8 @@
 [
   {
-    "text": "Data centers are black boxes, but California wants to change that",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-    "flag": "wire"
-  },
-  {
-    "text": "A congressional representative just proposed killing America’s border tower program",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT mobile app gets voice-based agentic features",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
-    "flag": "wire"
-  },
-  {
-    "text": "Smart glasses are already causing havoc in India",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-    "flag": "wire"
-  },
-  {
-    "text": "Even Americans who use AI every day are worried about it",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-    "flag": "wire"
-  },
-  {
-    "text": "YouTube Music gets more conversational with new AI features",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
     "flag": "wire"
   },
   {
@@ -60,15 +12,63 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+    "text": "Data centers are black boxes, but California wants to change that",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+    "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
     "flag": "wire"
   },
   {
-    "text": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+    "text": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
     "source": "Wired",
-    "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+    "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+    "flag": "wire"
+  },
+  {
+    "text": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
+    "flag": "wire"
+  },
+  {
+    "text": "A congressional representative just proposed killing America’s border tower program",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI Hype Index: AI loves cheating",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "flag": "wire"
+  },
+  {
+    "text": "A US-China AI Hotline Won't Be Ready For a While",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic says its biology lab has already found something big",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "flag": "wire"
+  },
+  {
+    "text": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT mobile app gets voice-based agentic features",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
     "flag": "wire"
   }
 ]
