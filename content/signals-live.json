@@ -1,14 +1,14 @@
 [
   {
-    "text": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "text": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
     "flag": "wire"
   },
   {
-    "text": "Don’t be fooled by this summer of AI hype",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "text": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
     "flag": "wire"
   },
   {
@@ -24,27 +24,15 @@
     "flag": "wire"
   },
   {
-    "text": "Rabbit’s new AI agent doesn’t need an R1 to run",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-    "flag": "wire"
-  },
-  {
-    "text": "Rabbit Is Back, This Time With an AI Agent App",
+    "text": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
     "source": "Wired",
-    "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+    "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
     "flag": "wire"
   },
   {
-    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "text": "Don’t be fooled by this summer of AI hype",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "flag": "wire"
-  },
-  {
-    "text": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
     "flag": "wire"
   },
   {
@@ -54,21 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "text": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
     "flag": "wire"
   },
   {
-    "text": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+    "text": "Rabbit Is Back, This Time With an AI Agent App",
     "source": "Wired",
-    "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+    "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+    "flag": "wire"
+  },
+  {
+    "text": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
     "flag": "wire"
   },
   {
     "text": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "flag": "wire"
+  },
+  {
+    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "flag": "wire"
   }
 ]
