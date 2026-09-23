@@ -1,14 +1,20 @@
 [
   {
-    "text": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "text": "YouTube Music gets more conversational with new AI features",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
     "flag": "wire"
   },
   {
-    "text": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+    "text": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+    "flag": "wire"
+  },
+  {
+    "text": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
     "flag": "wire"
   },
   {
@@ -18,9 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "flag": "wire"
   },
   {
@@ -30,45 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "Don’t be fooled by this summer of AI hype",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "flag": "wire"
-  },
-  {
-    "text": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-    "flag": "wire"
-  },
-  {
-    "text": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "flag": "wire"
-  },
-  {
-    "text": "Rabbit Is Back, This Time With an AI Agent App",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
-    "flag": "wire"
-  },
-  {
-    "text": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "text": "YouTube is building AI creator tools that do almost everything for them",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
     "flag": "wire"
   },
   {
-    "text": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "text": "Smart glasses are already causing havoc in India",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+    "flag": "wire"
+  },
+  {
+    "text": "YouTube releases new AI features for creators within its Studio app",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+    "flag": "wire"
+  },
+  {
+    "text": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
     "flag": "wire"
   }
 ]
