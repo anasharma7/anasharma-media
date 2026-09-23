@@ -1,32 +1,26 @@
 [
   {
-    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "text": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "flag": "wire"
+  },
+  {
+    "text": "Don’t be fooled by this summer of AI hype",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
     "flag": "wire"
   },
   {
-    "text": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
-    "flag": "wire"
-  },
-  {
-    "text": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "text": "OpenAI wants to consult elite mathematicians about how to not fumble again",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
     "flag": "wire"
   },
   {
-    "text": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "text": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
     "flag": "wire"
   },
   {
@@ -42,33 +36,39 @@
     "flag": "wire"
   },
   {
+    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "flag": "wire"
+  },
+  {
+    "text": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "flag": "wire"
+  },
+  {
     "text": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
     "source": "Wired",
     "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
     "flag": "wire"
   },
   {
-    "text": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-    "flag": "wire"
-  },
-  {
-    "text": "Don’t be fooled by this summer of AI hype",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "text": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "flag": "wire"
+  },
+  {
+    "text": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+    "flag": "wire"
+  },
+  {
+    "text": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
     "flag": "wire"
   }
 ]
