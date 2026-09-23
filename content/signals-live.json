@@ -1,44 +1,26 @@
 [
   {
-    "text": "YouTube Music gets more conversational with new AI features",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+    "text": "Data centers are black boxes, but California wants to change that",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+    "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
     "flag": "wire"
   },
   {
-    "text": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "text": "A congressional representative just proposed killing America’s border tower program",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
     "flag": "wire"
   },
   {
-    "text": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+    "text": "ChatGPT mobile app gets voice-based agentic features",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
     "source": "Wired",
-    "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
-    "flag": "wire"
-  },
-  {
-    "text": "YouTube is building AI creator tools that do almost everything for them",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+    "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
     "flag": "wire"
   },
   {
@@ -48,9 +30,15 @@
     "flag": "wire"
   },
   {
-    "text": "YouTube releases new AI features for creators within its Studio app",
+    "text": "Even Americans who use AI every day are worried about it",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
     "flag": "wire"
   },
   {
@@ -60,9 +48,21 @@
     "flag": "wire"
   },
   {
-    "text": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
+    "text": "YouTube Music gets more conversational with new AI features",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
     "flag": "wire"
   },
   {
