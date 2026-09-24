@@ -1,8 +1,8 @@
 [
   {
-    "text": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
+    "text": "AI is dominating the conversation at Climate Week",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
     "flag": "wire"
   },
   {
@@ -12,27 +12,45 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-    "flag": "wire"
-  },
-  {
-    "text": "Everything new coming to Meta’s AI agent Muse",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta ditches the camera on its newest smart glasses",
+    "text": "Google is sending an AI satellite into space next week",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+    "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+    "flag": "wire"
+  },
+  {
+    "text": "Why can’t we just keep rogue AIs off the internet?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+    "flag": "wire"
+  },
+  {
+    "text": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+    "flag": "wire"
+  },
+  {
+    "text": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+    "flag": "wire"
+  },
+  {
+    "text": "Gemini can now call businesses for you so you don’t have to wait on hold",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+    "flag": "wire"
+  },
+  {
+    "text": "Google tests letting Gemini call businesses for you",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
     "flag": "wire"
   },
   {
@@ -42,33 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "A US-China AI Hotline Won't Be Ready For a While",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-    "flag": "wire"
-  },
-  {
-    "text": "Muse is coming to Meta smart glasses",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta is making a standalone Muse AI gadget",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta introduces camera-free AI glasses",
+    "text": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
     "flag": "wire"
   },
   {
-    "text": "The AI Hype Index: AI loves cheating",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "text": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
     "flag": "wire"
   }
 ]
