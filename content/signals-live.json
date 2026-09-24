@@ -1,20 +1,8 @@
 [
   {
-    "text": "A US-China AI Hotline Won't Be Ready For a While",
+    "text": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
     "source": "Wired",
-    "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
-    "flag": "wire"
-  },
-  {
-    "text": "Everything new coming to Meta’s AI agent Muse",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
     "flag": "wire"
   },
   {
@@ -30,21 +18,45 @@
     "flag": "wire"
   },
   {
+    "text": "Everything new coming to Meta’s AI agent Muse",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "flag": "wire"
+  },
+  {
     "text": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
     "flag": "wire"
   },
   {
-    "text": "The AI Hype Index: AI loves cheating",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "text": "Meta ditches the camera on its newest smart glasses",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
     "flag": "wire"
   },
   {
-    "text": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+    "text": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+    "flag": "wire"
+  },
+  {
+    "text": "A US-China AI Hotline Won't Be Ready For a While",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+    "flag": "wire"
+  },
+  {
+    "text": "Muse is coming to Meta smart glasses",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+    "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta is making a standalone Muse AI gadget",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
     "flag": "wire"
   },
   {
@@ -54,21 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-    "flag": "wire"
-  },
-  {
-    "text": "Data centers are black boxes, but California wants to change that",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+    "text": "The AI Hype Index: AI loves cheating",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
     "flag": "wire"
   }
 ]
