@@ -1,26 +1,26 @@
 [
   {
-    "text": "Jensen Huang talks about AI and climate change like a supervillain",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-    "flag": "wire"
-  },
-  {
-    "text": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-    "flag": "wire"
-  },
-  {
-    "text": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "text": "Oracle sends force majeure notice on its New Mexico Stargate data center",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI is dominating the conversation at Climate Week",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
     "flag": "wire"
   },
   {
     "text": "I Think I Found an AI Agent Worth the Risk",
     "source": "Wired",
     "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta is going to let you build games with AI right on your phone",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
     "flag": "wire"
   },
   {
@@ -36,27 +36,9 @@
     "flag": "wire"
   },
   {
-    "text": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI is dominating the conversation at Climate Week",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
     "flag": "wire"
   },
   {
@@ -66,9 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "Meta is going to let you build games with AI right on your phone",
+    "text": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
     "source": "The Verge",
-    "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+    "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+    "flag": "wire"
+  },
+  {
+    "text": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang talks about AI and climate change like a supervillain",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
     "flag": "wire"
   }
 ]
