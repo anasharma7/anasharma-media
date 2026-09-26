@@ -1,50 +1,8 @@
 [
   {
-    "text": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "text": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "flag": "wire"
-  },
-  {
-    "text": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
-    "flag": "wire"
-  },
-  {
-    "text": "Young organs may not be a fountain of youth for recipients",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-    "flag": "wire"
-  },
-  {
-    "text": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "flag": "wire"
-  },
-  {
-    "text": "One company is at the center of a wave of rogue AI attacks",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta makes the Muse filesystem even more accessible",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-    "flag": "wire"
-  },
-  {
-    "text": "I created an interactive digital avatar of myself — and you can talk to it",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
     "flag": "wire"
   },
   {
@@ -54,9 +12,45 @@
     "flag": "wire"
   },
   {
-    "text": "At Meta Connect, the company’s smart glasses were everywhere",
+    "text": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+    "flag": "wire"
+  },
+  {
+    "text": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "flag": "wire"
+  },
+  {
+    "text": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "flag": "wire"
+  },
+  {
+    "text": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta makes the Muse filesystem even more accessible",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+    "flag": "wire"
+  },
+  {
+    "text": "I created an interactive digital avatar of myself — and you can talk to it",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "Young organs may not be a fountain of youth for recipients",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
     "flag": "wire"
   },
   {
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+    "text": "At Meta Connect, the company’s smart glasses were everywhere",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Pentagon wants $30 million to build an AI-powered lie detector",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
     "flag": "wire"
   }
 ]
