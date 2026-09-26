@@ -6,45 +6,9 @@
     "flag": "wire"
   },
   {
-    "text": "Young organs may not be a fountain of youth for recipients",
+    "text": "The Pentagon wants $30 million to build an AI-powered lie detector",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta opens early access program for new Muse features",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "flag": "wire"
-  },
-  {
-    "text": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta makes the Muse filesystem even more accessible",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-    "flag": "wire"
-  },
-  {
-    "text": "Sony and UMG are suing Suno again",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-    "flag": "wire"
-  },
-  {
-    "text": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
     "flag": "wire"
   },
   {
@@ -54,21 +18,57 @@
     "flag": "wire"
   },
   {
+    "text": "Meta makes the Muse filesystem even more accessible",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+    "flag": "wire"
+  },
+  {
+    "text": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "flag": "wire"
+  },
+  {
+    "text": "Young organs may not be a fountain of youth for recipients",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+    "flag": "wire"
+  },
+  {
     "text": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
     "flag": "wire"
   },
   {
-    "text": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "text": "At Meta Connect, the company’s smart glasses were everywhere",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sony and UMG are suing Suno again",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
     "flag": "wire"
   },
   {
     "text": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "flag": "wire"
+  },
+  {
+    "text": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
     "flag": "wire"
   }
 ]
