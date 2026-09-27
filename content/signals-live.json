@@ -1,20 +1,8 @@
 [
   {
-    "text": "Young organs may not be a fountain of youth for recipients",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-    "flag": "wire"
-  },
-  {
-    "text": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-    "flag": "wire"
-  },
-  {
-    "text": "Insurers claim AI is already increasing healthcare costs",
+    "text": "I created an interactive digital avatar of myself — and you can talk to it",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
     "flag": "wire"
   },
   {
@@ -24,9 +12,27 @@
     "flag": "wire"
   },
   {
-    "text": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "text": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+    "flag": "wire"
+  },
+  {
+    "text": "Insurers claim AI is already increasing healthcare costs",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "flag": "wire"
+  },
+  {
+    "text": "Young organs may not be a fountain of youth for recipients",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
     "flag": "wire"
   },
   {
@@ -36,15 +42,9 @@
     "flag": "wire"
   },
   {
-    "text": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-    "flag": "wire"
-  },
-  {
-    "text": "I created an interactive digital avatar of myself — and you can talk to it",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "text": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
     "flag": "wire"
   },
   {
@@ -54,21 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-    "flag": "wire"
-  },
-  {
-    "text": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+    "text": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
     "source": "Wired",
-    "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+    "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
     "flag": "wire"
   },
   {
-    "text": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "text": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "flag": "wire"
+  },
+  {
+    "text": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
     "flag": "wire"
   }
 ]
