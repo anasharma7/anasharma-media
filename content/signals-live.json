@@ -1,50 +1,8 @@
 [
   {
-    "text": "OpenAI agents tried to ‘bruteforce’ a UN website",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-    "flag": "wire"
-  },
-  {
     "text": "Engram is a sampler that turns broken AI hallucinations into music",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-    "flag": "wire"
-  },
-  {
-    "text": "Young organs may not be a fountain of youth for recipients",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-    "flag": "wire"
-  },
-  {
-    "text": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "flag": "wire"
-  },
-  {
-    "text": "Can Muse overcome Meta’s trust issues?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "flag": "wire"
-  },
-  {
-    "text": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
     "flag": "wire"
   },
   {
@@ -60,15 +18,57 @@
     "flag": "wire"
   },
   {
+    "text": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "flag": "wire"
+  },
+  {
+    "text": "Young organs may not be a fountain of youth for recipients",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+    "flag": "wire"
+  },
+  {
+    "text": "Can Muse overcome Meta’s trust issues?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
     "flag": "wire"
   },
   {
+    "text": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI pauses training of its ‘most capable models’",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
     "flag": "wire"
   }
 ]
