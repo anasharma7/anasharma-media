@@ -1,20 +1,14 @@
 [
   {
-    "text": "Anthropic’s CEO is about to have dinner with President Trump",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "flag": "wire"
-  },
-  {
-    "text": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+    "text": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
     "source": "Wired",
-    "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
     "flag": "wire"
   },
   {
-    "text": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "text": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
     "flag": "wire"
   },
   {
@@ -24,51 +18,57 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "text": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
     "flag": "wire"
   },
   {
-    "text": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+    "text": "Walmart won’t hike prices based on your shopping history, CEO says",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+    "flag": "wire"
+  },
+  {
+    "text": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
     "flag": "wire"
   },
   {
-    "text": "Can Muse overcome Meta’s trust issues?",
+    "text": "Google is killing off Gemini’s Gems in favor of ‘skills’",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
     "flag": "wire"
   },
   {
-    "text": "Engram is a sampler that turns broken AI hallucinations into music",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+    "text": "Nvidia launches new platform for reining in rogue AI agents",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI pauses training of its ‘most capable models’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "text": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
     "flag": "wire"
   },
   {
-    "text": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "text": "When can we say AI made a scientific discovery?",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
     "flag": "wire"
   },
   {
-    "text": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "text": "The Download: rogue agent liability and the AI Hype Index",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
     "flag": "wire"
   }
 ]
