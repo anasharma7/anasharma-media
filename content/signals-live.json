@@ -1,50 +1,14 @@
 [
   {
-    "text": "Engram is a sampler that turns broken AI hallucinations into music",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-    "flag": "wire"
-  },
-  {
     "text": "Anthropic’s CEO is about to have dinner with President Trump",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
     "flag": "wire"
   },
   {
-    "text": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+    "text": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
     "source": "Wired",
-    "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "flag": "wire"
-  },
-  {
-    "text": "Young organs may not be a fountain of youth for recipients",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-    "flag": "wire"
-  },
-  {
-    "text": "Can Muse overcome Meta’s trust issues?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
     "flag": "wire"
   },
   {
@@ -54,9 +18,33 @@
     "flag": "wire"
   },
   {
-    "text": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+    "text": "Who’s liable when AI agents go rogue?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
     "source": "Wired",
-    "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "Can Muse overcome Meta’s trust issues?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "flag": "wire"
+  },
+  {
+    "text": "Engram is a sampler that turns broken AI hallucinations into music",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
     "flag": "wire"
   },
   {
@@ -66,9 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI agents tried to ‘bruteforce’ a UN website",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "text": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
     "flag": "wire"
   }
 ]
