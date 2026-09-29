@@ -1,20 +1,38 @@
 [
   {
-    "text": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "flag": "wire"
-  },
-  {
-    "text": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+    "text": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
     "source": "Wired",
-    "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+    "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI reportedly ditches model over safety concerns",
+    "text": "The Download: climate tech companies to watch and AI’s discovery problem",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI-powered app maker Wabi pivots to a messaging experience",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "flag": "wire"
+  },
+  {
+    "text": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+    "flag": "wire"
+  },
+  {
+    "text": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
     "flag": "wire"
   },
   {
@@ -24,51 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "When can we say AI made a scientific discovery?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s AI agents need to catch up",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: rogue agent liability and the AI Hype Index",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-    "flag": "wire"
-  },
-  {
-    "text": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "text": "OpenAI gives Codex reusable cloud environments that work across devices",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "text": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
     "flag": "wire"
   },
   {
-    "text": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "text": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI launches Dots, its bubbly agentic avatar",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "flag": "wire"
+  },
+  {
+    "text": "Making AI an asset, not an expense",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
     "flag": "wire"
   }
 ]
