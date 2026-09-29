@@ -1,62 +1,26 @@
 [
   {
-    "text": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "text": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "text": "OpenAI reportedly ditches model over safety concerns",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
     "flag": "wire"
   },
   {
-    "text": "Who’s liable when AI agents go rogue?",
+    "text": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "flag": "wire"
+  },
+  {
+    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "flag": "wire"
-  },
-  {
-    "text": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-    "flag": "wire"
-  },
-  {
-    "text": "Walmart won’t hike prices based on your shopping history, CEO says",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-    "flag": "wire"
-  },
-  {
-    "text": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia launches new platform for reining in rogue AI agents",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "flag": "wire"
   },
   {
@@ -69,6 +33,42 @@
     "text": "The Download: rogue agent liability and the AI Hype Index",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s AI agents need to catch up",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "flag": "wire"
+  },
+  {
+    "text": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
     "flag": "wire"
   }
 ]
