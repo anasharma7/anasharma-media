@@ -1,56 +1,38 @@
 [
   {
+    "text": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "flag": "wire"
+  },
+  {
+    "text": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump orders US government to call AI ‘Super Intelligence’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s latest features take direct aim at the app store model",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
     "source": "Wired",
     "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: climate tech companies to watch and AI’s discovery problem",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI-powered app maker Wabi pivots to a messaging experience",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-    "flag": "wire"
-  },
-  {
-    "text": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-    "flag": "wire"
-  },
-  {
-    "text": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-    "flag": "wire"
-  },
-  {
-    "text": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
     "flag": "wire"
   },
   {
@@ -60,15 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI launches Dots, its bubbly agentic avatar",
+    "text": "OpenAI Gets Sued Over the Hugging Face Hack",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+    "flag": "wire"
+  },
+  {
+    "text": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
     "flag": "wire"
   },
   {
     "text": "Making AI an asset, not an expense",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: climate tech companies to watch and AI’s discovery problem",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
     "flag": "wire"
   }
 ]
