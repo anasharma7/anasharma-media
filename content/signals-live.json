@@ -1,62 +1,8 @@
 [
   {
-    "text": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+    "text": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI reportedly ditches model over safety concerns",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "flag": "wire"
-  },
-  {
-    "text": "When can we say AI made a scientific discovery?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: rogue agent liability and the AI Hype Index",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s AI agents need to catch up",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-    "flag": "wire"
-  },
-  {
-    "text": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
     "flag": "wire"
   },
   {
@@ -66,9 +12,63 @@
     "flag": "wire"
   },
   {
-    "text": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "text": "OpenAI reportedly ditches model over safety concerns",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "flag": "wire"
+  },
+  {
+    "text": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "flag": "wire"
+  },
+  {
+    "text": "When can we say AI made a scientific discovery?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s AI agents need to catch up",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "flag": "wire"
+  },
+  {
+    "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: rogue agent liability and the AI Hype Index",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "flag": "wire"
+  },
+  {
+    "text": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
     "flag": "wire"
   }
 ]
