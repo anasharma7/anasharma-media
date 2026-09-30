@@ -1,20 +1,14 @@
 [
   {
-    "text": "OpenAI Gets Sued Over the Hugging Face Hack",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-    "flag": "wire"
-  },
-  {
-    "text": "Making AI an asset, not an expense",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "flag": "wire"
-  },
-  {
-    "text": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "text": "All the latest news on Meta’s cute, creepy Muse AI agent",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
     "flag": "wire"
   },
   {
@@ -24,15 +18,9 @@
     "flag": "wire"
   },
   {
-    "text": "Trump orders US government to call AI ‘Super Intelligence’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "text": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
     "flag": "wire"
   },
   {
@@ -42,33 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s latest features take direct aim at the app store model",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sam Altman says OpenAI won’t go public until its models are safe",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-    "flag": "wire"
-  },
-  {
-    "text": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+    "text": "OpenAI Gets Sued Over the Hugging Face Hack",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
     "flag": "wire"
   },
   {
     "text": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
     "source": "Wired",
     "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google reportedly tests paying publishers for AI search results",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+    "flag": "wire"
+  },
+  {
+    "text": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "flag": "wire"
+  },
+  {
+    "text": "DoorDash launches an AI agent you can text to order food",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+    "flag": "wire"
+  },
+  {
+    "text": "Destro AI’s secret sauce is getting robots and humans on the same page",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
     "flag": "wire"
   }
 ]
