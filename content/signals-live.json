@@ -1,44 +1,8 @@
 [
   {
-    "text": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-    "flag": "wire"
-  },
-  {
-    "text": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump orders US government to call AI ‘Super Intelligence’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s latest features take direct aim at the app store model",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "flag": "wire"
-  },
-  {
     "text": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
     "source": "Wired",
     "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-    "flag": "wire"
-  },
-  {
-    "text": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
     "flag": "wire"
   },
   {
@@ -48,15 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "flag": "wire"
-  },
-  {
     "text": "Making AI an asset, not an expense",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "flag": "wire"
+  },
+  {
+    "text": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
     "flag": "wire"
   },
   {
@@ -66,9 +30,45 @@
     "flag": "wire"
   },
   {
+    "text": "Sam Altman says OpenAI won’t go public until its models are safe",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+    "flag": "wire"
+  },
+  {
+    "text": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "flag": "wire"
+  },
+  {
     "text": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
     "source": "Wired",
     "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+    "flag": "wire"
+  },
+  {
+    "text": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "flag": "wire"
+  },
+  {
+    "text": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s latest features take direct aim at the app store model",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump orders US government to call AI ‘Super Intelligence’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
     "flag": "wire"
   }
 ]
