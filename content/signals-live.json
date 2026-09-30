@@ -1,26 +1,20 @@
 [
   {
-    "text": "All the latest news on Meta’s cute, creepy Muse AI agent",
+    "text": "The AI Tamagotchis are coming",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
     "flag": "wire"
   },
   {
-    "text": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "text": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
     "flag": "wire"
   },
   {
-    "text": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: OpenAI’s chief research officer explains its hacking response",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "text": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
     "flag": "wire"
   },
   {
@@ -30,45 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI Gets Sued Over the Hugging Face Hack",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google reportedly tests paying publishers for AI search results",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-    "flag": "wire"
-  },
-  {
     "text": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
     "flag": "wire"
   },
   {
-    "text": "DoorDash launches an AI agent you can text to order food",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "text": "The Battle to Be Your Personal AI Agent Is Here",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
     "flag": "wire"
   },
   {
-    "text": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+    "text": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
     "flag": "wire"
   },
   {
-    "text": "Destro AI’s secret sauce is getting robots and humans on the same page",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+    "text": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
     "flag": "wire"
   }
 ]
