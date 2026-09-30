@@ -1,11 +1,5 @@
 [
   {
-    "text": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-    "flag": "wire"
-  },
-  {
     "text": "OpenAI Gets Sued Over the Hugging Face Hack",
     "source": "Wired",
     "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
@@ -18,27 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: climate tech companies to watch and AI’s discovery problem",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sam Altman says OpenAI won’t go public until its models are safe",
+    "text": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-    "flag": "wire"
-  },
-  {
-    "text": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
     "flag": "wire"
   },
   {
@@ -48,9 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "text": "Trump orders US government to call AI ‘Super Intelligence’",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
     "flag": "wire"
   },
   {
@@ -60,15 +36,39 @@
     "flag": "wire"
   },
   {
+    "text": "The Download: climate tech companies to watch and AI’s discovery problem",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+    "flag": "wire"
+  },
+  {
+    "text": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI’s latest features take direct aim at the app store model",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
     "flag": "wire"
   },
   {
-    "text": "Trump orders US government to call AI ‘Super Intelligence’",
+    "text": "Sam Altman says OpenAI won’t go public until its models are safe",
     "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+    "flag": "wire"
+  },
+  {
+    "text": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
     "flag": "wire"
   }
 ]
