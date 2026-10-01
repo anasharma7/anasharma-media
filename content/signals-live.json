@@ -1,26 +1,20 @@
 [
   {
+    "text": "The Download: climate tech companies to watch and AI’s discovery problem",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+    "flag": "wire"
+  },
+  {
     "text": "The AI Tamagotchis are coming",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
     "flag": "wire"
   },
   {
-    "text": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: climate tech companies to watch and AI’s discovery problem",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+    "text": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
     "flag": "wire"
   },
   {
@@ -30,27 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Battle to Be Your Personal AI Agent Is Here",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "text": "Google releases Gemini 4 Argon, called its most powerful model yet",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
     "flag": "wire"
   },
   {
@@ -60,15 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+    "text": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+    "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
     "flag": "wire"
   },
   {
-    "text": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+    "text": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+    "flag": "wire"
+  },
+  {
+    "text": "The Battle to Be Your Personal AI Agent Is Here",
     "source": "Wired",
-    "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+    "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
     "flag": "wire"
   }
 ]
