@@ -1,20 +1,8 @@
 [
   {
-    "text": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-    "flag": "wire"
-  },
-  {
-    "text": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT can now virtually try on clothes for you",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "text": "Redefining enterprise intelligence with autonomous AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
     "flag": "wire"
   },
   {
@@ -24,51 +12,63 @@
     "flag": "wire"
   },
   {
+    "text": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a biological de-aging contest and why LLMs don’t reason",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon writes scary blog warning communities not to block data centers",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+    "flag": "wire"
+  },
+  {
+    "text": "If a data center is camouflaged in the woods, will anyone hate it?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+    "flag": "wire"
+  },
+  {
+    "text": "Pope Leo XIV is not a fan of AI-generated art",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI hallucinations are making entitled customers even worse",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+    "flag": "wire"
+  },
+  {
+    "text": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "flag": "wire"
+  },
+  {
+    "text": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "flag": "wire"
+  },
+  {
     "text": "A new contest pits competitors against each other in a race to biological youth",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-    "flag": "wire"
-  },
-  {
-    "text": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI “mind-reading” and creative uses for small batteries",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI music maker Suno now generates spoken words",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-    "flag": "wire"
-  },
-  {
-    "text": "Whatever AI Safety Is, It’s Not This",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s new Guided Vision feature can help you read the fine print",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-    "flag": "wire"
-  },
-  {
-    "text": "Don’t be fooled—LLMs don’t reason",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-    "flag": "wire"
-  },
-  {
-    "text": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
     "flag": "wire"
   }
 ]
