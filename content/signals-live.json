@@ -1,38 +1,8 @@
 [
   {
-    "text": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-    "flag": "wire"
-  },
-  {
-    "text": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI “mind-reading” and creative uses for small batteries",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s new Guided Vision feature can help you read the fine print",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT can now virtually try on clothes for you",
+    "text": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
     "flag": "wire"
   },
   {
@@ -42,15 +12,27 @@
     "flag": "wire"
   },
   {
-    "text": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "text": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
     "flag": "wire"
   },
   {
-    "text": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+    "text": "ChatGPT can now virtually try on clothes for you",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s new Guided Vision feature can help you read the fine print",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
     "flag": "wire"
   },
   {
@@ -60,15 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Whatever AI Safety Is, It’s Not This",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+    "text": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
     "flag": "wire"
   },
   {
     "text": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "flag": "wire"
+  },
+  {
+    "text": "Whatever AI Safety Is, It’s Not This",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI “mind-reading” and creative uses for small batteries",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
     "flag": "wire"
   }
 ]
