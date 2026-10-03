@@ -1,50 +1,8 @@
 [
   {
-    "text": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "text": "These AI Experts Want to Do High-Stakes Research Out in the Open",
     "source": "Wired",
-    "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sean Parker is rebuilding Stability AI around music",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "flag": "wire"
-  },
-  {
-    "text": "Redefining enterprise intelligence with autonomous AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: a biological de-aging contest and why LLMs don’t reason",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta open sources code to let you make Muse AI gadgets",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
     "flag": "wire"
   },
   {
@@ -54,21 +12,63 @@
     "flag": "wire"
   },
   {
+    "text": "Sean Parker is rebuilding Stability AI around music",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "flag": "wire"
+  },
+  {
+    "text": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta open sources code to let you make Muse AI gadgets",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta wants your next gadget to be Muse-infused",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
     "flag": "wire"
   },
   {
-    "text": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "text": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
     "flag": "wire"
   },
   {
-    "text": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+    "text": "Redefining enterprise intelligence with autonomous AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
     "source": "Wired",
-    "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+    "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a biological de-aging contest and why LLMs don’t reason",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+    "flag": "wire"
+  },
+  {
+    "text": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
     "flag": "wire"
   }
 ]
