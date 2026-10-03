@@ -1,8 +1,8 @@
 [
   {
-    "text": "Redefining enterprise intelligence with autonomous AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "text": "Muse Creates Detailed Profiles of All Your Friends and Family",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
     "flag": "wire"
   },
   {
@@ -12,51 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Meta open sources code to let you make Muse AI gadgets",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta wants your next gadget to be Muse-infused",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "flag": "wire"
-  },
-  {
-    "text": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "flag": "wire"
-  },
-  {
-    "text": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "text": "These AI Experts Want to Do High-Stakes Research Out in the Open",
     "source": "Wired",
-    "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sean Parker is rebuilding Stability AI around music",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
     "flag": "wire"
   },
   {
@@ -66,9 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+    "text": "Redefining enterprise intelligence with autonomous AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "All the AI agents that can live in your text messages",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
     "source": "Wired",
-    "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+    "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sean Parker is rebuilding Stability AI around music",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta open sources code to let you make Muse AI gadgets",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "flag": "wire"
+  },
+  {
+    "text": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta wants your next gadget to be Muse-infused",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "flag": "wire"
+  },
+  {
+    "text": "An OpenAI safety employee has quit and is sounding the alarm",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
     "flag": "wire"
   }
 ]
