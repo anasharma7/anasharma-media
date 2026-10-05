@@ -1,20 +1,20 @@
 [
   {
-    "text": "Trump unveils his new Super Intelligence Force",
+    "text": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
     "flag": "wire"
   },
   {
-    "text": "The Download: a biological de-aging contest and why LLMs don’t reason",
+    "text": "People really hate AI, so why can’t they get enough?",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
     "flag": "wire"
   },
   {
-    "text": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "text": "Our minds aren’t equipped to handle AI",
     "source": "The Verge",
-    "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
     "flag": "wire"
   },
   {
@@ -24,27 +24,15 @@
     "flag": "wire"
   },
   {
-    "text": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+    "text": "EmTech Future 2026: When AI Meets Everything",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
     "flag": "wire"
   },
   {
-    "text": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-    "flag": "wire"
-  },
-  {
-    "text": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "text": "Trump unveils his new Super Intelligence Force",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "flag": "wire"
-  },
-  {
-    "text": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
     "flag": "wire"
   },
   {
@@ -54,9 +42,21 @@
     "flag": "wire"
   },
   {
-    "text": "A new contest pits competitors against each other in a race to biological youth",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+    "text": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+    "flag": "wire"
+  },
+  {
+    "text": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+    "text": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
     "flag": "wire"
   }
 ]
