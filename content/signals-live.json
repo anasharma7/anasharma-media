@@ -1,50 +1,14 @@
 [
   {
-    "text": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "flag": "wire"
-  },
-  {
-    "text": "People really hate AI, so why can’t they get enough?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-    "flag": "wire"
-  },
-  {
-    "text": "Our minds aren’t equipped to handle AI",
+    "text": "OpenAI is adding text watermarking in ChatGPT and Codex",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
     "flag": "wire"
   },
   {
-    "text": "Redefining enterprise intelligence with autonomous AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "EmTech Future 2026: When AI Meets Everything",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump unveils his new Super Intelligence Force",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "flag": "wire"
-  },
-  {
-    "text": "Muse Creates Detailed Profiles of All Your Friends and Family",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-    "flag": "wire"
-  },
-  {
-    "text": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+    "text": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+    "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
     "flag": "wire"
   },
   {
@@ -54,9 +18,45 @@
     "flag": "wire"
   },
   {
-    "text": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+    "text": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "flag": "wire"
+  },
+  {
+    "text": "Bringing predictive analytics to the agentic AI era",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "flag": "wire"
+  },
+  {
+    "text": "All the drama around AI&#8217;s takeover of mathematics",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "flag": "wire"
+  },
+  {
+    "text": "Connecting AI agents to enterprise knowledge",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s popularity paradox and EmTech Future 2026",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "flag": "wire"
+  },
+  {
+    "text": "Muse Creates Detailed Profiles of All Your Friends and Family",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "text": "TikTok rolls out an AI shopping assistant and one-click checkout",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
     "flag": "wire"
   }
 ]
