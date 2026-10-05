@@ -1,8 +1,20 @@
 [
   {
-    "text": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "text": "Trump unveils his new Super Intelligence Force",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a biological de-aging contest and why LLMs don’t reason",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+    "flag": "wire"
+  },
+  {
+    "text": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
     "flag": "wire"
   },
   {
@@ -18,39 +30,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Rural Data Centers Are in for a Big Federal Tax Break",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump unveils his new Super Intelligence Force",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "flag": "wire"
-  },
-  {
-    "text": "Muse Creates Detailed Profiles of All Your Friends and Family",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-    "flag": "wire"
-  },
-  {
-    "text": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "text": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
     "source": "The Verge",
-    "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-    "flag": "wire"
-  },
-  {
-    "text": "A new contest pits competitors against each other in a race to biological youth",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
     "flag": "wire"
   },
   {
@@ -60,15 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+    "text": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
     "flag": "wire"
   },
   {
-    "text": "The Download: a biological de-aging contest and why LLMs don’t reason",
+    "text": "Muse Creates Detailed Profiles of All Your Friends and Family",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+    "flag": "wire"
+  },
+  {
+    "text": "A new contest pits competitors against each other in a race to biological youth",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+    "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+    "flag": "wire"
+  },
+  {
+    "text": "Rural Data Centers Are in for a Big Federal Tax Break",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
     "flag": "wire"
   }
 ]
