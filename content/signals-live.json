@@ -1,8 +1,20 @@
 [
   {
-    "text": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+    "text": "The next hurdle for AI agents: getting websites to let them in",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: 10 climate tech companies to watch",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "flag": "wire"
+  },
+  {
+    "text": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
     "flag": "wire"
   },
   {
@@ -12,45 +24,27 @@
     "flag": "wire"
   },
   {
-    "text": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-    "flag": "wire"
-  },
-  {
-    "text": "Gemini Call for Me might tell your mom you&#8217;re running late",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-    "flag": "wire"
-  },
-  {
-    "text": "Pinterest’s AI now turns beauty Pins into action plans",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-    "flag": "wire"
-  },
-  {
-    "text": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-    "flag": "wire"
-  },
-  {
-    "text": "Rural Data Centers Are in for a Big Federal Tax Break",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-    "flag": "wire"
-  },
-  {
     "text": "2026 Climate Tech Companies to Watch",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
     "flag": "wire"
   },
   {
-    "text": "Google is about to remove free access to Gemini Flash and Pro",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+    "text": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "flag": "wire"
+  },
+  {
+    "text": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+    "flag": "wire"
+  },
+  {
+    "text": "How AI decision models could change content moderation",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
     "flag": "wire"
   },
   {
@@ -60,15 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "Here’s how our climate team picked 10 promising companies to watch",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+    "text": "Google is about to remove free access to Gemini Flash and Pro",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
     "flag": "wire"
   },
   {
-    "text": "The Download: 10 climate tech companies to watch",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "text": "We can’t just change the definition of ‘recording’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
     "flag": "wire"
   }
 ]
