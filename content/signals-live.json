@@ -1,32 +1,8 @@
 [
   {
-    "text": "OpenAI is adding text watermarking in ChatGPT and Codex",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-    "flag": "wire"
-  },
-  {
-    "text": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-    "flag": "wire"
-  },
-  {
-    "text": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "text": "OpenAI will start watermarking ChatGPT’s text in the EU",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "flag": "wire"
-  },
-  {
-    "text": "Bringing predictive analytics to the agentic AI era",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
     "flag": "wire"
   },
   {
@@ -36,21 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Connecting AI agents to enterprise knowledge",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI’s popularity paradox and EmTech Future 2026",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-    "flag": "wire"
-  },
-  {
-    "text": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "text": "Instinct brings its AI agent to group chats, even for friends without an account",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
     "flag": "wire"
   },
   {
@@ -60,15 +24,51 @@
     "flag": "wire"
   },
   {
+    "text": "Connecting AI agents to enterprise knowledge",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "flag": "wire"
+  },
+  {
+    "text": "This startup is issuing AI-generated acne prescriptions",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s popularity paradox and EmTech Future 2026",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "flag": "wire"
+  },
+  {
     "text": "Rural Data Centers Are in for a Big Federal Tax Break",
     "source": "Wired",
     "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
     "flag": "wire"
   },
   {
-    "text": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "text": "Bringing predictive analytics to the agentic AI era",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
     "flag": "wire"
   }
 ]
