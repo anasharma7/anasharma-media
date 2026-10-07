@@ -1,62 +1,56 @@
 [
   {
-    "text": "OpenAI drops another batch of mathematical breakthroughs",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-    "flag": "wire"
-  },
-  {
-    "text": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-    "flag": "wire"
-  },
-  {
-    "text": "2026 Climate Tech Companies to Watch",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
-    "flag": "wire"
-  },
-  {
-    "text": "How AI decision models could change content moderation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-    "flag": "wire"
-  },
-  {
-    "text": "We can’t just change the definition of ‘recording’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-    "flag": "wire"
-  },
-  {
-    "text": "Your Next Great Read Might Be Certified ‘Organic’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
-    "flag": "wire"
-  },
-  {
     "text": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
     "flag": "wire"
   },
   {
-    "text": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "text": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+    "flag": "wire"
+  },
+  {
+    "text": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft is giving Copilot more control over Windows and your files",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT is getting a lot more visual, with the launch of a new interface",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "flag": "wire"
+  },
+  {
+    "text": "The New ChatGPT Is More Show Than Tell",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT is getting college planning tools",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+    "flag": "wire"
+  },
+  {
+    "text": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
     "flag": "wire"
   },
   {
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "text": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
     "flag": "wire"
   }
 ]
