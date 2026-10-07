@@ -1,62 +1,14 @@
 [
   {
-    "text": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
-    "flag": "wire"
-  },
-  {
-    "text": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "text": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
     "flag": "wire"
   },
   {
-    "text": "Microsoft is giving Copilot more control over Windows and your files",
+    "text": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-    "flag": "wire"
-  },
-  {
-    "text": "The New ChatGPT Is More Show Than Tell",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT is getting college planning tools",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-    "flag": "wire"
-  },
-  {
-    "text": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: 10 climate tech companies to watch",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
     "flag": "wire"
   },
   {
@@ -66,9 +18,57 @@
     "flag": "wire"
   },
   {
-    "text": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "text": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "flag": "wire"
+  },
+  {
+    "text": "The New ChatGPT Is More Show Than Tell",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft is giving Copilot more control over Windows and your files",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: 10 climate tech companies to watch",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "flag": "wire"
+  },
+  {
+    "text": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+    "flag": "wire"
+  },
+  {
+    "text": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
     "flag": "wire"
   }
 ]
