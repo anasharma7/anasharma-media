@@ -1,62 +1,20 @@
 [
   {
-    "text": "We can’t just change the definition of ‘recording’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-    "flag": "wire"
-  },
-  {
-    "text": "Google is about to remove free access to Gemini Flash and Pro",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-    "flag": "wire"
-  },
-  {
-    "text": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-    "flag": "wire"
-  },
-  {
-    "text": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: 10 climate tech companies to watch",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-    "flag": "wire"
-  },
-  {
     "text": "OpenAI drops another batch of mathematical breakthroughs",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
     "flag": "wire"
   },
   {
-    "text": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-    "flag": "wire"
-  },
-  {
     "text": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
     "source": "Wired",
     "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
     "flag": "wire"
   },
   {
@@ -69,6 +27,48 @@
     "text": "How AI decision models could change content moderation",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "flag": "wire"
+  },
+  {
+    "text": "We can’t just change the definition of ‘recording’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+    "flag": "wire"
+  },
+  {
+    "text": "Your Next Great Read Might Be Certified ‘Organic’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+    "flag": "wire"
+  },
+  {
+    "text": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: 10 climate tech companies to watch",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
     "flag": "wire"
   }
 ]
