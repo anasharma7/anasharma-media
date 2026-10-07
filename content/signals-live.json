@@ -1,14 +1,14 @@
 [
   {
-    "text": "The next hurdle for AI agents: getting websites to let them in",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "text": "We can’t just change the definition of ‘recording’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
     "flag": "wire"
   },
   {
-    "text": "The Download: 10 climate tech companies to watch",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "text": "Google is about to remove free access to Gemini Flash and Pro",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
     "flag": "wire"
   },
   {
@@ -24,9 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "2026 Climate Tech Companies to Watch",
+    "text": "The Download: 10 climate tech companies to watch",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
     "flag": "wire"
   },
   {
@@ -36,39 +36,39 @@
     "flag": "wire"
   },
   {
+    "text": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI drops another batch of mathematical breakthroughs",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "flag": "wire"
+  },
+  {
+    "text": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "flag": "wire"
+  },
+  {
     "text": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
     "source": "Wired",
     "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
     "flag": "wire"
   },
   {
+    "text": "2026 Climate Tech Companies to Watch",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+    "flag": "wire"
+  },
+  {
     "text": "How AI decision models could change content moderation",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
-    "flag": "wire"
-  },
-  {
-    "text": "Google is about to remove free access to Gemini Flash and Pro",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-    "flag": "wire"
-  },
-  {
-    "text": "We can’t just change the definition of ‘recording’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
     "flag": "wire"
   }
 ]
