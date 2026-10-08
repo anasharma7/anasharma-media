@@ -1,44 +1,38 @@
 [
   {
-    "text": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+    "text": "AI breakthroughs in robotics won’t change your life any time soon",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
     "flag": "wire"
   },
   {
-    "text": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "text": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
     "flag": "wire"
   },
   {
-    "text": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft is giving Copilot more control over Windows and your files",
+    "text": "Google is launching a one-stop Gemini agent for your work tasks",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+    "flag": "wire"
+  },
+  {
+    "text": "Why we’re watching these climate tech companies",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+    "flag": "wire"
+  },
+  {
+    "text": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+    "flag": "wire"
+  },
+  {
+    "text": "Artificial is a wicked satire that also sticks to the facts",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
     "flag": "wire"
   },
   {
@@ -48,27 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "text": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
     "flag": "wire"
   },
   {
-    "text": "The Download: 10 climate tech companies to watch",
+    "text": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI roadblocks for humanoids and portable rubber dams",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
     "flag": "wire"
   },
   {
-    "text": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "text": "Google releases a new local-first Granola competitor",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+    "flag": "wire"
+  },
+  {
+    "text": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
     "flag": "wire"
   }
 ]
