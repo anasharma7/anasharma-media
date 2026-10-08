@@ -1,14 +1,14 @@
 [
   {
-    "text": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+    "text": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
     "flag": "wire"
   },
   {
-    "text": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+    "text": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
     "flag": "wire"
   },
   {
@@ -18,15 +18,15 @@
     "flag": "wire"
   },
   {
-    "text": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "text": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
     "flag": "wire"
   },
   {
-    "text": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "text": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
     "flag": "wire"
   },
   {
@@ -36,9 +36,9 @@
     "flag": "wire"
   },
   {
-    "text": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "text": "Microsoft is giving Copilot more control over Windows and your files",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
     "flag": "wire"
   },
   {
@@ -48,9 +48,9 @@
     "flag": "wire"
   },
   {
-    "text": "Microsoft is giving Copilot more control over Windows and your files",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "text": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+    "text": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
     "flag": "wire"
   }
 ]
