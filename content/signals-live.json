@@ -1,8 +1,44 @@
 [
   {
-    "text": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "text": "Why we’re watching these climate tech companies",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+    "flag": "wire"
+  },
+  {
+    "text": "California is trying to shut down robot vs. human cage matches",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI roadblocks for humanoids and portable rubber dams",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+    "flag": "wire"
+  },
+  {
+    "text": "Inside Elon Musk’s Midterm Spending Spree",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic launches free AI security scans for open-source projects",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "flag": "wire"
+  },
+  {
+    "text": "USA Today becomes the latest publisher to sue OpenAI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+    "flag": "wire"
+  },
+  {
+    "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "flag": "wire"
   },
   {
@@ -18,39 +54,9 @@
     "flag": "wire"
   },
   {
-    "text": "USA Today becomes the latest publisher to sue OpenAI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-    "flag": "wire"
-  },
-  {
-    "text": "AI breakthroughs in robotics won’t change your life any time soon",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-    "flag": "wire"
-  },
-  {
-    "text": "Why we’re watching these climate tech companies",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-    "flag": "wire"
-  },
-  {
-    "text": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI roadblocks for humanoids and portable rubber dams",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-    "flag": "wire"
-  },
-  {
-    "text": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+    "text": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
     "flag": "wire"
   },
   {
@@ -60,15 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "flag": "wire"
-  },
-  {
-    "text": "California is trying to shut down robot vs. human cage matches",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+    "text": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
     "flag": "wire"
   }
 ]
