@@ -1,50 +1,14 @@
 [
   {
-    "text": "We’re putting too much faith in AI’s ability to say no",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-    "flag": "wire"
-  },
-  {
-    "text": "Job titles of the future: Delivery drone air traffic controller",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-    "flag": "wire"
-  },
-  {
-    "text": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "text": "Danu Robotics’ fight to build a better recycling robot",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
     "flag": "wire"
   },
   {
-    "text": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "flag": "wire"
-  },
-  {
-    "text": "Even ‘Law & Order’ Is Terrified of AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-    "flag": "wire"
-  },
-  {
-    "text": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic launches free AI security scans for open-source projects",
+    "text": "Instinct was the buzziest AI agent around — can it survive Muse?",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
     "flag": "wire"
   },
   {
@@ -54,9 +18,45 @@
     "flag": "wire"
   },
   {
-    "text": "California is trying to shut down robot vs. human cage matches",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+    "text": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "flag": "wire"
+  },
+  {
+    "text": "We’re putting too much faith in AI’s ability to say no",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "flag": "wire"
+  },
+  {
+    "text": "Inside Elon Musk’s Midterm Spending Spree",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "flag": "wire"
+  },
+  {
+    "text": "Even ‘Law & Order’ Is Terrified of AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "Job titles of the future: Delivery drone air traffic controller",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Inside Elon Musk’s Midterm Spending Spree",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "text": "Trump’s attempt to rename AI is looking awfully artificial",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
     "flag": "wire"
   }
 ]
