@@ -1,8 +1,8 @@
 [
   {
-    "text": "Nikon microscopic video competition winner disqualified for using generative AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "text": "Even ‘Law & Order’ Is Terrified of AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
     "flag": "wire"
   },
   {
@@ -12,33 +12,15 @@
     "flag": "wire"
   },
   {
+    "text": "Inside Elon Musk’s Midterm Spending Spree",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "flag": "wire"
+  },
+  {
     "text": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
     "source": "Wired",
     "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-    "flag": "wire"
-  },
-  {
-    "text": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "flag": "wire"
-  },
-  {
-    "text": "We’re putting too much faith in AI’s ability to say no",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
     "flag": "wire"
   },
   {
@@ -48,9 +30,9 @@
     "flag": "wire"
   },
   {
-    "text": "Even ‘Law & Order’ Is Terrified of AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
     "flag": "wire"
   },
   {
@@ -60,15 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "text": "Nikon microscopic video competition winner disqualified for using generative AI",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
     "flag": "wire"
   },
   {
-    "text": "Inside Elon Musk’s Midterm Spending Spree",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "text": "We’re putting too much faith in AI’s ability to say no",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "flag": "wire"
+  },
+  {
+    "text": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
     "flag": "wire"
   }
 ]
