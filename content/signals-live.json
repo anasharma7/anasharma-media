@@ -1,26 +1,8 @@
 [
   {
-    "text": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-    "flag": "wire"
-  },
-  {
-    "text": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "text": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Is Getting Really Good at Messing With Cybercriminals",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-    "flag": "wire"
-  },
-  {
-    "text": "We’re putting too much faith in AI’s ability to say no",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
     "flag": "wire"
   },
   {
@@ -30,15 +12,39 @@
     "flag": "wire"
   },
   {
+    "text": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "flag": "wire"
+  },
+  {
+    "text": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "flag": "wire"
+  },
+  {
+    "text": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "flag": "wire"
+  },
+  {
     "text": "Job titles of the future: Delivery drone air traffic controller",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
     "flag": "wire"
   },
   {
-    "text": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "text": "We’re putting too much faith in AI’s ability to say no",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Is Getting Really Good at Messing With Cybercriminals",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
     "flag": "wire"
   },
   {
@@ -48,27 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "flag": "wire"
-  },
-  {
     "text": "Anthropic is cutting off its internal evaluations from the internet",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
     "flag": "wire"
   },
   {
-    "text": "AI agent makers are promising privacy — will they deliver?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+    "text": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
     "flag": "wire"
   }
 ]
