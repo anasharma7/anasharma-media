@@ -1,50 +1,8 @@
 [
   {
-    "text": "We’re putting too much faith in AI’s ability to say no",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic is cutting off its internal evaluations from the internet",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-    "flag": "wire"
-  },
-  {
-    "text": "Job titles of the future: Delivery drone air traffic controller",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-    "flag": "wire"
-  },
-  {
     "text": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "flag": "wire"
-  },
-  {
-    "text": "Even ‘Law & Order’ Is Terrified of AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Is Getting Really Good at Messing With Cybercriminals",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
     "flag": "wire"
   },
   {
@@ -54,21 +12,63 @@
     "flag": "wire"
   },
   {
+    "text": "Job titles of the future: Delivery drone air traffic controller",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Is Getting Really Good at Messing With Cybercriminals",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+    "flag": "wire"
+  },
+  {
     "text": "Satya Nadella says we should assume all AI models are ‘compromised’",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
     "flag": "wire"
   },
   {
-    "text": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "text": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
     "flag": "wire"
   },
   {
-    "text": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "text": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "flag": "wire"
+  },
+  {
+    "text": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "flag": "wire"
+  },
+  {
+    "text": "I Made Terrible Games With Google’s AI Playground",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "flag": "wire"
+  },
+  {
+    "text": "We’re putting too much faith in AI’s ability to say no",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "flag": "wire"
+  },
+  {
+    "text": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
     "flag": "wire"
   }
 ]
