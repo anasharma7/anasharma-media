@@ -1,14 +1,8 @@
 [
   {
-    "text": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "flag": "wire"
-  },
-  {
-    "text": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "text": "Satya Nadella says we should assume all AI models are ‘compromised’",
     "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
     "flag": "wire"
   },
   {
@@ -18,45 +12,27 @@
     "flag": "wire"
   },
   {
-    "text": "AI Is Getting Really Good at Messing With Cybercriminals",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-    "flag": "wire"
-  },
-  {
-    "text": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "flag": "wire"
-  },
-  {
     "text": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
     "source": "Wired",
     "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
     "flag": "wire"
   },
   {
-    "text": "Learning to use local AI is exciting, overwhelming, and frustrating",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-    "flag": "wire"
-  },
-  {
-    "text": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-    "flag": "wire"
-  },
-  {
-    "text": "I Made Terrible Games With Google’s AI Playground",
+    "text": "AI Is Getting Really Good at Messing With Cybercriminals",
     "source": "Wired",
-    "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
     "flag": "wire"
   },
   {
-    "text": "We’re putting too much faith in AI’s ability to say no",
+    "text": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
     "flag": "wire"
   },
   {
@@ -66,9 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "text": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Will the HomeView be Apple’s first smart home success?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "flag": "wire"
+  },
+  {
+    "text": "We’re putting too much faith in AI’s ability to say no",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "flag": "wire"
+  },
+  {
+    "text": "I Made Terrible Games With Google’s AI Playground",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "flag": "wire"
+  },
+  {
+    "text": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
     "flag": "wire"
   }
 ]
