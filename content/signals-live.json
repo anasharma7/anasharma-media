@@ -1,56 +1,8 @@
 [
   {
-    "text": "AI Is Getting Really Good at Messing With Cybercriminals",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-    "flag": "wire"
-  },
-  {
-    "text": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "flag": "wire"
-  },
-  {
-    "text": "I Made Terrible Games With Google’s AI Playground",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-    "flag": "wire"
-  },
-  {
-    "text": "The ecologist revealing the invisible networks that revive rainforests",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-    "flag": "wire"
-  },
-  {
-    "text": "Will the HomeView be Apple’s first smart home success?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-    "flag": "wire"
-  },
-  {
-    "text": "Mars may be a hellhole, but the moon is not far behind",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-    "flag": "wire"
-  },
-  {
-    "text": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "flag": "wire"
-  },
-  {
-    "text": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "text": "Meta has some Wonder Full new AI models",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
     "flag": "wire"
   },
   {
@@ -60,15 +12,63 @@
     "flag": "wire"
   },
   {
-    "text": "Learning to use local AI is exciting, overwhelming, and frustrating",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "text": "The ecologist revealing the invisible networks that revive rainforests",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
     "flag": "wire"
   },
   {
-    "text": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "text": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
     "source": "Wired",
-    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "link": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+    "flag": "wire"
+  },
+  {
+    "text": "Muse Wonder Puts Meta Back at the AI Frontier",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "flag": "wire"
+  },
+  {
+    "text": "Mars may be a hellhole, but the moon is not far behind",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: moon city problems and drone traffic controllers",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta releases its first frontier model, Muse Wonder",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "flag": "wire"
+  },
+  {
+    "text": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "flag": "wire"
+  },
+  {
+    "text": "I Made Terrible Games With Google’s AI Playground",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "flag": "wire"
+  },
+  {
+    "text": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
     "flag": "wire"
   }
 ]
