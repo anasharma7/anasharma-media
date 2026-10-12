@@ -1,50 +1,14 @@
 [
   {
-    "text": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "flag": "wire"
-  },
-  {
     "text": "Job titles of the future: Delivery drone air traffic controller",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
     "flag": "wire"
   },
   {
-    "text": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Is Getting Really Good at Messing With Cybercriminals",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-    "flag": "wire"
-  },
-  {
-    "text": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-    "flag": "wire"
-  },
-  {
     "text": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "flag": "wire"
-  },
-  {
-    "text": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
     "flag": "wire"
   },
   {
@@ -66,9 +30,45 @@
     "flag": "wire"
   },
   {
+    "text": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "flag": "wire"
+  },
+  {
+    "text": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "flag": "wire"
+  },
+  {
     "text": "Learning to use local AI is exciting, overwhelming, and frustrating",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "flag": "wire"
+  },
+  {
+    "text": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Is Getting Really Good at Messing With Cybercriminals",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
     "flag": "wire"
   }
 ]
