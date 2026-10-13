@@ -1,14 +1,8 @@
 [
   {
-    "text": "Meta has some Wonder Full new AI models",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-    "flag": "wire"
-  },
-  {
-    "text": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "text": "The Download: moon city problems and drone traffic controllers",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
     "flag": "wire"
   },
   {
@@ -30,27 +24,27 @@
     "flag": "wire"
   },
   {
+    "text": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "flag": "wire"
+  },
+  {
     "text": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
     "source": "The Verge",
     "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
     "flag": "wire"
   },
   {
-    "text": "Mars may be a hellhole, but the moon is not far behind",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: moon city problems and drone traffic controllers",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-    "flag": "wire"
-  },
-  {
     "text": "Meta releases its first frontier model, Muse Wonder",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "flag": "wire"
+  },
+  {
+    "text": "Mars may be a hellhole, but the moon is not far behind",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
     "flag": "wire"
   },
   {
@@ -63,6 +57,12 @@
     "text": "I Made Terrible Games With Google’s AI Playground",
     "source": "Wired",
     "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta has some Wonder Full new AI models",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
     "flag": "wire"
   },
   {
