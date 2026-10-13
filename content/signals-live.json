@@ -1,14 +1,62 @@
 [
   {
-    "text": "The Download: moon city problems and drone traffic controllers",
+    "text": "The Download: open model trade-offs and geothermal power’s promise",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
     "flag": "wire"
   },
   {
-    "text": "The ecologist revealing the invisible networks that revive rainforests",
+    "text": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "flag": "wire"
+  },
+  {
+    "text": "Apple launches HomeView, its first smart display for the home",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+    "flag": "wire"
+  },
+  {
+    "text": "TechCrunch Disrupt 2026: Day 1",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+    "flag": "wire"
+  },
+  {
+    "text": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+    "flag": "wire"
+  },
+  {
+    "text": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+    "flag": "wire"
+  },
+  {
+    "text": "Open models have real benefits. Do they outweigh the risks?",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+    "flag": "wire"
+  },
+  {
+    "text": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+    "flag": "wire"
+  },
+  {
+    "text": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
     "flag": "wire"
   },
   {
@@ -18,57 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Muse Wonder Puts Meta Back at the AI Frontier",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
-    "flag": "wire"
-  },
-  {
-    "text": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta releases its first frontier model, Muse Wonder",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-    "flag": "wire"
-  },
-  {
-    "text": "Mars may be a hellhole, but the moon is not far behind",
+    "text": "AI labs are buying data from dead startups to train their models",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-    "flag": "wire"
-  },
-  {
-    "text": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-    "flag": "wire"
-  },
-  {
-    "text": "I Made Terrible Games With Google’s AI Playground",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta has some Wonder Full new AI models",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-    "flag": "wire"
-  },
-  {
-    "text": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
     "flag": "wire"
   }
 ]
