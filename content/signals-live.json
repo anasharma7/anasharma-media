@@ -1,26 +1,8 @@
 [
   {
-    "text": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: open model trade-offs and geothermal power’s promise",
+    "text": "Open models have real benefits. Do they outweigh the risks?",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-    "flag": "wire"
-  },
-  {
-    "text": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "flag": "wire"
-  },
-  {
-    "text": "Shopify opens its catalog up to more AI agents",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
     "flag": "wire"
   },
   {
@@ -30,21 +12,27 @@
     "flag": "wire"
   },
   {
+    "text": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+    "flag": "wire"
+  },
+  {
+    "text": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "flag": "wire"
+  },
+  {
     "text": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
     "flag": "wire"
   },
   {
-    "text": "Xbox is officially embracing the chaos of AI-powered game ports",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-    "flag": "wire"
-  },
-  {
-    "text": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "text": "The Download: open model trade-offs and geothermal power’s promise",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
     "flag": "wire"
   },
   {
@@ -54,9 +42,9 @@
     "flag": "wire"
   },
   {
-    "text": "AI labs are buying data from dead startups to train their models",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "text": "Xbox is officially embracing the chaos of AI-powered game ports",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
     "flag": "wire"
   },
   {
@@ -66,9 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "Open models have real benefits. Do they outweigh the risks?",
+    "text": "The US military’s race to make fake blood",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+    "flag": "wire"
+  },
+  {
+    "text": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "flag": "wire"
+  },
+  {
+    "text": "Shopify opens its catalog up to more AI agents",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
     "flag": "wire"
   }
 ]
