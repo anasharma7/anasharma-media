@@ -1,56 +1,26 @@
 [
   {
-    "text": "Open models have real benefits. Do they outweigh the risks?",
+    "text": "The Download: faking blood and the future of batteries",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-    "flag": "wire"
-  },
-  {
-    "text": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "text": "Deezer will soon let you filter out AI-generated music",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
     "flag": "wire"
   },
   {
-    "text": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "text": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
     "flag": "wire"
   },
   {
-    "text": "The Download: open model trade-offs and geothermal power’s promise",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-    "flag": "wire"
-  },
-  {
-    "text": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-    "flag": "wire"
-  },
-  {
-    "text": "Xbox is officially embracing the chaos of AI-powered game ports",
+    "text": "Microsoft has a new machine learning tool to improve weather forecasts",
     "source": "The Verge",
-    "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+    "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
     "flag": "wire"
   },
   {
@@ -60,15 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "text": "Men Can’t Stop Faking How Much They Know About AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
     "flag": "wire"
   },
   {
-    "text": "Shopify opens its catalog up to more AI agents",
+    "text": "The Download: open model trade-offs and geothermal power’s promise",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+    "flag": "wire"
+  },
+  {
+    "text": "Square’s new kiosk lets you talk to AI for help with your order",
     "source": "The Verge",
-    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+    "flag": "wire"
+  },
+  {
+    "text": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+    "flag": "wire"
+  },
+  {
+    "text": "Android is using AI to suss out scammers in Google Messages",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+    "flag": "wire"
+  },
+  {
+    "text": "My Friend Has No Soul",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
     "flag": "wire"
   }
 ]
