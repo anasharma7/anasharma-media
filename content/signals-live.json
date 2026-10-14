@@ -1,32 +1,38 @@
 [
   {
+    "text": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "flag": "wire"
+  },
+  {
+    "text": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: faking blood and the future of batteries",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
     "flag": "wire"
   },
   {
-    "text": "Deezer will soon let you filter out AI-generated music",
+    "text": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
     "flag": "wire"
   },
   {
-    "text": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft has a new machine learning tool to improve weather forecasts",
+    "text": "The AI race is back on",
     "source": "The Verge",
-    "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
     "flag": "wire"
   },
   {
-    "text": "The US military’s race to make fake blood",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+    "text": "McKinsey is making job applicants spar with a fake AI client",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
     "flag": "wire"
   },
   {
@@ -36,39 +42,33 @@
     "flag": "wire"
   },
   {
+    "text": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+    "flag": "wire"
+  },
+  {
+    "text": "The US military’s race to make fake blood",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Came for Math. Now It’s Chasing the Rest of Science",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: open model trade-offs and geothermal power’s promise",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
     "flag": "wire"
   },
   {
-    "text": "Square’s new kiosk lets you talk to AI for help with your order",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1009086/square-kiosk",
-    "flag": "wire"
-  },
-  {
-    "text": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-    "flag": "wire"
-  },
-  {
-    "text": "Android is using AI to suss out scammers in Google Messages",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-    "flag": "wire"
-  },
-  {
     "text": "My Friend Has No Soul",
     "source": "Wired",
     "link": "https://www.wired.com/story/my-friend-has-no-soul/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
     "flag": "wire"
   }
 ]
