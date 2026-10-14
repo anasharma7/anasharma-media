@@ -1,8 +1,20 @@
 [
   {
-    "text": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "text": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: open model trade-offs and geothermal power’s promise",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+    "flag": "wire"
+  },
+  {
+    "text": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
     "flag": "wire"
   },
   {
@@ -18,39 +30,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-    "flag": "wire"
-  },
-  {
-    "text": "Facebook is giving users more control over their algorithm",
+    "text": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-    "flag": "wire"
-  },
-  {
-    "text": "Open models have real benefits. Do they outweigh the risks?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: open model trade-offs and geothermal power’s promise",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI labs are buying data from dead startups to train their models",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
     "flag": "wire"
   },
   {
@@ -60,15 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "text": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
     "flag": "wire"
   },
   {
-    "text": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+    "text": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
     "source": "Wired",
-    "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+    "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI labs are buying data from dead startups to train their models",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+    "flag": "wire"
+  },
+  {
+    "text": "Open models have real benefits. Do they outweigh the risks?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
     "flag": "wire"
   }
 ]
