@@ -1,8 +1,50 @@
 [
   {
-    "text": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "text": "The Download: open model trade-offs and geothermal power’s promise",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+    "flag": "wire"
+  },
+  {
+    "text": "Men Can’t Stop Faking How Much They Know About AI",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Came for Math. Now It’s Chasing the Rest of Science",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "flag": "wire"
+  },
+  {
+    "text": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "flag": "wire"
+  },
+  {
+    "text": "McKinsey is making job applicants spar with a fake AI client",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+    "flag": "wire"
+  },
+  {
+    "text": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+    "flag": "wire"
+  },
+  {
+    "text": "My Friend Has No Soul",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+    "flag": "wire"
+  },
+  {
+    "text": "The US military’s race to make fake blood",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
     "flag": "wire"
   },
   {
@@ -18,57 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-    "flag": "wire"
-  },
-  {
     "text": "The AI race is back on",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
     "flag": "wire"
   },
   {
-    "text": "McKinsey is making job applicants spar with a fake AI client",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-    "flag": "wire"
-  },
-  {
-    "text": "Men Can’t Stop Faking How Much They Know About AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+    "text": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-    "flag": "wire"
-  },
-  {
-    "text": "The US military’s race to make fake blood",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Came for Math. Now It’s Chasing the Rest of Science",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: open model trade-offs and geothermal power’s promise",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-    "flag": "wire"
-  },
-  {
-    "text": "My Friend Has No Soul",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
     "flag": "wire"
   }
 ]
