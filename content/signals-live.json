@@ -12,12 +12,6 @@
     "flag": "wire"
   },
   {
-    "text": "AI Came for Math. Now It’s Chasing the Rest of Science",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-    "flag": "wire"
-  },
-  {
     "text": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
@@ -30,27 +24,15 @@
     "flag": "wire"
   },
   {
-    "text": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-    "flag": "wire"
-  },
-  {
-    "text": "My Friend Has No Soul",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/my-friend-has-no-soul/",
-    "flag": "wire"
-  },
-  {
-    "text": "The US military’s race to make fake blood",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
-    "flag": "wire"
-  },
-  {
     "text": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "flag": "wire"
+  },
+  {
+    "text": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
     "flag": "wire"
   },
   {
@@ -60,15 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "The AI race is back on",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "text": "The US military’s race to make fake blood",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
     "flag": "wire"
   },
   {
-    "text": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "text": "My Friend Has No Soul",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Came for Math. Now It’s Chasing the Rest of Science",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "flag": "wire"
+  },
+  {
+    "text": "Figma announces new features to define how agents work on its platform",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI race is back on",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
     "flag": "wire"
   }
 ]
