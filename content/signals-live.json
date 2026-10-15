@@ -1,56 +1,38 @@
 [
   {
-    "text": "The Download: open model trade-offs and geothermal power’s promise",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-    "flag": "wire"
-  },
-  {
     "text": "Men Can’t Stop Faking How Much They Know About AI",
     "source": "Wired",
     "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
     "flag": "wire"
   },
   {
-    "text": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "text": "TechCrunch Disrupt 2026: Last day",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
     "flag": "wire"
   },
   {
-    "text": "McKinsey is making job applicants spar with a fake AI client",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+    "text": "Six wild ideas for perpetuating your mind",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
     "flag": "wire"
   },
   {
-    "text": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-    "flag": "wire"
-  },
-  {
-    "text": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "text": "AI agents are coming to Rivian’s cars",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
     "flag": "wire"
   },
   {
-    "text": "The Download: faking blood and the future of batteries",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+    "text": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
     "flag": "wire"
   },
   {
-    "text": "The US military’s race to make fake blood",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
-    "flag": "wire"
-  },
-  {
-    "text": "My Friend Has No Soul",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+    "text": "Nobody is safe from celebrity AI deepfakes",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
     "flag": "wire"
   },
   {
@@ -60,15 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Figma announces new features to define how agents work on its platform",
+    "text": "Google’s Universal Cart shopping tool launches in the US",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
     "flag": "wire"
   },
   {
-    "text": "The AI race is back on",
+    "text": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+    "flag": "wire"
+  },
+  {
+    "text": "How much more can nuclear power plants give?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+    "flag": "wire"
+  },
+  {
+    "text": "My Friend Has No Soul",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+    "flag": "wire"
+  },
+  {
+    "text": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
     "flag": "wire"
   }
 ]
