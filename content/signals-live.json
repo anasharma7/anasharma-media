@@ -1,8 +1,8 @@
 [
   {
-    "text": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "text": "Love is infrastructure",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
     "flag": "wire"
   },
   {
@@ -12,39 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "Jev is Vercel’s fastest-adopted AI model ever",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-    "flag": "wire"
-  },
-  {
     "text": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
     "flag": "wire"
   },
   {
-    "text": "ChatGPT can peek at your Chrome tabs now",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "text": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
     "flag": "wire"
   },
   {
-    "text": "Love is infrastructure",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s new terms may allow it to train AI on news sites for free",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "text": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
     "flag": "wire"
   },
   {
@@ -54,9 +36,27 @@
     "flag": "wire"
   },
   {
-    "text": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "text": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+    "flag": "wire"
+  },
+  {
+    "text": "India becomes the latest country to report rogue AI agent activity",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta’s new terms may allow it to train AI on news sites for free",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "flag": "wire"
+  },
+  {
+    "text": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+    "text": "ChatGPT can peek at your Chrome tabs now",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
     "flag": "wire"
   }
 ]
