@@ -1,8 +1,32 @@
 [
   {
-    "text": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+    "text": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "flag": "wire"
+  },
+  {
+    "text": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
     "source": "Wired",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+    "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jev is Vercel’s fastest-adopted AI model ever",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+    "flag": "wire"
+  },
+  {
+    "text": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
     "flag": "wire"
   },
   {
@@ -12,63 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "How much more can nuclear power plants give?",
+    "text": "Love is infrastructure",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+    "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
     "flag": "wire"
   },
   {
-    "text": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "text": "Meta’s new terms may allow it to train AI on news sites for free",
     "source": "The Verge",
-    "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
     "flag": "wire"
   },
   {
-    "text": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+    "text": "This implant can restore sight for patients with macular degeneration",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
     "flag": "wire"
   },
   {
-    "text": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+    "text": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: failed social media bans, and extending pets’ lives",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
     "flag": "wire"
   },
   {
-    "text": "Meta launches an open-weight AI model that runs on Macs",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "flag": "wire"
-  },
-  {
-    "text": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "flag": "wire"
-  },
-  {
-    "text": "The tech backlash is now in theaters",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Came for Math. Now It’s Chasing the Rest of Science",
+    "text": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
     "flag": "wire"
   }
 ]
