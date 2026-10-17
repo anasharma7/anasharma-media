@@ -1,50 +1,20 @@
 [
   {
-    "text": "This implant can restore sight for patients with macular degeneration",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-    "flag": "wire"
-  },
-  {
-    "text": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "flag": "wire"
-  },
-  {
     "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "flag": "wire"
   },
   {
-    "text": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: failed social media bans, and extending pets’ lives",
+    "text": "This implant can restore sight for patients with macular degeneration",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
     "flag": "wire"
   },
   {
-    "text": "Replit is no longer working with Anthropic, CEO says",
+    "text": "Replit makes OpenAI its default over Anthropic, CEO says",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "flag": "wire"
-  },
-  {
-    "text": "India becomes the latest country to report rogue AI agent activity",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta removes language that may have allowed it to scrape news sites",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "flag": "wire"
   },
   {
@@ -54,9 +24,15 @@
     "flag": "wire"
   },
   {
-    "text": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+    "text": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
     "source": "Wired",
-    "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta removes language that may have allowed it to scrape news sites",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
     "flag": "wire"
   },
   {
@@ -66,9 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "text": "Meta removes language that raised scraping and AI training concerns",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "flag": "wire"
+  },
+  {
+    "text": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "flag": "wire"
+  },
+  {
+    "text": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
     "source": "Wired",
-    "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: failed social media bans, and extending pets’ lives",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
     "flag": "wire"
   }
 ]
