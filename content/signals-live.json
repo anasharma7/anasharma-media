@@ -1,20 +1,8 @@
 [
   {
-    "text": "Replit is no longer working with Anthropic, CEO says",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "text": "This implant can restore sight for patients with macular degeneration",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "flag": "wire"
-  },
-  {
-    "text": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
     "flag": "wire"
   },
   {
@@ -24,21 +12,39 @@
     "flag": "wire"
   },
   {
-    "text": "India becomes the latest country to report rogue AI agent activity",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "flag": "wire"
   },
   {
-    "text": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+    "text": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
     "flag": "wire"
   },
   {
     "text": "The Download: failed social media bans, and extending pets’ lives",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "flag": "wire"
+  },
+  {
+    "text": "Replit is no longer working with Anthropic, CEO says",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "flag": "wire"
+  },
+  {
+    "text": "India becomes the latest country to report rogue AI agent activity",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta removes language that may have allowed it to scrape news sites",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
     "flag": "wire"
   },
   {
@@ -54,21 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "text": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
     "flag": "wire"
   },
   {
-    "text": "Meta’s new terms may allow it to train AI on news sites for free",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "flag": "wire"
-  },
-  {
-    "text": "This implant can restore sight for patients with macular degeneration",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+    "text": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
     "flag": "wire"
   }
 ]
