@@ -1,14 +1,26 @@
 [
   {
-    "text": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "text": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
     "flag": "wire"
   },
   {
-    "text": "Meta removes language that raised scraping and AI training concerns",
+    "text": "The Download: failed social media bans, and extending pets’ lives",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "flag": "wire"
+  },
+  {
+    "text": "This implant can restore sight for patients with macular degeneration",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
     "flag": "wire"
   },
   {
@@ -24,15 +36,15 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: failed social media bans, and extending pets’ lives",
+    "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "flag": "wire"
   },
   {
-    "text": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "text": "Websites are closing their doors to AI agents",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
     "flag": "wire"
   },
   {
@@ -42,33 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "This implant can restore sight for patients with macular degeneration",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "flag": "wire"
-  },
-  {
     "text": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
     "source": "Wired",
     "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
     "flag": "wire"
   },
   {
-    "text": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "text": "Meta removes language that raised scraping and AI training concerns",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
     "flag": "wire"
   },
   {
-    "text": "Websites are closing their doors to AI agents",
+    "text": "A woman was arrested in Philly for blocking a delivery robot",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
     "flag": "wire"
   }
 ]
