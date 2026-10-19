@@ -1,50 +1,8 @@
 [
   {
-    "text": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
-    "flag": "wire"
-  },
-  {
-    "text": "People are using AI to make their smart TVs dumb again",
+    "text": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "flag": "wire"
-  },
-  {
-    "text": "Democrats think cracking down on AI could give them an edge",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "flag": "wire"
-  },
-  {
-    "text": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-    "flag": "wire"
-  },
-  {
-    "text": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "flag": "wire"
-  },
-  {
-    "text": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: preserving the Arctic permafrost, and playful AI agents",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
     "flag": "wire"
   },
   {
@@ -54,9 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+    "text": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
     "source": "Wired",
-    "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+    "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
     "flag": "wire"
   },
   {
@@ -66,9 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+    "text": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+    "flag": "wire"
+  },
+  {
+    "text": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: preserving the Arctic permafrost, and playful AI agents",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+    "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "Making the internet better for AI agents might make it worse for everyone else",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+    "flag": "wire"
+  },
+  {
+    "text": "The fossil fuel comeback is here",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "flag": "wire"
+  },
+  {
+    "text": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
     "flag": "wire"
   }
 ]
