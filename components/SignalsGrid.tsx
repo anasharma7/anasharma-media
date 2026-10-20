@@ -22,15 +22,12 @@ export default function SignalsGrid({ signals }: { signals: Signal[] }) {
         {columns.map((col, ci) => (
           <div className="signal-col" key={ci}>
             {col.map((signal, i) => (
-              <div
+              <button
+                type="button"
                 className="signal-item clickable"
                 key={i}
                 onClick={() => setActive(signal)}
-                role="button"
-                tabIndex={0}
-                onKeyDown={(e) => {
-                  if (e.key === 'Enter' || e.key === ' ') setActive(signal);
-                }}
+                aria-haspopup="dialog"
               >
                 {signal.flag && (
                   <span className={`flag ${signal.flag === 'wire' ? 'wire' : ''}`}>
@@ -40,7 +37,7 @@ export default function SignalsGrid({ signals }: { signals: Signal[] }) {
                 )}
                 <span>{signal.text}</span>
                 <span className="signal-source">{signal.source}</span>
-              </div>
+              </button>
             ))}
           </div>
         ))}
