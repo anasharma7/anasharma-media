@@ -1,26 +1,14 @@
 [
   {
-    "text": "Google’s more personalized Gemini AI is heading to your car",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "text": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+    "text": "Can Europe Build Data Centers Without Giving Up Its Climate Goals?",
     "source": "Wired",
-    "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-    "flag": "wire"
-  },
-  {
-    "text": "French Government Calls Emergency Meetings With Platforms Over Protests",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-    "flag": "wire"
-  },
-  {
-    "text": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
     "flag": "wire"
   },
   {
@@ -30,9 +18,15 @@
     "flag": "wire"
   },
   {
-    "text": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "text": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic’s cloud partnerships are getting messy",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
     "flag": "wire"
   },
   {
@@ -42,21 +36,21 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "text": "French Government Calls Emergency Meetings With Platforms Over Protests",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+    "flag": "wire"
+  },
+  {
+    "text": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
     "flag": "wire"
   },
   {
-    "text": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "text": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
     "flag": "wire"
   },
   {
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic’s cloud partnerships are getting messy",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "text": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s more personalized Gemini AI is heading to your car",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
     "flag": "wire"
   }
 ]
