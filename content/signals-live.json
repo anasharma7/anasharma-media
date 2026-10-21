@@ -1,14 +1,8 @@
 [
   {
-    "text": "Google’s more personalized Gemini AI is heading to your car",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-    "flag": "wire"
-  },
-  {
-    "text": "Nuclear-powered spaceships",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+    "text": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
     "flag": "wire"
   },
   {
@@ -18,15 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: introducing the Impossible issue",
+    "text": "We can do impossible things",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
     "flag": "wire"
   },
   {
-    "text": "AI promises productivity, but for managers, it’s mostly a headache for now",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "text": "Data centers could erase decades of air quality gains",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
     "flag": "wire"
   },
   {
@@ -36,39 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "We can do impossible things",
+    "text": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nuclear-powered spaceships",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
     "flag": "wire"
   },
   {
-    "text": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "text": "Anthropic takes on Muse with Claude Duet, its new AI agent",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
     "flag": "wire"
   },
   {
-    "text": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+    "text": "Meta to create a new class of shares to fund AI push",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
     "flag": "wire"
   },
   {
-    "text": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "text": "The Download: introducing the Impossible issue",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta says Muse has over 10M users, with shopping a top activity",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
     "flag": "wire"
   },
   {
-    "text": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-    "flag": "wire"
-  },
-  {
-    "text": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "text": "TechCrunch Founder Summit 2026: Everything you need to know",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
     "flag": "wire"
   }
 ]
