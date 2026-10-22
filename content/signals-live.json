@@ -1,32 +1,14 @@
 [
   {
-    "text": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-    "flag": "wire"
-  },
-  {
-    "text": "Three things you should know about permafrost",
+    "text": "Designing an AI serving harness built to last",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "flag": "wire"
   },
   {
-    "text": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-    "flag": "wire"
-  },
-  {
-    "text": "PHP: The three little letters wreaking havoc across the web",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+    "text": "The Foundations of Scalable AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
     "flag": "wire"
   },
   {
@@ -36,9 +18,39 @@
     "flag": "wire"
   },
   {
-    "text": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+    "text": "The Social Society Helping Women Join the AI Boom",
     "source": "Wired",
-    "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "flag": "wire"
+  },
+  {
+    "text": "Canva releases its first image generation model",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "flag": "wire"
+  },
+  {
+    "text": "Canva’s first AI image model plans designs before generating them",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta turns Muse sharing back on",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "flag": "wire"
+  },
+  {
+    "text": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
     "flag": "wire"
   },
   {
@@ -48,27 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Making the case for context-aware AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "text": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
     "flag": "wire"
   },
   {
-    "text": "Spotify’s current AI bet is about being the music service that agents choose",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-    "flag": "wire"
-  },
-  {
-    "text": "Claude Duet app is Anthropic’s bet on agents",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "Uber puts all 30,000 employees on ChatGPT Work",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "text": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
     "flag": "wire"
   }
 ]
