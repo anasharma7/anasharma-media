@@ -1,14 +1,14 @@
 [
   {
-    "text": "Meta says Muse has over 10M users, with shopping a top activity",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "text": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
     "flag": "wire"
   },
   {
-    "text": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+    "text": "Three things you should know about permafrost",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
     "flag": "wire"
   },
   {
@@ -18,57 +18,57 @@
     "flag": "wire"
   },
   {
-    "text": "AI’s hidden storage bill: What inference leaves behind",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "flag": "wire"
-  },
-  {
-    "text": "We can do impossible things",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-    "flag": "wire"
-  },
-  {
-    "text": "Data centers could erase decades of air quality gains",
+    "text": "PHP: The three little letters wreaking havoc across the web",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
     "flag": "wire"
   },
   {
-    "text": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+    "text": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: computing’s next leap and permafrost’s climate threat",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "flag": "wire"
+  },
+  {
+    "text": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
     "source": "Wired",
-    "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+    "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
     "flag": "wire"
   },
   {
-    "text": "The Download: introducing the Impossible issue",
+    "text": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+    "flag": "wire"
+  },
+  {
+    "text": "Making the case for context-aware AI",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
     "flag": "wire"
   },
   {
-    "text": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "text": "Spotify’s current AI bet is about being the music service that agents choose",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
     "flag": "wire"
   },
   {
-    "text": "Meta to create a new class of shares to fund AI push",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-    "flag": "wire"
-  },
-  {
-    "text": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "text": "Claude Duet app is Anthropic’s bet on agents",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "Uber puts all 30,000 employees on ChatGPT Work",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
     "flag": "wire"
   }
 ]
