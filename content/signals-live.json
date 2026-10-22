@@ -1,14 +1,44 @@
 [
   {
-    "text": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "flag": "wire"
-  },
-  {
     "text": "Meta says Muse has over 10M users, with shopping a top activity",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "flag": "wire"
+  },
+  {
+    "text": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+    "flag": "wire"
+  },
+  {
+    "text": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI’s hidden storage bill: What inference leaves behind",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "flag": "wire"
+  },
+  {
+    "text": "We can do impossible things",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+    "flag": "wire"
+  },
+  {
+    "text": "Data centers could erase decades of air quality gains",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "flag": "wire"
+  },
+  {
+    "text": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
     "flag": "wire"
   },
   {
@@ -24,39 +54,9 @@
     "flag": "wire"
   },
   {
-    "text": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
-    "flag": "wire"
-  },
-  {
     "text": "Meta to create a new class of shares to fund AI push",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-    "flag": "wire"
-  },
-  {
-    "text": "Data centers could erase decades of air quality gains",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-    "flag": "wire"
-  },
-  {
-    "text": "We can do impossible things",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-    "flag": "wire"
-  },
-  {
-    "text": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nuclear-powered spaceships",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+    "text": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
     "flag": "wire"
   }
 ]
