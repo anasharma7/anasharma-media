@@ -1,14 +1,20 @@
 [
   {
-    "text": "Designing an AI serving harness built to last",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "text": "Meta turns Muse sharing back on",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
     "flag": "wire"
   },
   {
-    "text": "The Foundations of Scalable AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "text": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "flag": "wire"
+  },
+  {
+    "text": "Left alone with nothing to do, AI agents started playing",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "flag": "wire"
   },
   {
@@ -24,27 +30,9 @@
     "flag": "wire"
   },
   {
-    "text": "Canva releases its first image generation model",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "flag": "wire"
-  },
-  {
-    "text": "Canva’s first AI image model plans designs before generating them",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta turns Muse sharing back on",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "text": "The Foundations of Scalable AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
     "flag": "wire"
   },
   {
@@ -60,15 +48,27 @@
     "flag": "wire"
   },
   {
+    "text": "Canva’s first AI image model plans designs before generating them",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "flag": "wire"
+  },
+  {
     "text": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
     "source": "Wired",
     "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
     "flag": "wire"
   },
   {
-    "text": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "text": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "flag": "wire"
+  },
+  {
+    "text": "Designing an AI serving harness built to last",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "flag": "wire"
   }
 ]
