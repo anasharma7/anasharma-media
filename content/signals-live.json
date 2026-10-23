@@ -1,8 +1,8 @@
 [
   {
-    "text": "Meta turns Muse sharing back on",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "text": "Designing an AI serving harness built to last",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "flag": "wire"
   },
   {
@@ -12,21 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Left alone with nothing to do, AI agents started playing",
+    "text": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: computing’s next leap and permafrost’s climate threat",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Social Society Helping Women Join the AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "flag": "wire"
   },
   {
@@ -36,21 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+    "text": "The Social Society Helping Women Join the AI Boom",
     "source": "Wired",
-    "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-    "flag": "wire"
-  },
-  {
-    "text": "Canva’s first AI image model plans designs before generating them",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
     "flag": "wire"
   },
   {
@@ -60,15 +36,39 @@
     "flag": "wire"
   },
   {
+    "text": "Meta turns Muse sharing back on",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "flag": "wire"
+  },
+  {
+    "text": "Canva’s first AI image model plans designs before generating them",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "flag": "wire"
+  },
+  {
     "text": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
     "flag": "wire"
   },
   {
-    "text": "Designing an AI serving harness built to last",
+    "text": "The Download: computing’s next leap and permafrost’s climate threat",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+    "flag": "wire"
+  },
+  {
+    "text": "Left alone with nothing to do, AI agents started playing",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "flag": "wire"
   }
 ]
