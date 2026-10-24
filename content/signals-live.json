@@ -1,20 +1,14 @@
 [
   {
-    "text": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+    "text": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
     "source": "Wired",
-    "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+    "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI now trains its frontier AI models with no internet access",
+    "text": "The iPhone Duo should have been an iPad",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "flag": "wire"
-  },
-  {
-    "text": "Designing an AI serving harness built to last",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
     "flag": "wire"
   },
   {
@@ -24,27 +18,27 @@
     "flag": "wire"
   },
   {
+    "text": "Designing an AI serving harness built to last",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+    "flag": "wire"
+  },
+  {
     "text": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
     "flag": "wire"
   },
   {
-    "text": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "text": "OpenAI now trains its frontier AI models with no internet access",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-    "flag": "wire"
-  },
-  {
-    "text": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Social Society Helping Women Join the AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
     "flag": "wire"
   },
   {
@@ -54,21 +48,27 @@
     "flag": "wire"
   },
   {
+    "text": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Social Society Helping Women Join the AI Boom",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "flag": "wire"
+  },
+  {
     "text": "In the biotech world, you can’t see everything",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-    "flag": "wire"
-  },
-  {
-    "text": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "flag": "wire"
-  },
-  {
-    "text": "The iPhone Duo should have been an iPad",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
     "flag": "wire"
   }
 ]
