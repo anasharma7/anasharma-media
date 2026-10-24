@@ -1,14 +1,20 @@
 [
   {
-    "text": "Here are the top AI agents that can live in your text messages",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "text": "The Download: testing six tech promises and biotech’s blind spots",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
     "flag": "wire"
   },
   {
-    "text": "Designing an AI serving harness built to last",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "text": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "flag": "wire"
+  },
+  {
+    "text": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
     "flag": "wire"
   },
   {
@@ -18,9 +24,39 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "text": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+    "flag": "wire"
+  },
+  {
+    "text": "In the biotech world, you can’t see everything",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+    "flag": "wire"
+  },
+  {
+    "text": "Designing an AI serving harness built to last",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Social Society Helping Women Join the AI Boom",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here are the top AI agents that can live in your text messages",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "flag": "wire"
+  },
+  {
+    "text": "Block’s new voice model sounds eerily human",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
     "flag": "wire"
   },
   {
@@ -33,42 +69,6 @@
     "text": "The iPhone Duo should have been an iPad",
     "source": "The Verge",
     "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: testing six tech promises and biotech’s blind spots",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-    "flag": "wire"
-  },
-  {
-    "text": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-    "flag": "wire"
-  },
-  {
-    "text": "In the biotech world, you can’t see everything",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Social Society Helping Women Join the AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
     "flag": "wire"
   }
 ]
