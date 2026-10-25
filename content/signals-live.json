@@ -1,20 +1,8 @@
 [
   {
-    "text": "The Social Society Helping Women Join the AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
-    "flag": "wire"
-  },
-  {
-    "text": "Blue Planet III is keeping the rough edges in the age of AI",
+    "text": "r/opensource just banned AI, non-English speakers, and more",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
     "flag": "wire"
   },
   {
@@ -24,9 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "The hottest AI wearables and gadgets you should know about",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "text": "Blue Planet III is keeping the rough edges in the age of AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
     "flag": "wire"
   },
   {
@@ -36,9 +24,27 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: testing six tech promises and biotech’s blind spots",
+    "text": "The Social Society Helping Women Join the AI Boom",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "flag": "wire"
+  },
+  {
+    "text": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "flag": "wire"
+  },
+  {
+    "text": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "flag": "wire"
+  },
+  {
+    "text": "Designing an AI serving harness built to last",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "flag": "wire"
   },
   {
@@ -54,21 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "text": "The hottest AI wearables and gadgets you should know about",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
     "flag": "wire"
   },
   {
-    "text": "r/opensource just banned AI, non-English speakers, and more",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "flag": "wire"
-  },
-  {
-    "text": "Designing an AI serving harness built to last",
+    "text": "The Download: testing six tech promises and biotech’s blind spots",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
     "flag": "wire"
   }
 ]
