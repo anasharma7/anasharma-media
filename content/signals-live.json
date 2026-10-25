@@ -1,56 +1,14 @@
 [
   {
-    "text": "In the biotech world, you can’t see everything",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: testing six tech promises and biotech’s blind spots",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI now trains its frontier AI models with no internet access",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "flag": "wire"
-  },
-  {
-    "text": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-    "flag": "wire"
-  },
-  {
-    "text": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "flag": "wire"
-  },
-  {
-    "text": "Blue Planet III is keeping the rough edges in the age of AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "The Social Society Helping Women Join the AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
-    "flag": "wire"
-  },
-  {
     "text": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s AI search changes upended online publishing",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
     "flag": "wire"
   },
   {
@@ -60,15 +18,57 @@
     "flag": "wire"
   },
   {
-    "text": "Pennsylvania will require labels on AI-generated ads",
+    "text": "r/opensource just banned AI, non-English speakers, and more",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "flag": "wire"
+  },
+  {
+    "text": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "flag": "wire"
+  },
+  {
+    "text": "What the US Movement Against Data Centers Can Learn From Abroad",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Social Society Helping Women Join the AI Boom",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "flag": "wire"
+  },
+  {
+    "text": "The hottest AI wearables and gadgets you should know about",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: testing six tech promises and biotech’s blind spots",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "flag": "wire"
+  },
+  {
+    "text": "Blue Planet III is keeping the rough edges in the age of AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
     "flag": "wire"
   },
   {
     "text": "Block’s new voice model sounds eerily human",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "flag": "wire"
+  },
+  {
+    "text": "In the biotech world, you can’t see everything",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
     "flag": "wire"
   }
 ]
