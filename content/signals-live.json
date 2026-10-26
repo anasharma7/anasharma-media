@@ -1,56 +1,56 @@
 [
   {
-    "text": "What the US Movement Against Data Centers Can Learn From Abroad",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "text": "SpaceX locks in $40B GPU financing deal with Apollo",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
     "flag": "wire"
   },
   {
-    "text": "Google’s AI search changes upended online publishing",
+    "text": "Meet the AI Agents Trying to Be Real-Life Journalists",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+    "flag": "wire"
+  },
+  {
+    "text": "Five weird details from Anthropic’s IPO filing",
     "source": "The Verge",
-    "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
     "flag": "wire"
   },
   {
-    "text": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
-    "flag": "wire"
-  },
-  {
-    "text": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "text": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
     "flag": "wire"
   },
   {
-    "text": "Designing an AI serving harness built to last",
+    "text": "Anthropic officially files for its public debut",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "flag": "wire"
+  },
+  {
+    "text": "The focus on AI safety disasters ignores everyday harms",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
     "flag": "wire"
   },
   {
-    "text": "r/opensource just banned AI, non-English speakers, and more",
+    "text": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft offers buyouts to 60,000 employees",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "flag": "wire"
-  },
-  {
-    "text": "The hottest AI wearables and gadgets you should know about",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "flag": "wire"
-  },
-  {
-    "text": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
     "flag": "wire"
   },
   {
@@ -60,15 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "In the biotech world, you can’t see everything",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+    "text": "The RealReal won’t let AI agents hog designer clothing",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
     "flag": "wire"
   },
   {
-    "text": "Blue Planet III is keeping the rough edges in the age of AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "text": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
     "flag": "wire"
   }
 ]
