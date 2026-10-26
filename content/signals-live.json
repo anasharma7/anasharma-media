@@ -1,14 +1,8 @@
 [
   {
-    "text": "Designing an AI serving harness built to last",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "flag": "wire"
-  },
-  {
-    "text": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "text": "What the US Movement Against Data Centers Can Learn From Abroad",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
     "flag": "wire"
   },
   {
@@ -18,9 +12,27 @@
     "flag": "wire"
   },
   {
-    "text": "In the biotech world, you can’t see everything",
+    "text": "Google’s AI search changes upended online publishing",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "flag": "wire"
+  },
+  {
+    "text": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+    "flag": "wire"
+  },
+  {
+    "text": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "flag": "wire"
+  },
+  {
+    "text": "Designing an AI serving harness built to last",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "flag": "wire"
   },
   {
@@ -30,33 +42,9 @@
     "flag": "wire"
   },
   {
-    "text": "What the US Movement Against Data Centers Can Learn From Abroad",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-    "flag": "wire"
-  },
-  {
     "text": "The hottest AI wearables and gadgets you should know about",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: testing six tech promises and biotech’s blind spots",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-    "flag": "wire"
-  },
-  {
-    "text": "Blue Planet III is keeping the rough edges in the age of AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "The Social Society Helping Women Join the AI Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
     "flag": "wire"
   },
   {
@@ -66,9 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "Google’s AI search changes upended online publishing",
+    "text": "The Download: testing six tech promises and biotech’s blind spots",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "flag": "wire"
+  },
+  {
+    "text": "In the biotech world, you can’t see everything",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+    "flag": "wire"
+  },
+  {
+    "text": "Blue Planet III is keeping the rough edges in the age of AI",
     "source": "The Verge",
-    "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
     "flag": "wire"
   }
 ]
