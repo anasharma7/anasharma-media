@@ -6,15 +6,33 @@
     "flag": "wire"
   },
   {
-    "text": "Meet the AI Agents Trying to Be Real-Life Journalists",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+    "text": "The focus on AI safety disasters ignores everyday harms",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
     "flag": "wire"
   },
   {
-    "text": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+    "text": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
     "source": "Wired",
-    "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+    "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "flag": "wire"
+  },
+  {
+    "text": "The RealReal won’t let AI agents hog designer clothing",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic officially files for its public debut",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic is burning gas to feed the AI boom",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
     "flag": "wire"
   },
   {
@@ -30,15 +48,15 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic officially files for its public debut",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "text": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
     "flag": "wire"
   },
   {
-    "text": "The focus on AI safety disasters ignores everyday harms",
+    "text": "Will the real Anthropic please stand up",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
     "flag": "wire"
   },
   {
@@ -48,27 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Microsoft offers buyouts to 60,000 employees",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: testing six tech promises and biotech’s blind spots",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-    "flag": "wire"
-  },
-  {
-    "text": "The RealReal won’t let AI agents hog designer clothing",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+    "text": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
     "source": "Wired",
-    "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+    "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
     "flag": "wire"
   }
 ]
