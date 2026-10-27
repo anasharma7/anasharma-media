@@ -1,14 +1,8 @@
 [
   {
-    "text": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "text": "The RealReal won’t let AI agents hog designer clothing",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic is burning gas to feed the AI boom",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
     "flag": "wire"
   },
   {
@@ -18,9 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "The focus on AI safety disasters ignores everyday harms",
+    "text": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "flag": "wire"
+  },
+  {
+    "text": "How solid-state transformers could help power the AI boom",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
     "flag": "wire"
   },
   {
@@ -30,15 +30,27 @@
     "flag": "wire"
   },
   {
+    "text": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: everyday AI harms and the race to nuclear spaceflight",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
     "flag": "wire"
   },
   {
-    "text": "The RealReal won’t let AI agents hog designer clothing",
+    "text": "Anthropic is burning gas to feed the AI boom",
     "source": "The Verge",
-    "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
     "flag": "wire"
   },
   {
@@ -57,18 +69,6 @@
     "text": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
     "flag": "wire"
   }
 ]
