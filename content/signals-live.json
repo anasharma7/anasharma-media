@@ -1,32 +1,8 @@
 [
   {
-    "text": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "flag": "wire"
-  },
-  {
-    "text": "The focus on AI safety disasters ignores everyday harms",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-    "flag": "wire"
-  },
-  {
-    "text": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-    "flag": "wire"
-  },
-  {
-    "text": "The RealReal won’t let AI agents hog designer clothing",
+    "text": "OpenAI announces three big science discoveries and a new way to work with academics",
     "source": "The Verge",
-    "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic officially files for its public debut",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
     "flag": "wire"
   },
   {
@@ -36,9 +12,51 @@
     "flag": "wire"
   },
   {
-    "text": "Five weird details from Anthropic’s IPO filing",
+    "text": "Will the real Anthropic please stand up",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "flag": "wire"
+  },
+  {
+    "text": "The focus on AI safety disasters ignores everyday harms",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "flag": "wire"
+  },
+  {
+    "text": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "flag": "wire"
+  },
+  {
+    "text": "The RealReal won’t let AI agents hog designer clothing",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+    "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+    "flag": "wire"
+  },
+  {
+    "text": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+    "flag": "wire"
+  },
+  {
+    "text": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "flag": "wire"
+  },
+  {
+    "text": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
     "flag": "wire"
   },
   {
@@ -51,24 +69,6 @@
     "text": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
     "source": "Wired",
     "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-    "flag": "wire"
-  },
-  {
-    "text": "Will the real Anthropic please stand up",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: everyday AI harms and the race to nuclear spaceflight",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
     "flag": "wire"
   }
 ]
