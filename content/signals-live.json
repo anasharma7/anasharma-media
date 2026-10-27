@@ -1,20 +1,32 @@
 [
   {
+    "text": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "flag": "wire"
+  },
+  {
+    "text": "VisionQuest is what happens when AI really goes rogue",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic Says It Will Revolutionize Biology—Some Day",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+    "flag": "wire"
+  },
+  {
     "text": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
     "source": "Wired",
     "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
     "flag": "wire"
   },
   {
-    "text": "AI Agents Are Media’s New Favorite Audience",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "text": "How solid-state transformers could help power the AI boom",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
     "flag": "wire"
   },
   {
@@ -24,33 +36,27 @@
     "flag": "wire"
   },
   {
+    "text": "Who’s really in charge at Anthropic after the IPO?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Agents Are Media’s New Favorite Audience",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+    "flag": "wire"
+  },
+  {
+    "text": "The data center boom has an upside: innovation for the US grid",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "flag": "wire"
+  },
+  {
     "text": "Anthropic’s elaborate plan to keep Wall Street at bay",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s next Genie AI model generates more realistic experiences",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-    "flag": "wire"
-  },
-  {
-    "text": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-    "flag": "wire"
-  },
-  {
-    "text": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
     "flag": "wire"
   },
   {
@@ -60,15 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-    "flag": "wire"
-  },
-  {
-    "text": "How solid-state transformers could help power the AI boom",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+    "text": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
     "flag": "wire"
   }
 ]
