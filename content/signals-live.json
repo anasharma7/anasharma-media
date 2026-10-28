@@ -1,38 +1,8 @@
 [
   {
-    "text": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-    "flag": "wire"
-  },
-  {
-    "text": "The data center boom has an upside: innovation for the US grid",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-    "flag": "wire"
-  },
-  {
-    "text": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-    "flag": "wire"
-  },
-  {
-    "text": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "flag": "wire"
-  },
-  {
-    "text": "Should AI Decide Your Court Case? This Judge Says Yes",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-    "flag": "wire"
-  },
-  {
-    "text": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "text": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
     "flag": "wire"
   },
   {
@@ -42,33 +12,63 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "text": "The Download: dead startups fueling AI and interspecies communication",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
     "flag": "wire"
   },
   {
-    "text": "VisionQuest is what happens when AI really goes rogue",
+    "text": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
     "flag": "wire"
   },
   {
-    "text": "Anthropic Says It Will Revolutionize Biology—Some Day",
+    "text": "Should AI Decide Your Court Case? This Judge Says Yes",
     "source": "Wired",
-    "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+    "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
     "flag": "wire"
   },
   {
-    "text": "Anthropic’s elaborate plan to keep Wall Street at bay",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-    "flag": "wire"
-  },
-  {
-    "text": "How solid-state transformers could help power the AI boom",
+    "text": "Pairing industrial AI autonomy and human control",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "flag": "wire"
+  },
+  {
+    "text": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "flag": "wire"
+  },
+  {
+    "text": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI execs may be too out of touch to build for the general public",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "flag": "wire"
+  },
+  {
+    "text": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+    "flag": "wire"
+  },
+  {
+    "text": "xAI is buying out homeowners who promise not to sue over data center noise",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
     "flag": "wire"
   }
 ]
