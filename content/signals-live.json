@@ -1,32 +1,26 @@
 [
   {
-    "text": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Creating AI value with enterprise context",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: dead startups fueling AI and interspecies communication",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-    "flag": "wire"
-  },
-  {
     "text": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
     "source": "Wired",
     "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
     "flag": "wire"
   },
   {
-    "text": "Pairing industrial AI autonomy and human control",
+    "text": "I Gave My Blood to the AI Death Clock",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "flag": "wire"
+  },
+  {
+    "text": "We urgently need to monitor AI agents’ actions in real time",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
     "flag": "wire"
   },
   {
@@ -36,21 +30,9 @@
     "flag": "wire"
   },
   {
-    "text": "Akai is embracing vibe-coded mods with an open-source MPC",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-    "flag": "wire"
-  },
-  {
-    "text": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-    "flag": "wire"
-  },
-  {
-    "text": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "text": "Our climate models have a big, dangerous blind spot",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
     "flag": "wire"
   },
   {
@@ -60,9 +42,27 @@
     "flag": "wire"
   },
   {
-    "text": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "text": "Creating AI value with enterprise context",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI has come for Arizona’s water",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+    "flag": "wire"
+  },
+  {
+    "text": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "flag": "wire"
+  },
+  {
+    "text": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
     "flag": "wire"
   },
   {
