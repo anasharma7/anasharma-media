@@ -1,14 +1,8 @@
 [
   {
-    "text": "Akai is embracing vibe-coded mods with an open-source MPC",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "text": "Microsoft recorded $10 billion in revenue from OpenAI",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
     "flag": "wire"
   },
   {
@@ -18,27 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "flag": "wire"
-  },
-  {
-    "text": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-    "flag": "wire"
-  },
-  {
-    "text": "Pairing industrial AI autonomy and human control",
+    "text": "The Download: dead startups fueling AI and interspecies communication",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google expands AI Search ads globally as core ad growth slows",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
     "flag": "wire"
   },
   {
@@ -48,9 +24,21 @@
     "flag": "wire"
   },
   {
-    "text": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "text": "Pairing industrial AI autonomy and human control",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "flag": "wire"
+  },
+  {
+    "text": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "flag": "wire"
+  },
+  {
+    "text": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
     "flag": "wire"
   },
   {
@@ -60,15 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: dead startups fueling AI and interspecies communication",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-    "flag": "wire"
-  },
-  {
     "text": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
     "source": "Wired",
     "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google expands AI Search ads globally as core ad growth slows",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
     "flag": "wire"
   }
 ]
