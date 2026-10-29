@@ -1,8 +1,50 @@
 [
   {
-    "text": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+    "text": "The Download: AI agent tracking and climate feedback loops",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "flag": "wire"
+  },
+  {
+    "text": "The NYT Cooking app is testing AI recipe modifications",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic is asking Wall Street to believe in AGI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft’s AI future has fewer jobs",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+    "flag": "wire"
+  },
+  {
+    "text": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "flag": "wire"
+  },
+  {
+    "text": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
     "source": "Wired",
-    "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+    "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+    "flag": "wire"
+  },
+  {
+    "text": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "flag": "wire"
+  },
+  {
+    "text": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
     "flag": "wire"
   },
   {
@@ -12,21 +54,9 @@
     "flag": "wire"
   },
   {
-    "text": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "text": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "flag": "wire"
-  },
-  {
-    "text": "We urgently need to monitor AI agents’ actions in real time",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-    "flag": "wire"
-  },
-  {
-    "text": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
     "flag": "wire"
   },
   {
@@ -36,39 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-    "flag": "wire"
-  },
-  {
-    "text": "Creating AI value with enterprise context",
+    "text": "We urgently need to monitor AI agents’ actions in real time",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI has come for Arizona’s water",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-    "flag": "wire"
-  },
-  {
-    "text": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-    "flag": "wire"
-  },
-  {
-    "text": "Akai is embracing vibe-coded mods with an open-source MPC",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-    "flag": "wire"
-  },
-  {
-    "text": "Google expands AI Search ads globally as core ad growth slows",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
     "flag": "wire"
   }
 ]
