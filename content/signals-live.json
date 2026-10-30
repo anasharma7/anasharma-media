@@ -1,44 +1,8 @@
 [
   {
-    "text": "You can generate and edit Google Docs files directly in Gemini chats now",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft’s AI future has fewer jobs",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-    "flag": "wire"
-  },
-  {
-    "text": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-    "flag": "wire"
-  },
-  {
-    "text": "We urgently need to monitor AI agents’ actions in real time",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-    "flag": "wire"
-  },
-  {
-    "text": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+    "text": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-    "flag": "wire"
-  },
-  {
-    "text": "Eating disorders are on the rise. GLP-1s could make things worse.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI agent tracking and climate feedback loops",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
     "flag": "wire"
   },
   {
@@ -48,27 +12,63 @@
     "flag": "wire"
   },
   {
-    "text": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "text": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
     "flag": "wire"
   },
   {
-    "text": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "text": "Eating disorders are on the rise. GLP-1s could make things worse.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
     "flag": "wire"
   },
   {
-    "text": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "text": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI agent tracking and climate feedback loops",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
     "flag": "wire"
   },
   {
     "text": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
     "source": "Wired",
     "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s first data center satellite is online and writing poetry",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "flag": "wire"
+  },
+  {
+    "text": "Silicon Valley wants you to invest in miracles",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+    "flag": "wire"
+  },
+  {
+    "text": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
     "flag": "wire"
   }
 ]
