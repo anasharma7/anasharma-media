@@ -1,50 +1,8 @@
 [
   {
-    "text": "Rivian expands joint venture with VW to include AI assistant",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-    "flag": "wire"
-  },
-  {
-    "text": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-    "flag": "wire"
-  },
-  {
     "text": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
     "source": "Wired",
     "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "flag": "wire"
-  },
-  {
-    "text": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-    "flag": "wire"
-  },
-  {
-    "text": "We urgently need to monitor AI agents’ actions in real time",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-    "flag": "wire"
-  },
-  {
-    "text": "The NYT Cooking app is testing AI recipe modifications",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI agent tracking and climate feedback loops",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-    "flag": "wire"
-  },
-  {
-    "text": "Our climate models have a big, dangerous blind spot",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
     "flag": "wire"
   },
   {
@@ -54,9 +12,27 @@
     "flag": "wire"
   },
   {
-    "text": "You can generate and edit Google Docs files directly in Gemini chats now",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "text": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "flag": "wire"
+  },
+  {
+    "text": "We urgently need to monitor AI agents’ actions in real time",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "flag": "wire"
+  },
+  {
+    "text": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI agent tracking and climate feedback loops",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
     "flag": "wire"
   },
   {
@@ -66,9 +42,33 @@
     "flag": "wire"
   },
   {
-    "text": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "text": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "flag": "wire"
+  },
+  {
+    "text": "The NYT Cooking app is testing AI recipe modifications",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+    "flag": "wire"
+  },
+  {
+    "text": "You can generate and edit Google Docs files directly in Gemini chats now",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "flag": "wire"
+  },
+  {
+    "text": "Our climate models have a big, dangerous blind spot",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+    "flag": "wire"
+  },
+  {
+    "text": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
     "flag": "wire"
   }
 ]
