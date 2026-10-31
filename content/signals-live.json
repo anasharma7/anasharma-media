@@ -1,38 +1,8 @@
 [
   {
-    "text": "The biggest names in AI are backing a new way to opt out of scraping",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI agent tracking and climate feedback loops",
+    "text": "Eating disorders are on the rise. GLP-1s could make things worse.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-    "flag": "wire"
-  },
-  {
-    "text": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "flag": "wire"
-  },
-  {
-    "text": "Ollie, a privacy-focused AI assistant, is shutting down",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "flag": "wire"
-  },
-  {
-    "text": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
     "flag": "wire"
   },
   {
@@ -54,9 +24,39 @@
     "flag": "wire"
   },
   {
-    "text": "Eating disorders are on the rise. GLP-1s could make things worse.",
+    "text": "The Download: AI agent tracking and climate feedback loops",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "flag": "wire"
+  },
+  {
+    "text": "The biggest names in AI are backing a new way to opt out of scraping",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "flag": "wire"
+  },
+  {
+    "text": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "flag": "wire"
+  },
+  {
+    "text": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "text": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
     "flag": "wire"
   }
 ]
