@@ -6,18 +6,6 @@
     "flag": "wire"
   },
   {
-    "text": "Intel’s stock crashes, knocking $12B from government’s stake",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "flag": "wire"
-  },
-  {
-    "text": "The biggest names in AI are backing a new way to opt out of scraping",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "flag": "wire"
-  },
-  {
     "text": "Ollie, a privacy-focused AI assistant, is shutting down",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
@@ -30,21 +18,33 @@
     "flag": "wire"
   },
   {
+    "text": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "flag": "wire"
+  },
+  {
+    "text": "I built an AI Tamagotchi before Meta could",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI reportedly lowers funding target for new round",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "flag": "wire"
+  },
+  {
     "text": "Apple Intelligence is finally coming to China with iOS 27.3",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
     "flag": "wire"
   },
   {
-    "text": "How a Contractor’s Claude Agent Got Into the Pentagon",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI agent tracking and climate feedback loops",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "text": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "flag": "wire"
   },
   {
@@ -54,21 +54,21 @@
     "flag": "wire"
   },
   {
+    "text": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "flag": "wire"
+  },
+  {
     "text": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
     "flag": "wire"
   },
   {
-    "text": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "text": "The Download: AI agent tracking and climate feedback loops",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
     "flag": "wire"
   }
 ]
