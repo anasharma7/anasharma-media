@@ -1,14 +1,8 @@
 [
   {
-    "text": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI agent tracking and climate feedback loops",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "text": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
     "flag": "wire"
   },
   {
@@ -18,21 +12,15 @@
     "flag": "wire"
   },
   {
+    "text": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "flag": "wire"
+  },
+  {
     "text": "Apple Intelligence is finally coming to China with iOS 27.3",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
     "flag": "wire"
   },
   {
@@ -42,21 +30,15 @@
     "flag": "wire"
   },
   {
-    "text": "Eating disorders are on the rise. GLP-1s could make things worse.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-    "flag": "wire"
-  },
-  {
-    "text": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-    "flag": "wire"
-  },
-  {
-    "text": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "text": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "flag": "wire"
+  },
+  {
+    "text": "I built an AI Tamagotchi before Meta could",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
     "flag": "wire"
   },
   {
@@ -66,9 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "I built an AI Tamagotchi before Meta could",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "text": "The Download: AI agent tracking and climate feedback loops",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "flag": "wire"
+  },
+  {
+    "text": "Eating disorders are on the rise. GLP-1s could make things worse.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
     "flag": "wire"
   }
 ]
