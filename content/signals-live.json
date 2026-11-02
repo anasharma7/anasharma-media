@@ -1,32 +1,62 @@
 [
   {
-    "text": "I built an AI Tamagotchi before Meta could",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "flag": "wire"
-  },
-  {
-    "text": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "text": "When You Should—and Shouldn’t—Use AI to Search the Web",
     "source": "Wired",
-    "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
     "flag": "wire"
   },
   {
-    "text": "The agentic web is here",
+    "text": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "flag": "wire"
+  },
+  {
+    "text": "Stop counting tokens, start counting what ships",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic clamps down on Claude’s AI video game clones",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "flag": "wire"
+  },
+  {
+    "text": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "flag": "wire"
+  },
+  {
+    "text": "Raising the quality of insights in agentic analytics",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "flag": "wire"
+  },
+  {
+    "text": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "flag": "wire"
+  },
+  {
+    "text": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "flag": "wire"
+  },
+  {
+    "text": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
     "flag": "wire"
   },
   {
@@ -36,39 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple Intelligence is finally coming to China with iOS 27.3",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-    "flag": "wire"
-  },
-  {
-    "text": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+    "text": "The Download: the agentic web arrives and the drive for safer roads",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-    "flag": "wire"
-  },
-  {
-    "text": "Eating disorders are on the rise. GLP-1s could make things worse.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-    "flag": "wire"
-  },
-  {
-    "text": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
     "flag": "wire"
   }
 ]
