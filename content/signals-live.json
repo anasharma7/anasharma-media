@@ -1,50 +1,8 @@
 [
   {
-    "text": "The Download: AI agent tracking and climate feedback loops",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-    "flag": "wire"
-  },
-  {
-    "text": "I built an AI Tamagotchi before Meta could",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "flag": "wire"
-  },
-  {
     "text": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
     "source": "Wired",
     "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple Intelligence is finally coming to China with iOS 27.3",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
     "flag": "wire"
   },
   {
@@ -54,21 +12,63 @@
     "flag": "wire"
   },
   {
-    "text": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "text": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
     "flag": "wire"
   },
   {
-    "text": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "text": "The Download: AI agent tracking and climate feedback loops",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "flag": "wire"
+  },
+  {
+    "text": "I built an AI Tamagotchi before Meta could",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
     "flag": "wire"
   },
   {
     "text": "Eating disorders are on the rise. GLP-1s could make things worse.",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+    "flag": "wire"
+  },
+  {
+    "text": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
     "flag": "wire"
   }
 ]
