@@ -1,38 +1,20 @@
 [
   {
-    "text": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "text": "When You Should—and Shouldn’t—Use AI to Search the Web",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI is quietly renaming data centers ‘compute campuses’",
+    "text": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+    "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
     "flag": "wire"
   },
   {
-    "text": "How “reverse game theory” could keep AI agents in check",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic clamps down on Claude’s AI video game clones",
+    "text": "Apple starts giving Siri AI access to third-party apps",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-    "flag": "wire"
-  },
-  {
-    "text": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple is all in on AI — its own and everyone else&#8217;s",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+    "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
     "flag": "wire"
   },
   {
@@ -42,19 +24,31 @@
     "flag": "wire"
   },
   {
+    "text": "How “reverse game theory” could keep AI agents in check",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
     "flag": "wire"
   },
   {
-    "text": "Apple restricts dating apps and AI companions to users 18 and up",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "text": "Those Jeff Bezos hair transplant photos are very fake",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
     "flag": "wire"
   },
   {
-    "text": "Here's Why You Shouldn't Use AI to Vote",
+    "text": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here’s Why You Shouldn’t Use AI to Vote",
     "source": "Wired",
     "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
     "flag": "wire"
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "When You Should—and Shouldn’t—Use AI to Search the Web",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+    "text": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
     "flag": "wire"
   }
 ]
