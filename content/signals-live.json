@@ -1,26 +1,20 @@
 [
   {
-    "text": "Stop counting tokens, start counting what ships",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-    "flag": "wire"
-  },
-  {
-    "text": "When You Should—and Shouldn’t—Use AI to Search the Web",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-    "flag": "wire"
-  },
-  {
-    "text": "Raising the quality of insights in agentic analytics",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-    "flag": "wire"
-  },
-  {
-    "text": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "text": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI is quietly renaming data centers ‘compute campuses’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+    "flag": "wire"
+  },
+  {
+    "text": "How “reverse game theory” could keep AI agents in check",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
     "flag": "wire"
   },
   {
@@ -30,45 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "text": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
     "flag": "wire"
   },
   {
-    "text": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "text": "Apple is all in on AI — its own and everyone else&#8217;s",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
     "flag": "wire"
   },
   {
-    "text": "The Download: the agentic web arrives and the drive for safer roads",
+    "text": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+    "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
     "flag": "wire"
   },
   {
-    "text": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "text": "Apple restricts dating apps and AI companions to users 18 and up",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here's Why You Shouldn't Use AI to Vote",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "flag": "wire"
+  },
+  {
+    "text": "When You Should—and Shouldn’t—Use AI to Search the Web",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
     "flag": "wire"
   }
 ]
