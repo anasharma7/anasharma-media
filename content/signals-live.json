@@ -1,20 +1,26 @@
 [
   {
+    "text": "Stop counting tokens, start counting what ships",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "flag": "wire"
+  },
+  {
     "text": "When You Should—and Shouldn’t—Use AI to Search the Web",
     "source": "Wired",
     "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
     "flag": "wire"
   },
   {
-    "text": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "text": "Raising the quality of insights in agentic analytics",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
     "flag": "wire"
   },
   {
-    "text": "Stop counting tokens, start counting what ships",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "text": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
     "flag": "wire"
   },
   {
@@ -30,33 +36,9 @@
     "flag": "wire"
   },
   {
-    "text": "Raising the quality of insights in agentic analytics",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI pitches data center power plants as a way to protect nearby areas",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-    "flag": "wire"
-  },
-  {
-    "text": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-    "flag": "wire"
-  },
-  {
-    "text": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "text": "Apple may try to increase revenue by doing…something with third-party AI apps",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "flag": "wire"
-  },
-  {
-    "text": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
     "flag": "wire"
   },
   {
@@ -66,9 +48,27 @@
     "flag": "wire"
   },
   {
+    "text": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: the agentic web arrives and the drive for safer roads",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+    "flag": "wire"
+  },
+  {
+    "text": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
     "flag": "wire"
   }
 ]
