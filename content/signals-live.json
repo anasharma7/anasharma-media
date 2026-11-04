@@ -1,8 +1,56 @@
 [
   {
-    "text": "How “reverse game theory” could keep AI agents in check",
+    "text": "Here’s Why You Shouldn’t Use AI to Vote",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+    "flag": "wire"
+  },
+  {
+    "text": "The biggest modding site in PC gaming is taking a stance on AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+    "flag": "wire"
+  },
+  {
+    "text": "Securing the agentic enterprise with data lineage",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "flag": "wire"
+  },
+  {
+    "text": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+    "flag": "wire"
+  },
+  {
+    "text": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic is working on a system to prove AI models’ identity",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: blended meat, restored sight, and the agentic web",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sam Altman addresses RAM comments: people should &#8216;put as much as they want in their computers&#8217;",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+    "flag": "wire"
+  },
+  {
+    "text": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
     "flag": "wire"
   },
   {
@@ -18,57 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic is working on a system to prove AI models’ identity",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "flag": "wire"
-  },
-  {
-    "text": "Please stop asking me when the AI bubble will pop",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-    "flag": "wire"
-  },
-  {
-    "text": "Those Jeff Bezos hair transplant photos are very fake",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-    "flag": "wire"
-  },
-  {
-    "text": "Here’s Why You Shouldn’t Use AI to Vote",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-    "flag": "wire"
-  },
-  {
-    "text": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "flag": "wire"
-  },
-  {
-    "text": "The biggest modding site in PC gaming is taking a stance on AI",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-    "flag": "wire"
-  },
-  {
-    "text": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-    "flag": "wire"
-  },
-  {
-    "text": "When You Should—and Shouldn’t—Use AI to Search the Web",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
     "flag": "wire"
   }
 ]
