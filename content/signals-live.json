@@ -1,20 +1,8 @@
 [
   {
-    "text": "When You Should—and Shouldn’t—Use AI to Search the Web",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple starts giving Siri AI access to third-party apps",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+    "text": "How “reverse game theory” could keep AI agents in check",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
     "flag": "wire"
   },
   {
@@ -24,9 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "How “reverse game theory” could keep AI agents in check",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "text": "Data centers are turning to old jet engines as the wait for power grows",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic is working on a system to prove AI models’ identity",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "flag": "wire"
+  },
+  {
+    "text": "Please stop asking me when the AI bubble will pop",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
     "flag": "wire"
   },
   {
@@ -42,15 +42,21 @@
     "flag": "wire"
   },
   {
-    "text": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-    "flag": "wire"
-  },
-  {
     "text": "Here’s Why You Shouldn’t Use AI to Vote",
     "source": "Wired",
     "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+    "flag": "wire"
+  },
+  {
+    "text": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "flag": "wire"
+  },
+  {
+    "text": "The biggest modding site in PC gaming is taking a stance on AI",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
     "flag": "wire"
   },
   {
@@ -60,15 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "text": "When You Should—and Shouldn’t—Use AI to Search the Web",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
     "flag": "wire"
   }
 ]
