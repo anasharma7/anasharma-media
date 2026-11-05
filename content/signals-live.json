@@ -1,50 +1,32 @@
 [
   {
-    "text": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-    "flag": "wire"
-  },
-  {
-    "text": "Big Tech’s big AI buildout will not end until someone stops it",
+    "text": "‘Total repudiation’: The blue wave is about to hit AI",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
     "flag": "wire"
   },
   {
-    "text": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+    "text": "Meta warns that election backlash against data centers could make AI expansion harder",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
     "flag": "wire"
   },
   {
-    "text": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "text": "Meta says US users can now video chat with their Muse AI avatar",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
     "flag": "wire"
   },
   {
-    "text": "You can post AI music straight to SoundCloud from ElevenLabs",
+    "text": "Claude AI can plug directly into your bank account",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
     "flag": "wire"
   },
   {
-    "text": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+    "text": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
     "source": "Wired",
-    "link": "https://www.wired.com/story/aina-smart-ring/",
-    "flag": "wire"
-  },
-  {
-    "text": "The hidden supply chain costs of the AI boom",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+    "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
     "flag": "wire"
   },
   {
@@ -54,9 +36,27 @@
     "flag": "wire"
   },
   {
-    "text": "AI’s Next Trick? Speaking Dolphin",
+    "text": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "flag": "wire"
+  },
+  {
+    "text": "Muse has a voice mode now",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "flag": "wire"
+  },
+  {
+    "text": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
     "source": "Wired",
-    "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI released a new cybersecurity model. Is that enough?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "text": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
     "source": "Wired",
-    "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "link": "https://www.wired.com/story/aina-smart-ring/",
     "flag": "wire"
   }
 ]
