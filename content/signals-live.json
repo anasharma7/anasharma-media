@@ -1,74 +1,74 @@
 [
   {
-    "text": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-    "flag": "wire"
-  },
-  {
-    "text": "Qualcomm is betting big on data centers as smartphone sales sink",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-    "flag": "wire"
-  },
-  {
     "text": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
     "flag": "wire"
   },
   {
-    "text": "17 better ways Elon Musk could have wasted $446 million",
+    "text": "Big Tech’s big AI buildout will not end until someone stops it",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
     "flag": "wire"
   },
   {
-    "text": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple is reportedly cutting budgets for its internal AI usage",
+    "text": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
     "flag": "wire"
   },
   {
-    "text": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+    "text": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "flag": "wire"
+  },
+  {
+    "text": "You can post AI music straight to SoundCloud from ElevenLabs",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
     "flag": "wire"
   },
   {
-    "text": "What’s next for US energy policy after the midterm elections?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-    "flag": "wire"
-  },
-  {
-    "text": "Roundtables: Inside the Quest for Cognitive Immortality",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-    "flag": "wire"
-  },
-  {
-    "text": "After the midterms, a bigger clash over data centers could be coming",
+    "text": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
     "flag": "wire"
   },
   {
-    "text": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+    "text": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
     "source": "Wired",
-    "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+    "link": "https://www.wired.com/story/aina-smart-ring/",
+    "flag": "wire"
+  },
+  {
+    "text": "The hidden supply chain costs of the AI boom",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+    "flag": "wire"
+  },
+  {
+    "text": "A new bill could change how the US builds energy infrastructure",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI’s Next Trick? Speaking Dolphin",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "flag": "wire"
+  },
+  {
+    "text": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
     "flag": "wire"
   }
 ]
