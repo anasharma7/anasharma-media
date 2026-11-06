@@ -1,56 +1,14 @@
 [
   {
-    "text": "Meta says US users can now video chat with their Muse AI avatar",
+    "text": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
     "flag": "wire"
   },
   {
-    "text": "Airbnb is working on an AI travel agent",
+    "text": "Protesters break into Microsoft data center site in Amsterdam",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-    "flag": "wire"
-  },
-  {
-    "text": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-    "flag": "wire"
-  },
-  {
-    "text": "A new bill could change how the US builds energy infrastructure",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-    "flag": "wire"
-  },
-  {
-    "text": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI is stepping back from NDAs for data center projects",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-    "flag": "wire"
-  },
-  {
-    "text": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
     "flag": "wire"
   },
   {
@@ -60,15 +18,57 @@
     "flag": "wire"
   },
   {
-    "text": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "text": "Physicl raises $10M to make the digital world real enough for robots",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
     "flag": "wire"
   },
   {
-    "text": "Perplexity launches its own take on AI agents for work",
+    "text": "Underdog shows off a 32MB speech model in new demo",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "flag": "wire"
+  },
+  {
+    "text": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "flag": "wire"
+  },
+  {
+    "text": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+    "flag": "wire"
+  },
+  {
+    "text": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon will let you text Alexa your shopping list",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI is stepping back from NDAs for data center projects",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
     "flag": "wire"
   }
 ]
