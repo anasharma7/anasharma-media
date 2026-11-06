@@ -1,56 +1,26 @@
 [
   {
-    "text": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-    "flag": "wire"
-  },
-  {
-    "text": "Protesters break into Microsoft data center site in Amsterdam",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-    "flag": "wire"
-  },
-  {
-    "text": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/aina-smart-ring/",
-    "flag": "wire"
-  },
-  {
-    "text": "Physicl raises $10M to make the digital world real enough for robots",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-    "flag": "wire"
-  },
-  {
-    "text": "Underdog shows off a 32MB speech model in new demo",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
     "flag": "wire"
   },
   {
-    "text": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "text": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
     "flag": "wire"
   },
   {
-    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "text": "AI is the new dating dealbreaker",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
     "flag": "wire"
   },
   {
-    "text": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+    "text": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
     "flag": "wire"
   },
   {
@@ -60,15 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "Amazon will let you text Alexa your shopping list",
+    "text": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+    "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
     "flag": "wire"
   },
   {
-    "text": "OpenAI is stepping back from NDAs for data center projects",
+    "text": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "flag": "wire"
+  },
+  {
+    "text": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "flag": "wire"
+  },
+  {
+    "text": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "flag": "wire"
+  },
+  {
+    "text": "How a Blue Wave midterm might reshape the AI industry",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "flag": "wire"
+  },
+  {
+    "text": "All the latest updates on AI data centers",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
     "flag": "wire"
   }
 ]
