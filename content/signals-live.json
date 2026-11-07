@@ -1,8 +1,32 @@
 [
   {
-    "text": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "flag": "wire"
+  },
+  {
+    "text": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+    "flag": "wire"
+  },
+  {
+    "text": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "flag": "wire"
+  },
+  {
+    "text": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "flag": "wire"
+  },
+  {
+    "text": "The US let Nvidia sell chips to an empty office in China",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
     "flag": "wire"
   },
   {
@@ -18,39 +42,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-    "flag": "wire"
-  },
-  {
-    "text": "Crusoe sells troubled Wyoming data center project to Google",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+    "text": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
     "source": "Wired",
-    "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-    "flag": "wire"
-  },
-  {
-    "text": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-    "flag": "wire"
-  },
-  {
-    "text": "The US let Nvidia sell chips to an empty office in China",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "flag": "wire"
-  },
-  {
-    "text": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
     "flag": "wire"
   },
   {
@@ -60,15 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "text": "Free Chinese AI Models Are Getting Scary Good at Hacking",
     "source": "Wired",
-    "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
     "flag": "wire"
   },
   {
-    "text": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "text": "Crusoe sells troubled Wyoming data center project to Google",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "flag": "wire"
+  },
+  {
+    "text": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
     "flag": "wire"
   }
 ]
