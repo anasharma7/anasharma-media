@@ -1,26 +1,8 @@
 [
   {
-    "text": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-    "flag": "wire"
-  },
-  {
-    "text": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "text": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
     "flag": "wire"
   },
   {
@@ -30,21 +12,39 @@
     "flag": "wire"
   },
   {
+    "text": "AI broke the cybersecurity world. What’s next?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "flag": "wire"
+  },
+  {
+    "text": "Crusoe sells troubled Wyoming data center project to Google",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "flag": "wire"
+  },
+  {
+    "text": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+    "flag": "wire"
+  },
+  {
     "text": "Free Chinese AI Models Are Getting Scary Good at Hacking",
     "source": "Wired",
     "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
     "flag": "wire"
   },
   {
-    "text": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-    "flag": "wire"
-  },
-  {
-    "text": "All the latest updates on AI data centers",
+    "text": "The US let Nvidia sell chips to an empty office in China",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
     "flag": "wire"
   },
   {
@@ -54,21 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "text": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
     "flag": "wire"
   },
   {
-    "text": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "text": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
     "flag": "wire"
   },
   {
-    "text": "Crusoe sells troubled Wyoming data center project to Google",
+    "text": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
     "flag": "wire"
   }
 ]
