@@ -1,5 +1,59 @@
 [
   {
+    "text": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "flag": "wire"
+  },
+  {
+    "text": "All the latest updates on AI data centers",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "flag": "wire"
+  },
+  {
+    "text": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "flag": "wire"
+  },
+  {
+    "text": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "flag": "wire"
+  },
+  {
+    "text": "Crusoe sells troubled Wyoming data center project to Google",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "flag": "wire"
+  },
+  {
+    "text": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "flag": "wire"
+  },
+  {
+    "text": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
@@ -12,63 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "AI is the new dating dealbreaker",
+    "text": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "flag": "wire"
-  },
-  {
-    "text": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-    "flag": "wire"
-  },
-  {
-    "text": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-    "flag": "wire"
-  },
-  {
-    "text": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-    "flag": "wire"
-  },
-  {
-    "text": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-    "flag": "wire"
-  },
-  {
-    "text": "How a Blue Wave midterm might reshape the AI industry",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-    "flag": "wire"
-  },
-  {
-    "text": "All the latest updates on AI data centers",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
     "flag": "wire"
   }
 ]
