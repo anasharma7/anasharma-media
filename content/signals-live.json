@@ -1,5 +1,23 @@
 [
   {
+    "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "flag": "wire"
+  },
+  {
+    "text": "Apple is racing to make Siri more agentic",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "flag": "wire"
+  },
+  {
+    "text": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
@@ -12,27 +30,15 @@
     "flag": "wire"
   },
   {
-    "text": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+    "text": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
     "source": "Wired",
-    "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
     "flag": "wire"
   },
   {
-    "text": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "text": "Here’s the full text of Jensen Huang’s memo to Nvidia",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-    "flag": "wire"
-  },
-  {
-    "text": "The US let Nvidia sell chips to an empty office in China",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "flag": "wire"
-  },
-  {
-    "text": "Crusoe sells troubled Wyoming data center project to Google",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
     "flag": "wire"
   },
   {
@@ -42,21 +48,15 @@
     "flag": "wire"
   },
   {
-    "text": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-    "flag": "wire"
-  },
-  {
     "text": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
     "flag": "wire"
   },
   {
@@ -66,9 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Elvis and Eminem rights holders are suing Suno",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "text": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
     "flag": "wire"
   }
 ]
