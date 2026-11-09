@@ -1,8 +1,8 @@
 [
   {
-    "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "text": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
     "flag": "wire"
   },
   {
@@ -12,45 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-    "flag": "wire"
-  },
-  {
-    "text": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-    "flag": "wire"
-  },
-  {
-    "text": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-    "flag": "wire"
-  },
-  {
-    "text": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-    "flag": "wire"
-  },
-  {
     "text": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
     "source": "Wired",
     "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
     "flag": "wire"
   },
   {
-    "text": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "text": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
     "flag": "wire"
   },
   {
@@ -60,15 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "text": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
     "flag": "wire"
   },
   {
-    "text": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "text": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "flag": "wire"
+  },
+  {
+    "text": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+    "flag": "wire"
+  },
+  {
+    "text": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "flag": "wire"
+  },
+  {
+    "text": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
     "flag": "wire"
   }
 ]
