@@ -1,26 +1,62 @@
 [
   {
-    "text": "Here’s what Trump said he knew about Jensen Huang",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+    "text": "Evolving metal extraction processes",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
     "flag": "wire"
   },
   {
-    "text": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+    "text": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
     "flag": "wire"
   },
   {
-    "text": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "text": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
     "source": "Wired",
-    "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
     "flag": "wire"
   },
   {
-    "text": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+    "text": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "flag": "wire"
+  },
+  {
+    "text": "The indie game community is in disarray over AI and Big Walk",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic has its own AI-powered office suite now",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+    "flag": "wire"
+  },
+  {
+    "text": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
     "source": "Wired",
-    "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+    "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+    "flag": "wire"
+  },
+  {
+    "text": "ChatGPT is getting verified AI ‘Business Agents’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "flag": "wire"
+  },
+  {
+    "text": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
     "flag": "wire"
   },
   {
@@ -30,45 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic reportedly plans to move forward with IPO plans",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "flag": "wire"
-  },
-  {
-    "text": "What could China get from Jensen Huang?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: empty AI climate claims, and an Nvidia investigation",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-    "flag": "wire"
-  },
-  {
-    "text": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+    "text": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
     "source": "Wired",
-    "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nancy Pelosi’s replacement is ready to regulate AI",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
     "flag": "wire"
   }
 ]
