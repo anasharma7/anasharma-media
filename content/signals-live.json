@@ -1,20 +1,8 @@
 [
   {
-    "text": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: empty AI climate claims, and an Nvidia investigation",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+    "text": "Here’s what Trump said he knew about Jensen Huang",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
     "flag": "wire"
   },
   {
@@ -24,33 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+    "text": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
     "source": "Wired",
-    "link": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+    "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
     "flag": "wire"
   },
   {
-    "text": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "text": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+    "flag": "wire"
+  },
+  {
+    "text": "The backlash about data centers might really just be about electricity",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "The race is on to sue Nvidia",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "flag": "wire"
-  },
-  {
-    "text": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
     "flag": "wire"
   },
   {
@@ -60,15 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+    "text": "Anthropic reportedly plans to move forward with IPO plans",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
     "flag": "wire"
   },
   {
-    "text": "The backlash about data centers might really just be about electricity",
+    "text": "What could China get from Jensen Huang?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: empty AI climate claims, and an Nvidia investigation",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+    "flag": "wire"
+  },
+  {
+    "text": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
     "flag": "wire"
   }
 ]
