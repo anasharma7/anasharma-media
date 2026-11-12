@@ -1,50 +1,20 @@
 [
   {
-    "text": "The unfolding Jensen Huang scandal: a timeline",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+    "text": "The Download: COP31’s climate challenge and the quest for immortality",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+    "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
     "flag": "wire"
   },
   {
-    "text": "United won’t let your AI agent book your flight",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+    "text": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
     "source": "Wired",
-    "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+    "link": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
     "flag": "wire"
   },
   {
-    "text": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: preserving minds and weighing open AI risks",
+    "text": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-    "flag": "wire"
-  },
-  {
-    "text": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
     "flag": "wire"
   },
   {
@@ -54,21 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "text": "The Jensen Huang scandal is hardly over",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
     "flag": "wire"
   },
   {
-    "text": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+    "text": "Jensen Huang was having a third affair, Reuters reports",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
     "source": "Wired",
-    "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+    "link": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
     "flag": "wire"
   },
   {
-    "text": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "text": "The unfolding Jensen Huang scandal: a timeline",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "flag": "wire"
+  },
+  {
+    "text": "Oh, Palantir is ‘progressive’ now, is it?",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang’s $470 Billion Affair",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+    "flag": "wire"
+  },
+  {
+    "text": "No, AI agents did not discover a previously unknown Maya site",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
     "flag": "wire"
   }
 ]
