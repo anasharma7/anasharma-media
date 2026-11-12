@@ -1,5 +1,11 @@
 [
   {
+    "text": "The unfolding Jensen Huang scandal: a timeline",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: Pelosi’s successor targets AI and data centers face power woes",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
@@ -12,39 +18,21 @@
     "flag": "wire"
   },
   {
-    "text": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia is reportedly preparing to fire Jensen Huang",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-    "flag": "wire"
-  },
-  {
-    "text": "A Startup Wants to Fight AI Bioweapons With AI",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
-    "flag": "wire"
-  },
-  {
-    "text": "The unfolding Jensen Huang scandal: a timeline",
+    "text": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
     "flag": "wire"
   },
   {
-    "text": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "flag": "wire"
-  },
-  {
-    "text": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+    "text": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
     "source": "Wired",
-    "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+    "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+    "flag": "wire"
+  },
+  {
+    "text": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
     "flag": "wire"
   },
   {
@@ -54,21 +42,33 @@
     "flag": "wire"
   },
   {
+    "text": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "flag": "wire"
+  },
+  {
     "text": "What to know about this year’s UN climate talks",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
     "flag": "wire"
   },
   {
-    "text": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "text": "Nvidia is reportedly preparing to fire Jensen Huang",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
     "flag": "wire"
   },
   {
-    "text": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "text": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
     "flag": "wire"
   }
 ]
