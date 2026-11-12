@@ -1,32 +1,26 @@
 [
   {
-    "text": "The Download: preserving minds and weighing open AI risks",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: Pelosi’s successor targets AI and data centers face power woes",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+    "flag": "wire"
+  },
+  {
+    "text": "United won’t let your AI agent book your flight",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "flag": "wire"
+  },
+  {
+    "text": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
     "flag": "wire"
   },
   {
@@ -36,9 +30,27 @@
     "flag": "wire"
   },
   {
-    "text": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+    "text": "The unfolding Jensen Huang scandal: a timeline",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "flag": "wire"
+  },
+  {
+    "text": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: preserving minds and weighing open AI risks",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
     "flag": "wire"
   },
   {
@@ -48,27 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "text": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-    "flag": "wire"
-  },
-  {
-    "text": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-    "flag": "wire"
-  },
-  {
-    "text": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-    "flag": "wire"
-  },
-  {
-    "text": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
     "flag": "wire"
   }
 ]
