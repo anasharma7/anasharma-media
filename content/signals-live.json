@@ -1,14 +1,14 @@
 [
   {
-    "text": "The Download: COP31’s climate challenge and the quest for immortality",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+    "text": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
     "flag": "wire"
   },
   {
-    "text": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+    "text": "The Download: COP31’s climate challenge and the quest for immortality",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
     "flag": "wire"
   },
   {
@@ -18,27 +18,33 @@
     "flag": "wire"
   },
   {
-    "text": "What to know about this year’s UN climate talks",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+    "text": "The unfolding Jensen Huang scandal: a timeline",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "flag": "wire"
   },
   {
-    "text": "The Jensen Huang scandal is hardly over",
+    "text": "Silicon Valley Is Still Defending Jensen Huang",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+    "flag": "wire"
+  },
+  {
+    "text": "Muse can now place calls to US businesses — if you pay",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "flag": "wire"
+  },
+  {
+    "text": "No, AI agents did not discover a previously unknown Maya site",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
     "flag": "wire"
   },
   {
-    "text": "Jensen Huang was having a third affair, Reuters reports",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "text": "Google’s new Gemini model is better at understanding complicated questions",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
     "flag": "wire"
   },
   {
@@ -48,9 +54,9 @@
     "flag": "wire"
   },
   {
-    "text": "The unfolding Jensen Huang scandal: a timeline",
+    "text": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
     "flag": "wire"
   },
   {
@@ -60,15 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "Jensen Huang’s $470 Billion Affair",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-    "flag": "wire"
-  },
-  {
-    "text": "No, AI agents did not discover a previously unknown Maya site",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+    "text": "What to know about this year’s UN climate talks",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
     "flag": "wire"
   }
 ]
