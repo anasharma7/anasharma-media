@@ -1,50 +1,26 @@
 [
   {
-    "text": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-    "flag": "wire"
-  },
-  {
     "text": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
     "source": "The Verge",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
     "flag": "wire"
   },
   {
-    "text": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "flag": "wire"
-  },
-  {
-    "text": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+    "text": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
     "source": "Wired",
-    "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+    "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
     "flag": "wire"
   },
   {
-    "text": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-    "flag": "wire"
-  },
-  {
-    "text": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "text": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
     "flag": "wire"
   },
   {
-    "text": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+    "text": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+    "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
     "flag": "wire"
   },
   {
@@ -54,9 +30,27 @@
     "flag": "wire"
   },
   {
+    "text": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+    "flag": "wire"
+  },
+  {
     "text": "AI agent startup LangChain hits $3B valuation",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon has a plan to index the world’s online shopping data",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "flag": "wire"
+  },
+  {
+    "text": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
     "flag": "wire"
   },
   {
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+    "text": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+    "flag": "wire"
+  },
+  {
+    "text": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
     "flag": "wire"
   }
 ]
