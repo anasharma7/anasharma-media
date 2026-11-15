@@ -1,26 +1,14 @@
 [
   {
-    "text": "An overview of Jensen Huang’s messy days",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-    "flag": "wire"
-  },
-  {
-    "text": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-    "flag": "wire"
-  },
-  {
-    "text": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "flag": "wire"
-  },
-  {
     "text": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
     "source": "The Verge",
     "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "flag": "wire"
+  },
+  {
+    "text": "An overview of Jensen Huang’s messy days",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
     "flag": "wire"
   },
   {
@@ -30,9 +18,15 @@
     "flag": "wire"
   },
   {
-    "text": "Beware the New AI-Fueled Ransomware Boom",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+    "text": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "flag": "wire"
+  },
+  {
+    "text": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
     "flag": "wire"
   },
   {
@@ -42,9 +36,9 @@
     "flag": "wire"
   },
   {
-    "text": "AI DJs Completely Kill My Groove",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+    "text": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
     "flag": "wire"
   },
   {
@@ -54,21 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "text": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+    "flag": "wire"
+  },
+  {
+    "text": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
     "flag": "wire"
   },
   {
-    "text": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+    "text": "AI DJs Completely Kill My Groove",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
     "flag": "wire"
   },
   {
-    "text": "Jensen Huang and the decline of the visionary showman founder CEO",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+    "text": "Beware the New AI-Fueled Ransomware Boom",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
     "flag": "wire"
   }
 ]
