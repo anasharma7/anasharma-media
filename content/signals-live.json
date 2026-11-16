@@ -1,50 +1,20 @@
 [
   {
-    "text": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "flag": "wire"
-  },
-  {
-    "text": "An overview of Jensen Huang’s messy days",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-    "flag": "wire"
-  },
-  {
-    "text": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-    "flag": "wire"
-  },
-  {
-    "text": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "text": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
     "flag": "wire"
   },
   {
-    "text": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-    "flag": "wire"
-  },
-  {
-    "text": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-    "flag": "wire"
-  },
-  {
-    "text": "Where was Nvidia’s security team?",
+    "text": "Apple launches new app to study how people use AI for health",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "flag": "wire"
+  },
+  {
+    "text": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
     "flag": "wire"
   },
   {
@@ -54,9 +24,15 @@
     "flag": "wire"
   },
   {
-    "text": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "text": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
     "flag": "wire"
   },
   {
@@ -66,9 +42,33 @@
     "flag": "wire"
   },
   {
+    "text": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+    "flag": "wire"
+  },
+  {
+    "text": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "flag": "wire"
+  },
+  {
+    "text": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+    "flag": "wire"
+  },
+  {
     "text": "Beware the New AI-Fueled Ransomware Boom",
     "source": "Wired",
     "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+    "flag": "wire"
+  },
+  {
+    "text": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
     "flag": "wire"
   }
 ]
