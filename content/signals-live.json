@@ -1,50 +1,14 @@
 [
   {
-    "text": "AI DJs Completely Kill My Groove",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-    "flag": "wire"
-  },
-  {
-    "text": "The open-source movement wants Jensen Huang back",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-    "flag": "wire"
-  },
-  {
     "text": "All the questions Nvidia should answer on Tuesday — but probably won’t",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
     "flag": "wire"
   },
   {
-    "text": "Building trustworthy AI by fencing it in, not predicting it",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-    "flag": "wire"
-  },
-  {
-    "text": "California state AG sues OpenAI over rogue agent incidents",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "flag": "wire"
-  },
-  {
-    "text": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "flag": "wire"
-  },
-  {
-    "text": "California sues OpenAI over rogue AI hacking incidents",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "text": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
     "flag": "wire"
   },
   {
@@ -54,21 +18,57 @@
     "flag": "wire"
   },
   {
+    "text": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+    "flag": "wire"
+  },
+  {
+    "text": "California state AG sues OpenAI over rogue agent incidents",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "flag": "wire"
+  },
+  {
+    "text": "The open-source movement wants Jensen Huang back",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "flag": "wire"
+  },
+  {
+    "text": "California sues OpenAI over rogue AI hacking incidents",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "flag": "wire"
+  },
+  {
     "text": "The Download: testing tech promises and searching for cognitive immortality",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
     "flag": "wire"
   },
   {
-    "text": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "text": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
     "source": "Wired",
-    "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+    "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
     "flag": "wire"
   },
   {
-    "text": "Jensen Huang Is Gone. Now What?",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "text": "Building trustworthy AI by fencing it in, not predicting it",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
     "flag": "wire"
   }
 ]
