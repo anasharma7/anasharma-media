@@ -1,20 +1,44 @@
 [
   {
-    "text": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "text": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
     "flag": "wire"
   },
   {
-    "text": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-    "flag": "wire"
-  },
-  {
-    "text": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "text": "Not even Sam Altman is safe from AI deepfakes on Instagram",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+    "flag": "wire"
+  },
+  {
+    "text": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+    "flag": "wire"
+  },
+  {
+    "text": "Hydropower hit record lows in the US Southwest this summer",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
     "flag": "wire"
   },
   {
@@ -24,51 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "California state AG sues OpenAI over rogue agent incidents",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "flag": "wire"
-  },
-  {
-    "text": "The open-source movement wants Jensen Huang back",
+    "text": "Research Reports",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
     "flag": "wire"
   },
   {
-    "text": "California sues OpenAI over rogue AI hacking incidents",
+    "text": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: testing tech promises and searching for cognitive immortality",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+    "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
     "flag": "wire"
   },
   {
     "text": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
     "source": "Wired",
     "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
-    "flag": "wire"
-  },
-  {
-    "text": "Building trustworthy AI by fencing it in, not predicting it",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "flag": "wire"
-  },
-  {
-    "text": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "flag": "wire"
-  },
-  {
-    "text": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
     "flag": "wire"
   }
 ]
