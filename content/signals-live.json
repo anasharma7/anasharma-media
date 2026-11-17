@@ -1,38 +1,56 @@
 [
   {
-    "text": "Google Maps can now create trip itineraries for you",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI will embed Apollo researchers to investigate AI subversion",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-    "flag": "wire"
-  },
-  {
     "text": "AI DJs Completely Kill My Groove",
     "source": "Wired",
     "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
     "flag": "wire"
   },
   {
-    "text": "The Nvidia scandal isn’t slowing down",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+    "text": "The open-source movement wants Jensen Huang back",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
     "flag": "wire"
   },
   {
-    "text": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+    "text": "All the questions Nvidia should answer on Tuesday — but probably won’t",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
     "flag": "wire"
   },
   {
-    "text": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+    "text": "Building trustworthy AI by fencing it in, not predicting it",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "flag": "wire"
+  },
+  {
+    "text": "California state AG sues OpenAI over rogue agent incidents",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "flag": "wire"
+  },
+  {
+    "text": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "flag": "wire"
+  },
+  {
+    "text": "California sues OpenAI over rogue AI hacking incidents",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "flag": "wire"
+  },
+  {
+    "text": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
     "flag": "wire"
   },
   {
@@ -42,33 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Jensen Huang Is Gone. Now What?",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-    "flag": "wire"
-  },
-  {
     "text": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
     "source": "Wired",
     "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
     "flag": "wire"
   },
   {
-    "text": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-    "flag": "wire"
-  },
-  {
-    "text": "Building AI that can work across the enterprise",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-    "flag": "wire"
-  },
-  {
-    "text": "Building trustworthy AI by fencing it in, not predicting it",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "text": "Jensen Huang Is Gone. Now What?",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
     "flag": "wire"
   }
 ]
