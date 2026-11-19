@@ -1,32 +1,32 @@
 [
   {
-    "text": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+    "text": "Meta’s Muse Charm might cost $300",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+    "flag": "wire"
+  },
+  {
+    "text": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
     "source": "Wired",
-    "link": "https://www.wired.com/story/guys-really-we-got-this/",
+    "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
     "flag": "wire"
   },
   {
-    "text": "What a billion-dollar deal says about the US battery market",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-    "flag": "wire"
-  },
-  {
-    "text": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+    "text": "What’s With All These Outages?",
     "source": "Wired",
-    "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
     "flag": "wire"
   },
   {
-    "text": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-    "flag": "wire"
-  },
-  {
-    "text": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "text": "These tech outages are giving Y2K, AI agent style",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "flag": "wire"
+  },
+  {
+    "text": "The unfolding Jensen Huang scandal: a timeline",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "flag": "wire"
   },
   {
@@ -36,39 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "The nation’s largest school districts consider ditching Google Search",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-    "flag": "wire"
-  },
-  {
-    "text": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "flag": "wire"
-  },
-  {
-    "text": "The AI Hype Index: AI is everywhere",
+    "text": "What a billion-dollar deal says about the US battery market",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
     "flag": "wire"
   },
   {
-    "text": "Trump’s latest land grab is an AI hub in the Philippines",
+    "text": "Apple is hiring engineers to build its own AI agent",
     "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+    "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "flag": "wire"
   },
   {
-    "text": "Nvidia’s rise, visualized",
+    "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "flag": "wire"
+  },
+  {
+    "text": "A brief history of Nvidia’s recent stock fluctuations",
     "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
     "flag": "wire"
   },
   {
-    "text": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "text": "Meta’s new Muse Charm device may cost $300",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
     "flag": "wire"
   }
 ]
