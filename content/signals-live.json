@@ -1,14 +1,14 @@
 [
   {
-    "text": "Nvidia’s rise, visualized",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+    "text": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/guys-really-we-got-this/",
     "flag": "wire"
   },
   {
-    "text": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "text": "What a billion-dollar deal says about the US battery market",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
     "flag": "wire"
   },
   {
@@ -18,27 +18,21 @@
     "flag": "wire"
   },
   {
-    "text": "This smell startup says its AI nose is as good as a human’s",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-    "flag": "wire"
-  },
-  {
-    "text": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "flag": "wire"
-  },
-  {
-    "text": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "flag": "wire"
-  },
-  {
-    "text": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+    "text": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
     "source": "Wired",
-    "link": "https://www.wired.com/story/guys-really-we-got-this/",
+    "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "flag": "wire"
+  },
+  {
+    "text": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "flag": "wire"
+  },
+  {
+    "text": "A human liver has been kept alive outside the body for a record seven weeks",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
     "flag": "wire"
   },
   {
@@ -48,15 +42,15 @@
     "flag": "wire"
   },
   {
-    "text": "The AI Hype Index: AI is everywhere",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "text": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
     "flag": "wire"
   },
   {
-    "text": "The Download: AI learns to smell and hydropower struggles",
+    "text": "The AI Hype Index: AI is everywhere",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+    "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
     "flag": "wire"
   },
   {
@@ -66,9 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+    "text": "Nvidia’s rise, visualized",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+    "flag": "wire"
+  },
+  {
+    "text": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
     "flag": "wire"
   }
 ]
