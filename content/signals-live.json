@@ -1,38 +1,14 @@
 [
   {
-    "text": "Meta’s Muse Charm might cost $300",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-    "flag": "wire"
-  },
-  {
-    "text": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
-    "flag": "wire"
-  },
-  {
-    "text": "What’s With All These Outages?",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-    "flag": "wire"
-  },
-  {
-    "text": "These tech outages are giving Y2K, AI agent style",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-    "flag": "wire"
-  },
-  {
-    "text": "The unfolding Jensen Huang scandal: a timeline",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "flag": "wire"
-  },
-  {
     "text": "A human liver has been kept alive outside the body for a record seven weeks",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta’s Muse Charm might cost $300",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
     "flag": "wire"
   },
   {
@@ -42,21 +18,27 @@
     "flag": "wire"
   },
   {
+    "text": "Apple may be developing its own AI agent that runs your Mac",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "flag": "wire"
+  },
+  {
     "text": "Apple is hiring engineers to build its own AI agent",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "flag": "wire"
   },
   {
-    "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-    "flag": "wire"
-  },
-  {
-    "text": "A brief history of Nvidia’s recent stock fluctuations",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "text": "What’s With All These Outages?",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
     "flag": "wire"
   },
   {
@@ -69,6 +51,24 @@
     "text": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
     "source": "Wired",
     "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+    "flag": "wire"
+  },
+  {
+    "text": "A brief history of Nvidia’s recent stock fluctuations",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
     "flag": "wire"
   }
 ]
