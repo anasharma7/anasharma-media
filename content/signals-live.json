@@ -1,32 +1,14 @@
 [
   {
+    "text": "The Download: inside the quest to make our minds immortal",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+    "flag": "wire"
+  },
+  {
     "text": "A human liver has been kept alive outside the body for a record seven weeks",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta’s Muse Charm might cost $300",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-    "flag": "wire"
-  },
-  {
-    "text": "What a billion-dollar deal says about the US battery market",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-    "flag": "wire"
-  },
-  {
-    "text": "Apple may be developing its own AI agent that runs your Mac",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
     "flag": "wire"
   },
   {
@@ -36,21 +18,45 @@
     "flag": "wire"
   },
   {
-    "text": "What’s With All These Outages?",
+    "text": "Muse Is Unleashing a World of Pettiness on Instagram",
     "source": "Wired",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+    "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
     "flag": "wire"
   },
   {
-    "text": "Meta’s new Muse Charm device may cost $300",
+    "text": "Regular Tech Bros Are Worried About Honeypots",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+    "flag": "wire"
+  },
+  {
+    "text": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+    "flag": "wire"
+  },
+  {
+    "text": "Six AI-powered gadgets that could make your home office smarter",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
     "flag": "wire"
   },
   {
-    "text": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+    "text": "The fallout from Nvidia’s Jensen Huang scandal continues",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+    "flag": "wire"
+  },
+  {
+    "text": "The week everything fell apart",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+    "flag": "wire"
+  },
+  {
+    "text": "Apple may be developing its own AI agent that runs your Mac",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
     "flag": "wire"
   },
   {
@@ -60,15 +66,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
-    "flag": "wire"
-  },
-  {
-    "text": "A brief history of Nvidia’s recent stock fluctuations",
+    "text": "Signal is blocking Gemini and Siri AI from reading your screen",
     "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
     "flag": "wire"
   }
 ]
