@@ -1,50 +1,8 @@
 [
   {
-    "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-    "flag": "wire"
-  },
-  {
-    "text": "Muse Is Unleashing a World of Pettiness on Instagram",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-    "flag": "wire"
-  },
-  {
-    "text": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-    "flag": "wire"
-  },
-  {
     "text": "The most misunderstood graph in AI just got a major update",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-    "flag": "wire"
-  },
-  {
-    "text": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: inside the quest to make our minds immortal",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
     "flag": "wire"
   },
   {
@@ -54,9 +12,15 @@
     "flag": "wire"
   },
   {
-    "text": "Chips can survive the space environment — can their financing?",
+    "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "flag": "wire"
+  },
+  {
+    "text": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
     "flag": "wire"
   },
   {
@@ -66,9 +30,45 @@
     "flag": "wire"
   },
   {
+    "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "flag": "wire"
+  },
+  {
+    "text": "Muse Is Unleashing a World of Pettiness on Instagram",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: inside the quest to make our minds immortal",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+    "flag": "wire"
+  },
+  {
+    "text": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "flag": "wire"
+  },
+  {
     "text": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
     "source": "Wired",
     "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "flag": "wire"
+  },
+  {
+    "text": "Chips can survive the space environment — can their financing?",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
     "flag": "wire"
   }
 ]
