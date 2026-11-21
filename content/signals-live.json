@@ -1,56 +1,20 @@
 [
   {
-    "text": "The most misunderstood graph in AI just got a major update",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-    "flag": "wire"
-  },
-  {
-    "text": "The week everything fell apart",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-    "flag": "wire"
-  },
-  {
-    "text": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "flag": "wire"
-  },
-  {
     "text": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
     "source": "Wired",
     "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
     "flag": "wire"
   },
   {
-    "text": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-    "flag": "wire"
-  },
-  {
-    "text": "Muse Is Unleashing a World of Pettiness on Instagram",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: inside the quest to make our minds immortal",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-    "flag": "wire"
-  },
-  {
-    "text": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "text": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Outages Are Just Getting Started",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
     "flag": "wire"
   },
   {
@@ -60,15 +24,51 @@
     "flag": "wire"
   },
   {
+    "text": "Here are the top AI agents that can live in your text messages",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "flag": "wire"
+  },
+  {
+    "text": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "flag": "wire"
+  },
+  {
+    "text": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "flag": "wire"
+  },
+  {
     "text": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
     "source": "The Verge",
     "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
     "flag": "wire"
   },
   {
-    "text": "Chips can survive the space environment — can their financing?",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "text": "The most misunderstood graph in AI just got a major update",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "flag": "wire"
+  },
+  {
+    "text": "Can Anthropic afford to put safety first?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: inside the quest to make our minds immortal",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
     "flag": "wire"
   }
 ]
