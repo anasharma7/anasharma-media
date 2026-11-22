@@ -1,26 +1,8 @@
 [
   {
-    "text": "A tale of two Nvidias",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-    "flag": "wire"
-  },
-  {
-    "text": "Here are the top AI agents that can live in your text messages",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: inside the quest to make our minds immortal",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-    "flag": "wire"
-  },
-  {
-    "text": "Can Anthropic afford to put safety first?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
     "flag": "wire"
   },
   {
@@ -30,27 +12,21 @@
     "flag": "wire"
   },
   {
-    "text": "The UN fails to agree on rules regulating ‘killer robots’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-    "flag": "wire"
-  },
-  {
-    "text": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
     "flag": "wire"
   },
   {
-    "text": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+    "text": "Banks Have Had It Up to Here With Your AI Agent",
     "source": "Wired",
-    "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+    "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "The most misunderstood graph in AI just got a major update",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
     "flag": "wire"
   },
   {
@@ -60,15 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "text": "A tale of two Nvidias",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
     "flag": "wire"
   },
   {
-    "text": "The most misunderstood graph in AI just got a major update",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "text": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "flag": "wire"
+  },
+  {
+    "text": "The UN fails to agree on rules regulating ‘killer robots’",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "flag": "wire"
+  },
+  {
+    "text": "Can Anthropic afford to put safety first?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "flag": "wire"
+  },
+  {
+    "text": "The vibe-coding revolution is coming to all the gadgets",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "flag": "wire"
+  },
+  {
+    "text": "Here are the top AI agents that can live in your text messages",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "flag": "wire"
   }
 ]
