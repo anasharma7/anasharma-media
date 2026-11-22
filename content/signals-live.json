@@ -1,50 +1,8 @@
 [
   {
-    "text": "The Download: inside the quest to make our minds immortal",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-    "flag": "wire"
-  },
-  {
     "text": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
     "source": "Wired",
     "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-    "flag": "wire"
-  },
-  {
-    "text": "Banks Have Had It Up to Here With Your AI Agent",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "The most misunderstood graph in AI just got a major update",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Outages Are Just Getting Started",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-    "flag": "wire"
-  },
-  {
-    "text": "A tale of two Nvidias",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-    "flag": "wire"
-  },
-  {
-    "text": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
     "flag": "wire"
   },
   {
@@ -54,9 +12,39 @@
     "flag": "wire"
   },
   {
-    "text": "Can Anthropic afford to put safety first?",
+    "text": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Outages Are Just Getting Started",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+    "flag": "wire"
+  },
+  {
+    "text": "Binding of Isaac developer removes AI music from Repentance Plus",
     "source": "The Verge",
-    "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "flag": "wire"
+  },
+  {
+    "text": "Banks Have Had It Up to Here With Your AI Agent",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: inside the quest to make our minds immortal",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
     "flag": "wire"
   },
   {
@@ -66,9 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "Here are the top AI agents that can live in your text messages",
+    "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "flag": "wire"
+  },
+  {
+    "text": "The most misunderstood graph in AI just got a major update",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "flag": "wire"
+  },
+  {
+    "text": "Why data centers are at the center of the Big Tech backlash",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
     "flag": "wire"
   }
 ]
