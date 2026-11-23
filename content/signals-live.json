@@ -1,38 +1,14 @@
 [
   {
-    "text": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-    "flag": "wire"
-  },
-  {
-    "text": "The UN fails to agree on rules regulating ‘killer robots’",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-    "flag": "wire"
-  },
-  {
-    "text": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-    "flag": "wire"
-  },
-  {
     "text": "The Outages Are Just Getting Started",
     "source": "Wired",
     "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
     "flag": "wire"
   },
   {
-    "text": "Binding of Isaac developer removes AI music from Repentance Plus",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "text": "Why data centers are at the center of the Big Tech backlash",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
     "flag": "wire"
   },
   {
@@ -42,15 +18,9 @@
     "flag": "wire"
   },
   {
-    "text": "The Download: inside the quest to make our minds immortal",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-    "flag": "wire"
-  },
-  {
-    "text": "The vibe-coding revolution is coming to all the gadgets",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "text": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
     "flag": "wire"
   },
   {
@@ -60,15 +30,45 @@
     "flag": "wire"
   },
   {
-    "text": "The most misunderstood graph in AI just got a major update",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "text": "The vibe-coding revolution is coming to all the gadgets",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
     "flag": "wire"
   },
   {
-    "text": "Why data centers are at the center of the Big Tech backlash",
+    "text": "The Download: inside the quest to make our minds immortal",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+    "flag": "wire"
+  },
+  {
+    "text": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "flag": "wire"
+  },
+  {
+    "text": "We haven’t seen the last of the major tech outages",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "flag": "wire"
+  },
+  {
+    "text": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "flag": "wire"
+  },
+  {
+    "text": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+    "flag": "wire"
+  },
+  {
+    "text": "The most misunderstood graph in AI just got a major update",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
     "flag": "wire"
   }
 ]
