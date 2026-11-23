@@ -1,74 +1,74 @@
 [
   {
-    "text": "The Outages Are Just Getting Started",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-    "flag": "wire"
-  },
-  {
-    "text": "Why data centers are at the center of the Big Tech backlash",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-    "flag": "wire"
-  },
-  {
-    "text": "Banks Have Had It Up to Here With Your AI Agent",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-    "flag": "wire"
-  },
-  {
-    "text": "The vibe-coding revolution is coming to all the gadgets",
+    "text": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
     "source": "The Verge",
-    "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
     "flag": "wire"
   },
   {
-    "text": "The Download: inside the quest to make our minds immortal",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-    "flag": "wire"
-  },
-  {
-    "text": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "text": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
     "source": "The Verge",
-    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
     "flag": "wire"
   },
   {
-    "text": "We haven’t seen the last of the major tech outages",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-    "flag": "wire"
-  },
-  {
-    "text": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "text": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
     "flag": "wire"
   },
   {
-    "text": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-    "flag": "wire"
-  },
-  {
-    "text": "The most misunderstood graph in AI just got a major update",
+    "text": "The Download: AI’s judgment problem and carbon removal’s crop threat",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+    "flag": "wire"
+  },
+  {
+    "text": "Why using rocks for carbon removal could eventually reduce crop growth",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+    "flag": "wire"
+  },
+  {
+    "text": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "flag": "wire"
+  },
+  {
+    "text": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang Is Back as Nvidia CEO",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+    "flag": "wire"
+  },
+  {
+    "text": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia Is Powering Brain-Computer Interfaces Now",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
     "flag": "wire"
   }
 ]
