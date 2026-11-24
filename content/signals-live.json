@@ -1,56 +1,20 @@
 [
   {
-    "text": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-    "flag": "wire"
-  },
-  {
-    "text": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-    "flag": "wire"
-  },
-  {
-    "text": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "text": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
     "flag": "wire"
   },
   {
-    "text": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "text": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
     "flag": "wire"
   },
   {
-    "text": "Why using rocks for carbon removal could eventually reduce crop growth",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-    "flag": "wire"
-  },
-  {
-    "text": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+    "text": "Nvidia Is Powering Brain-Computer Interfaces Now",
     "source": "Wired",
-    "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+    "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
     "flag": "wire"
   },
   {
@@ -60,15 +24,51 @@
     "flag": "wire"
   },
   {
-    "text": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+    "text": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
     "flag": "wire"
   },
   {
-    "text": "Nvidia Is Powering Brain-Computer Interfaces Now",
+    "text": "Why using rocks for carbon removal could eventually reduce crop growth",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+    "flag": "wire"
+  },
+  {
+    "text": "Trump engineered a risky comeback for Jensen Huang",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+    "flag": "wire"
+  },
+  {
+    "text": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "flag": "wire"
+  },
+  {
+    "text": "Welcome to elite impunity, Jensen Huang",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia CEO Jensen Huang is back. What happens next?",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
     "source": "Wired",
-    "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+    "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
     "flag": "wire"
   }
 ]
