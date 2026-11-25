@@ -1,44 +1,20 @@
 [
   {
+    "text": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "flag": "wire"
+  },
+  {
     "text": "Raising the stakes for enterprise networks with AI modernization",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
     "flag": "wire"
   },
   {
-    "text": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+    "text": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
     "source": "Wired",
-    "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
-    "flag": "wire"
-  },
-  {
-    "text": "Tidal will start banning AI-generated music next month",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang deepfakes are the hot new AI slop",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-    "flag": "wire"
-  },
-  {
-    "text": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-    "flag": "wire"
-  },
-  {
-    "text": "Data centers are getting their own natural gas power plants",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+    "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
     "flag": "wire"
   },
   {
@@ -48,15 +24,9 @@
     "flag": "wire"
   },
   {
-    "text": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta brings its Muse AI assistant directly into Instagram DMs",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "text": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
     "flag": "wire"
   },
   {
@@ -66,9 +36,39 @@
     "flag": "wire"
   },
   {
-    "text": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "text": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "flag": "wire"
+  },
+  {
+    "text": "Data centers are getting their own natural gas power plants",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+    "flag": "wire"
+  },
+  {
+    "text": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+    "flag": "wire"
+  },
+  {
+    "text": "Tidal will start banning AI-generated music next month",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+    "flag": "wire"
+  },
+  {
+    "text": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
     "flag": "wire"
   }
 ]
