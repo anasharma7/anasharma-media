@@ -1,8 +1,50 @@
 [
   {
-    "text": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "text": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+    "flag": "wire"
+  },
+  {
+    "text": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "flag": "wire"
+  },
+  {
+    "text": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "flag": "wire"
+  },
+  {
+    "text": "How data centers are driving a US natural-gas boom",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nothing offers a full look at its AI earbuds and charging case",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+    "flag": "wire"
+  },
+  {
+    "text": "AI is straining America’s open records systems",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
     "flag": "wire"
   },
   {
@@ -18,57 +60,15 @@
     "flag": "wire"
   },
   {
-    "text": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-    "flag": "wire"
-  },
-  {
     "text": "The Download: AI swamping open records, and firefighting for permafrost",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
     "flag": "wire"
   },
   {
-    "text": "AI is straining America’s open records systems",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-    "flag": "wire"
-  },
-  {
-    "text": "David Fincher is being dragged for suspected use of AI in his latest film",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-    "flag": "wire"
-  },
-  {
-    "text": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+    "text": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
     "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-    "flag": "wire"
-  },
-  {
-    "text": "Has vibe coding made open source the new normal for synths?",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI’s gas power boom and a consciousness reality check",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
     "flag": "wire"
   }
 ]
