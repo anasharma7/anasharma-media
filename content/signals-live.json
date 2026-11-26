@@ -1,8 +1,8 @@
 [
   {
-    "text": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "text": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
     "flag": "wire"
   },
   {
@@ -12,15 +12,27 @@
     "flag": "wire"
   },
   {
-    "text": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "text": "The Download: AI swamping open records, and firefighting for permafrost",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
     "flag": "wire"
   },
   {
-    "text": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "text": "Nothing offers a full look at its AI earbuds and charging case",
     "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+    "flag": "wire"
+  },
+  {
+    "text": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+    "flag": "wire"
+  },
+  {
+    "text": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
     "flag": "wire"
   },
   {
@@ -36,39 +48,27 @@
     "flag": "wire"
   },
   {
-    "text": "Nothing offers a full look at its AI earbuds and charging case",
+    "text": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
     "source": "The Verge",
-    "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-    "flag": "wire"
-  },
-  {
-    "text": "AI is straining America’s open records systems",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-    "flag": "wire"
-  },
-  {
-    "text": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
-    "flag": "wire"
-  },
-  {
-    "text": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: AI swamping open records, and firefighting for permafrost",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
     "flag": "wire"
   },
   {
     "text": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "flag": "wire"
+  },
+  {
+    "text": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "flag": "wire"
+  },
+  {
+    "text": "AI is straining America’s open records systems",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
     "flag": "wire"
   }
 ]
