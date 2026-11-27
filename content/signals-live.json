@@ -1,38 +1,14 @@
 [
   {
-    "text": "The Download: Better bionic hands and AI’s natural-gas boom",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
-    "flag": "wire"
-  },
-  {
-    "text": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-    "flag": "wire"
-  },
-  {
-    "text": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-    "flag": "wire"
-  },
-  {
-    "text": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-    "flag": "wire"
-  },
-  {
     "text": "The next generation of bionic hands is here—and they can feel",
     "source": "MIT Technology Review",
     "link": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
     "flag": "wire"
   },
   {
-    "text": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "text": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
     "flag": "wire"
   },
   {
@@ -42,15 +18,33 @@
     "flag": "wire"
   },
   {
-    "text": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+    "text": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
     "flag": "wire"
   },
   {
-    "text": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "text": "The Download: Better bionic hands and AI’s natural-gas boom",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+    "flag": "wire"
+  },
+  {
+    "text": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "flag": "wire"
+  },
+  {
+    "text": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "flag": "wire"
+  },
+  {
+    "text": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
     "flag": "wire"
   },
   {
@@ -60,15 +54,21 @@
     "flag": "wire"
   },
   {
-    "text": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-    "flag": "wire"
-  },
-  {
     "text": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
     "source": "Wired",
     "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
     "flag": "wire"
   }
 ]
