@@ -1,32 +1,8 @@
 [
   {
-    "text": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
-    "flag": "wire"
-  },
-  {
-    "text": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
-    "flag": "wire"
-  },
-  {
-    "text": "Our 2027 Innovators Under 35 competition is now open",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
-    "flag": "wire"
-  },
-  {
-    "text": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-    "flag": "wire"
-  },
-  {
-    "text": "How cutting-edge prosthetics can help probe the human mind",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+    "text": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
     "flag": "wire"
   },
   {
@@ -36,15 +12,9 @@
     "flag": "wire"
   },
   {
-    "text": "Android’s DIY widgets are a bit of vibe-coding fun",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
-    "flag": "wire"
-  },
-  {
-    "text": "A New Breed of Chip Runs AI Models Using Waves of Light",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+    "text": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
     "flag": "wire"
   },
   {
@@ -54,21 +24,51 @@
     "flag": "wire"
   },
   {
+    "text": "Our 2027 Innovators Under 35 competition is now open",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+    "flag": "wire"
+  },
+  {
+    "text": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+    "flag": "wire"
+  },
+  {
+    "text": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+    "flag": "wire"
+  },
+  {
     "text": "Nvidia hits pause on chip shipments to Southeast Asia",
     "source": "TechCrunch",
     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
     "flag": "wire"
   },
   {
-    "text": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "text": "A New Breed of Chip Runs AI Models Using Waves of Light",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
     "flag": "wire"
   },
   {
-    "text": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "text": "How cutting-edge prosthetics can help probe the human mind",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+    "flag": "wire"
+  },
+  {
+    "text": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+    "flag": "wire"
+  },
+  {
+    "text": "Android’s DIY widgets are a bit of vibe-coding fun",
     "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
     "flag": "wire"
   }
 ]
