@@ -1,50 +1,14 @@
 [
   {
-    "text": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-    "flag": "wire"
-  },
-  {
-    "text": "How cutting-edge prosthetics can help probe the human mind",
+    "text": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
     "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
-    "flag": "wire"
-  },
-  {
-    "text": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-    "source": "The Verge",
-    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
     "flag": "wire"
   },
   {
     "text": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
     "source": "Wired",
     "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
-    "flag": "wire"
-  },
-  {
-    "text": "Nvidia hits pause on chip shipments to Southeast Asia",
-    "source": "TechCrunch",
-    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-    "flag": "wire"
-  },
-  {
-    "text": "A New Breed of Chip Runs AI Models Using Waves of Light",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
-    "flag": "wire"
-  },
-  {
-    "text": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-    "source": "Wired",
-    "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
-    "flag": "wire"
-  },
-  {
-    "text": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
-    "source": "MIT Technology Review",
-    "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
     "flag": "wire"
   },
   {
@@ -60,6 +24,12 @@
     "flag": "wire"
   },
   {
+    "text": "How cutting-edge prosthetics can help probe the human mind",
+    "source": "MIT Technology Review",
+    "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+    "flag": "wire"
+  },
+  {
     "text": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
     "source": "The Verge",
     "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
@@ -69,6 +39,36 @@
     "text": "Android’s DIY widgets are a bit of vibe-coding fun",
     "source": "The Verge",
     "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "flag": "wire"
+  },
+  {
+    "text": "A New Breed of Chip Runs AI Models Using Waves of Light",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+    "flag": "wire"
+  },
+  {
+    "text": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+    "source": "Wired",
+    "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+    "flag": "wire"
+  },
+  {
+    "text": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "flag": "wire"
+  },
+  {
+    "text": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "flag": "wire"
+  },
+  {
+    "text": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "source": "The Verge",
+    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
     "flag": "wire"
   }
 ]
